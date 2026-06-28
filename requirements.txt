@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-requests>=2.31.0
-=======
 pandas
-requests
+requests>=2.31.0
 streamlit
->>>>>>> Stashed changes
