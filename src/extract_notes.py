@@ -59,7 +59,7 @@ def _detect_format(text: str) -> str:
         return "soap"
     if "also eval" in text.lower() or text.lower().count("measures") > 1 or text.lower().count("meas") > 1:
         return "multi_wound"
-    return "prose"
+    return "prose" # prose cases need further investigation
 
 
 def _find_wound_blocks(text: str) -> list[dict]:
@@ -206,4 +206,5 @@ def extract_from_note(note_text: str) -> dict:
         "note_format": note_format,
         "is_multi_wound": is_multi,
         "confidence": round(max(confidence, 0.0), 2),
+        "raw_note_text":note_text
     }

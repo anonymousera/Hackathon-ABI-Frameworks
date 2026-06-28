@@ -74,6 +74,7 @@ def extract_from_assessment(raw_json: str | None, status: str | None) -> dict:
         "width_cm": to_float("width (cm)"),
         "depth_cm": to_float("depth (cm)"),
         "drainage_amount": drainage,
+        "raw_assessment":raw_json
     }
 
     fields_present = sum(1 for v in fields.values() if v is not None)

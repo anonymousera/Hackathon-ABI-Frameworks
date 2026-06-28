@@ -159,6 +159,8 @@ def build_eligibility_table(tables: dict) -> pd.DataFrame:
             "source": extraction.get("source"),
             "confidence": extraction.get("confidence"),
             "processed_at": datetime.utcnow().isoformat(),
+            "raw_note":extraction.get("raw_note_text"),
+            "raw_assessment":extraction.get("raw_assessment")
         })
 
     return pd.DataFrame(rows)
