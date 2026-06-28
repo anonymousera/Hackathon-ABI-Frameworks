@@ -17,13 +17,13 @@ def main():
     parser = argparse.ArgumentParser(description="Run the wound care billing eligibility pipeline.")
     parser.add_argument(
         "--skip-ingest", action="store_true",
-        help="Reuse the existing hackathon.db instead of re-running database1.py against the live API",
+        help="Reuse the existing hackathon.db instead of re-running database.py against the live API",
     )
     args = parser.parse_args()
 
     if not args.skip_ingest:
         print(f"Ingesting from the PCC API via {DATABASE_SCRIPT}...")
-        # cwd=ROOT_DIR so database1.py's relative "hackathon.db" lands where src.config expects it
+        # cwd=ROOT_DIR so database.py's relative "hackathon.db" lands where src.config expects it
         subprocess.run([sys.executable, str(DATABASE_SCRIPT)], cwd=ROOT_DIR, check=True)
 
     print("Loading tables for extraction...")
