@@ -5,7 +5,7 @@ import sys
 from pathlib import Path
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
-DATABASE1_SCRIPT = ROOT_DIR / "src" / "database1.py"
+DATABASE_SCRIPT = ROOT_DIR / "src" / "database.py"
 sys.path.insert(0, str(ROOT_DIR))
 
 from src.config import OUTPUT_CSV
@@ -22,9 +22,9 @@ def main():
     args = parser.parse_args()
 
     if not args.skip_ingest:
-        print(f"Ingesting from the PCC API via {DATABASE1_SCRIPT}...")
+        print(f"Ingesting from the PCC API via {DATABASE_SCRIPT}...")
         # cwd=ROOT_DIR so database1.py's relative "hackathon.db" lands where src.config expects it
-        subprocess.run([sys.executable, str(DATABASE1_SCRIPT)], cwd=ROOT_DIR, check=True)
+        subprocess.run([sys.executable, str(DATABASE_SCRIPT)], cwd=ROOT_DIR, check=True)
 
     print("Loading tables for extraction...")
     tables = load_tables()
