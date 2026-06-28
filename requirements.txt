@@ -1,1 +1,7 @@
+<<<<<<< Updated upstream
 requests>=2.31.0
+=======
+pandas
+requests
+streamlit
+>>>>>>> Stashed changes
