@@ -5,8 +5,6 @@ prose with multiple wounds.
 """
 import re
 
-from src.extract_llm import extract_with_llm
-
 WOUND_TYPE_PATTERN = (
     r"(Pressure Ulcer|Diabetic Foot Ulcer|Venous Stasis Ulcer|Venous Ulcer|"
     r"Arterial Ulcer|Arterial|Surgical Site Infection|Abscess|Burn)"
@@ -162,7 +160,6 @@ def _find_drainage(text: str) -> str | None:
         return _normalize_drainage(m.group(1))
     return None
 
-
 def extract_from_note(note_text: str) -> dict:
     """Return the best single wound record extracted from one note's text."""
     text = note_text or ""
@@ -170,7 +167,7 @@ def extract_from_note(note_text: str) -> dict:
     blocks = _find_wound_blocks(text)
 
     if not blocks:
-        return extract_with_llm(text) or {
+        return {
             "wound_type": None, "wound_stage": None, "location": None,
             "length_cm": None, "width_cm": None, "depth_cm": None,
             "drainage_amount": None, "note_format": note_format,
@@ -196,18 +193,6 @@ def extract_from_note(note_text: str) -> dict:
         confidence -= 0.15
     if is_multi:
         confidence -= 0.1
-
-    # Regex parse is unreliable (too few fields) — try the LLM and keep whichever
-    # extraction recovered more fields.
-    if fields_present < 4 and not is_multi:
-        llm_result = extract_with_llm(text)
-        if llm_result:
-            llm_fields = sum(
-                1 for k in ("wound_type", "location", "length_cm", "width_cm", "depth_cm", "drainage_amount")
-                if llm_result.get(k) is not None
-            )
-            if llm_fields > fields_present:
-                return llm_result
 
     return {
         "wound_type": primary.get("wound_type"),

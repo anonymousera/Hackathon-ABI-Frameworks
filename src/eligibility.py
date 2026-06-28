@@ -5,9 +5,49 @@ import pandas as pd
 
 from src.config import CONFIDENCE_AUTO_ACCEPT_MIN, MCB_PAYER_CODE, WOUND_ICD10_PREFIXES
 from src.extract_assessment import extract_from_assessment
+from src.extract_llm import extract_with_llm
 from src.extract_notes import extract_from_note
 
 REQUIRED_FIELDS = ("wound_type", "length_cm", "width_cm", "depth_cm", "drainage_amount")
+
+
+def _current_notes(notes_rows: pd.DataFrame) -> pd.DataFrame:
+    if "is_current" in notes_rows:
+        current = notes_rows[notes_rows["is_current"] == True]
+        if not current.empty:
+            return current
+    return notes_rows
+
+
+def enrich_with_llm(extraction: dict, notes_rows: pd.DataFrame) -> dict:
+    """Fill missing required fields by parsing the patient's notes with the LLM.
+
+    Only the fields the regex/assessment parsers left empty are taken from the
+    LLM result; values already extracted are kept.
+    """
+    missing = [f for f in REQUIRED_FIELDS if extraction.get(f) is None]
+    if not missing:
+        return extraction
+
+    note_text = "\n\n".join(
+        str(t) for t in _current_notes(notes_rows).get("note_text", []) if str(t).strip()
+    )
+    llm_result = extract_with_llm(note_text)
+    if not llm_result:
+        return extraction
+
+    filled = []
+    for field in missing:
+        if llm_result.get(field) is not None:
+            extraction[field] = llm_result[field]
+            filled.append(field)
+    if filled:
+        # wound_stage often accompanies the wound_type the LLM recovered
+        if extraction.get("wound_stage") is None and llm_result.get("wound_stage") is not None:
+            extraction["wound_stage"] = llm_result["wound_stage"]
+        extraction["llm_filled_fields"] = filled
+        extraction["source"] = f"{extraction.get('source', 'none')}+llm"
+    return extraction
 
 
 def has_active_mcb(coverage_rows: pd.DataFrame) -> bool:
@@ -112,6 +152,14 @@ def route_patient(extraction: dict, mcb_active: bool, wound_dx_active: bool) -> 
             "Confirm the primary billable wound before submitting."
         )
 
+    llm_filled = extraction.get("llm_filled_fields")
+    if llm_filled:
+        return "flag_for_review", (
+            "Medicare Part B active. Missing field(s) "
+            f"({', '.join(llm_filled)}) were recovered from the notes by the LLM parser — "
+            "verify these values before submitting."
+        )
+
     return "flag_for_review", (
         "Medicare Part B active but extraction confidence is low (source: "
         f"{source}, confidence {confidence}). Verify measurements before submitting."
@@ -139,6 +187,12 @@ def build_eligibility_table(tables: dict) -> pd.DataFrame:
         wound_dx_active = has_active_wound_dx(patient_dx)
         extraction = best_extraction(patient_notes, patient_assess)
         decision, reason = route_patient(extraction, mcb_active, wound_dx_active)
+
+        # Only spend an LLM call when a patient lands in review for missing fields —
+        # try to recover the gaps from the notes, then re-route on the fuller record.
+        if decision == "flag_for_review" and any(extraction.get(f) is None for f in REQUIRED_FIELDS):
+            extraction = enrich_with_llm(extraction, patient_notes)
+            decision, reason = route_patient(extraction, mcb_active, wound_dx_active)
 
         rows.append({
             "patient_id": patient_id,

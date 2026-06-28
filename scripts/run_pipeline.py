@@ -8,6 +8,7 @@ ROOT_DIR = Path(__file__).resolve().parent.parent
 DATABASE_SCRIPT = ROOT_DIR / "src" / "database.py"
 sys.path.insert(0, str(ROOT_DIR))
 
+from src import extract_llm
 from src.config import OUTPUT_CSV
 from src.db import load_tables
 from src.eligibility import build_eligibility_table
@@ -32,8 +33,16 @@ def main():
     print("Extracting wound fields and routing patients...")
     eligibility_df = build_eligibility_table(tables)
 
-    eligibility_df.to_csv(OUTPUT_CSV, index=False)
+    try:
+        eligibility_df.to_csv(OUTPUT_CSV, index=False)
+    except PermissionError:
+        sys.exit(
+            f"Could not write {OUTPUT_CSV} — the file is open in another program "
+            "(e.g. Excel). Close it and re-run."
+        )
     print(f"Wrote {len(eligibility_df)} rows to {OUTPUT_CSV}")
+
+    print(f"LLM extraction fallback was called {extract_llm.call_count} time(s).")
 
     print("\nSummary:")
     print(eligibility_df["routing_decision"].value_counts().to_string())

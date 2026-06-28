@@ -1,9 +1,18 @@
 import os
 
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+# Load OPENAI_API_KEY (and any other vars) from a local .env file if present.
+try:
+    from dotenv import load_dotenv
+
+    load_dotenv(os.path.join(ROOT_DIR, ".env"))
+except ImportError:
+    pass
+
 BASE_URL = "https://hackathon.prod.pulsefoundry.ai"
 FACILITY_IDS = [101, 102, 103]
 
-ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB_PATH = os.path.join(ROOT_DIR, "hackathon.db")
 OUTPUT_CSV = os.path.join(ROOT_DIR, "patient_eligibility.csv")
 
