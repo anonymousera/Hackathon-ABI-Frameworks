@@ -77,6 +77,8 @@ Both are returned by the `/patients` endpoint.
 
 **Rate limiting:** Every request has a **30% chance of returning HTTP 429**. The response includes a `Retry-After` header. You must implement retry logic — pipelines that don't handle 429s will fail to load data. See [API.md](./API.md) for recommended retry patterns.
 
+**Verify the API and explore sample data:** run `pip install -r requirements.txt && python scripts/probe_api.py`, then read [DEMO_DATA.md](./DEMO_DATA.md) for annotated live responses and format notes.
+
 ---
 
 ## What to Build

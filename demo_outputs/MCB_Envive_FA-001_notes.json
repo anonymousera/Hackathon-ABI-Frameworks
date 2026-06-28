@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "patient_id": 1,
+    "org_id": "org_facility_a",
+    "pcc_note_id": 85231,
+    "note_type": "Wound (SPN)",
+    "effective_date": "2026-05-08T15:09:00",
+    "note_text": "*Envive Care Conference Review - V 4.0\nWound Status: Pressure Ulcer to Right hip / Measures 2.9 cm x 2.8 cm / Stage: Stage 3\nDrainage present - serosanguineous, heavy. Odor present. Treatment: Foam dressing change daily.",
+    "created_by": "w.oduya",
+    "note_label": null,
+    "sync_version": 1,
+    "is_current": true
+  }
+]
