@@ -1,5 +1,7 @@
 # ABI Frameworks Hackathon
 
+## The dashboard is deployed at : https://anonymousera-hackathon-abi-frameworks-srcdashboard-era-b7nlov.streamlit.app/ 
+
 ## Running This Implementation
 
 End-to-end: ingest from the PCC API → extract wound fields → route each patient → view in the dashboard.
