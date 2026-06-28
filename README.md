@@ -1,5 +1,43 @@
 # ABI Frameworks Hackathon
 
+## Running This Implementation
+
+End-to-end: ingest from the PCC API → extract wound fields → route each patient → view in the dashboard.
+
+```bash
+# 1. Install dependencies
+pip install -r requirements.txt
+
+# 2. (Optional) enable the LLM extraction fallback for hard-to-parse notes
+#    Without this, the pipeline runs rules-only — no LLM calls are made.
+export OPENAI_API_KEY=sk-...        # Windows PowerShell: $env:OPENAI_API_KEY="sk-..."
+
+# 3. Run the pipeline.
+#    Ingests from the live API via src/database1.py (handles 429 rate limiting),
+#    then extracts, routes, and writes patient_eligibility.csv.
+python scripts/run_pipeline.py
+
+#    Re-run without re-fetching from the API (reuse the existing hackathon.db):
+python scripts/run_pipeline.py --skip-ingest
+
+# 4. Launch the biller dashboard (reads patient_eligibility.csv)
+streamlit run src/dashboard.py
+```
+
+**Pipeline layout:**
+
+| Component | File | Role |
+|---|---|---|
+| Ingestion | `src/database1.py` | Fetch all entities from the PCC API into `hackathon.db` (429 retry) |
+| DB access | `src/db.py` | Load the SQLite tables into DataFrames |
+| Extraction | `src/extract_notes.py`, `src/extract_assessment.py` | Pull wound fields from free-text notes and structured assessments |
+| LLM fallback | `src/extract_llm.py` | Parse notes regex can't handle (gated on `OPENAI_API_KEY`) |
+| Routing | `src/eligibility.py` | MCB coverage check + `auto_accept` / `flag_for_review` / `reject` |
+| Orchestrator | `scripts/run_pipeline.py` | Runs ingest → extract → route → `patient_eligibility.csv` |
+| Dashboard | `src/dashboard.py` | Streamlit biller view of the routing decisions |
+
+---
+
 ## The Challenge
 
 You are building a data pipeline for a post-acute care company that needs to identify which patients qualify for wound care billing under Medicare Part B.
