@@ -160,5 +160,7 @@ def build_eligibility_table(tables: dict) -> pd.DataFrame:
             "confidence": extraction.get("confidence"),
             "processed_at": datetime.utcnow().isoformat(),
         })
+        # add multi-wound_type and raw notes field also
+        # LLM parser to be added
 
     return pd.DataFrame(rows)
