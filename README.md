@@ -1,5 +1,7 @@
 # ABI Frameworks Hackathon
 
+The full pipeline implementation can be found in the 'era' branch of this repository.
+
 ## The Challenge
 
 You are building a data pipeline for a post-acute care company that needs to identify which patients qualify for wound care billing under Medicare Part B.
