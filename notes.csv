@@ -1,0 +1,1517 @@
+id,patient_id,org_id,pcc_note_id,note_type,effective_date,note_text,created_by,note_label,sync_version,is_current
+1,1,org_facility_a,85231,Wound (SPN),2026-05-08T15:09:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Right hip / Measures 2.9 cm x 2.8 cm / Stage: Stage 3
+Drainage present - serosanguineous, heavy. Odor present. Treatment: Foam dressing change daily.",w.oduya,,1,True
+2,2,org_facility_a,86865,Wound Care Progress Note,2026-05-12T18:37:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Left buttock / Measures 5.9 cm x 4.5 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",p.johansson,,1,True
+3,2,org_facility_a,85354,HP Skin & Wound Note,2026-05-15T06:14:00,"Pt seen for wound eval. Pressure Ulcer Left buttock measures aprx 5.9 x 4.5cm, depth 1.8cm.
+Min drainage serosanguineous. Heel wound also eval - L heel 3.5x2.7, 0.9cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",t.kaczmarek,,1,True
+4,3,org_facility_a,83753,Wound (SPN),2026-05-10T07:44:00,"Wound note - Rightlowerle. Meas 8.0x3.5x0.2cm. Mod serosang drainage, odor present. Wound bed 70% gran, 30% slough. Periwound intact. NPWT canister changed. Pt tolerated well. Dr. Castillo notified.",p.johansson,,1,True
+5,4,org_facility_a,86940,Wound (IDT),2026-05-09T18:44:00,"Subjective: Patient reports pain at Right plantar wound site, rates 9/10.
+Objective: Wound assessment performed. Diabetic diabetic Right plantar measures 4.3 cm x 1.8 cm x 0.3 cm.
+  Wound bed: 28% slough, 72% granulation tissue. Periwound: intact.
+  Drainage: moderate. Odor: present, foul.
+Assessment: Diabetic diabetic Right plantar — improving.
+Plan: Debridement consult ordered. Alginate dressing applied.",g.ramirez,,1,True
+6,5,org_facility_a,83224,Wound (SPN),2026-05-11T09:05:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Venous to Right lower leg / Measures 3.1 cm x 3.4 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",j.thornton,,1,True
+7,6,org_facility_a,85072,Wound (IDT),2026-05-06T06:18:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Left foot / Measures 2.7 cm x 1.5 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",r.patel,,1,True
+8,6,org_facility_a,90276,Wound (SPN),2026-05-08T00:26:00,"Pt seen for wound eval. Diabetic Left foot measures aprx 2.7 x 1.5cm, depth 1.1cm.
+Min drainage serosanguineous. Heel wound also eval - R heel 1.6x0.9, 0.6cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",j.thornton,,1,True
+9,7,org_facility_a,85169,Wound Care Progress Note,2026-05-16T16:37:00,"Subjective: Patient reports pain at Left plantar wound site, rates 3/10.
+Objective: Wound assessment performed. Diabetic diabetic Left plantar measures 2.8 cm x 3.8 cm x 1.4 cm.
+  Wound bed: 46% slough, 54% granulation tissue. Periwound: macerated.
+  Drainage: none. Odor: present, foul.
+Assessment: Diabetic diabetic Left plantar — improving.
+Plan: Offloading boot applied. Alginate dressing applied.",t.kaczmarek,,1,True
+10,7,org_facility_a,84400,Wound (SPN),2026-05-09T14:01:00,"Pt seen for wound eval. Diabetic Left plantar measures aprx 2.8 x 3.8cm, depth 1.4cm.
+Min drainage serosanguineous. Heel wound also eval - L heel 1.7x2.3, 0.7cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",a.bergstrom,,1,True
+11,8,org_facility_a,91724,Wound (SPN),2026-05-13T12:03:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Venous to Left lower leg / Measures 6.0 cm x 1.7 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. Odor present. Treatment: Foam dressing change daily.",r.patel,,1,True
+12,9,org_facility_a,97570,Wound (IDT),2026-05-05T15:38:00,"Pt seen for wound eval. Diabetic Left foot measures aprx 5.3 x 4.5cm, depth 0.8cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 3.2x2.7, 0.4cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",c.nakamura,,1,True
+13,9,org_facility_a,94299,Wound Care Progress Note,2026-05-11T12:14:00,"Subjective: Patient reports pain at Left foot wound site, rates 3/10.
+Objective: Wound assessment performed. Diabetic diabetic Left foot measures 5.3 cm x 4.5 cm x 0.8 cm.
+  Wound bed: 24% slough, 76% granulation tissue. Periwound: erythematous.
+  Drainage: moderate. Odor: none.
+Assessment: Diabetic diabetic Left foot — not improving.
+Plan: Offloading boot applied. Foam dressing change daily.",l.castillo,,1,True
+14,10,org_facility_a,94086,HP Skin & Wound Note,2026-05-17T14:42:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Surgical to Abdominal wall / Measures 3.7 cm x 2.0 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",f.morales,,1,True
+15,10,org_facility_a,85560,Wound (IDT),2026-05-07T17:28:00,"Pt seen for wound eval. Surgical Abdominal wall measures aprx 3.7 x 2.0cm, depth 1.6cm.
+Min drainage serosanguineous. Heel wound also eval - R ankle 2.2x1.2, 0.8cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",p.johansson,,1,True
+16,11,org_facility_a,96540,Wound (IDT),2026-05-09T04:40:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Sacral region / Measures 1.2 cm x 1.5 cm / Stage: Stage 2
+Drainage present - serous, light. No odor noted. Treatment: Foam dressing change daily.",d.espinoza,,1,True
+17,12,org_facility_a,95998,HP Skin & Wound Note,2026-05-04T10:26:00,"Subjective: Patient reports pain at Right cervical wound site, rates 8/10.
+Objective: Wound assessment performed. Abscess abscess Right cervical measures 1.2 cm x 0.7 cm x 0.2 cm.
+  Wound bed: 50% slough, 50% granulation tissue. Periwound: intact.
+  Drainage: moderate. Odor: present, mild.
+Assessment: Abscess abscess Right cervical — not improving.
+Plan: Offloading boot applied. Nutritional consult ordered.",r.patel,,1,True
+18,12,org_facility_a,85408,Wound (IDT),2026-05-11T13:18:00,"Pt seen for wound eval. Abscess Right cervical measures aprx 1.2 x 0.7cm, depth 0.2cm.
+Min drainage serosanguineous. Heel wound also eval - R ankle 0.7x0.4, 0.1cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",h.kim,,1,True
+19,13,org_facility_a,85498,Wound Care Progress Note,2026-05-10T01:44:00,"Wound note - Rightcervica. Meas 1.4x1.2x0.8cm. Light serosang drainage, odor present. Wound bed 45% gran, 55% slough. Periwound intact. NPWT canister changed. Pt c/o discomfort w/ dsg change. Dr. Johansson notified.",l.castillo,,1,True
+20,14,org_facility_a,97634,Wound Care Progress Note,2026-05-11T18:14:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Left buttock / Measures 1.0 cm x 1.9 cm / Stage: Stage 2
+Drainage present - serous, light. No odor noted. Treatment: Foam dressing change daily.",f.morales,,1,True
+21,14,org_facility_a,90561,Wound Care Progress Note,2026-05-04T00:23:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Left buttock / Measures 1.0 cm x 1.9 cm / Stage: Stage 2
+Drainage present - serous, light. No odor noted. Treatment: Foam dressing change daily.",h.kim,,1,True
+22,15,org_facility_a,93942,Wound Care Progress Note,2026-05-12T08:25:00,"Subjective: Patient reports pain at Right lower leg wound site, rates 3/10.
+Objective: Wound assessment performed. Venous venous Right lower leg measures 6.4 cm x 4.5 cm x 0.6 cm.
+  Wound bed: 62% slough, 38% granulation tissue. Periwound: macerated.
+  Drainage: heavy. Odor: present, mild.
+Assessment: Venous venous Right lower leg — improving.
+Plan: Negative pressure wound therapy initiated. Debridement consult ordered.",w.oduya,,1,True
+23,15,org_facility_a,83953,HP Skin & Wound Note,2026-05-13T14:44:00,"Pt seen for wound eval. Venous Right lower leg measures aprx 6.4 x 4.5cm, depth 0.6cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 3.8x2.7, 0.3cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",w.oduya,,1,True
+24,16,org_facility_a,95654,Wound Care Progress Note,2026-05-12T18:57:00,"Pt seen for wound eval. Venous Right lower leg measures aprx 7.6 x 4.2cm, depth 0.6cm.
+Min drainage serosanguineous. Heel wound also eval - R ankle 4.6x2.5, 0.3cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",s.okafor,,1,True
+25,17,org_facility_a,89543,Wound (IDT),2026-05-10T01:22:00,"Subjective: Patient reports pain at Left lower leg wound site, rates 4/10.
+Objective: Wound assessment performed. Venous venous Left lower leg measures 6.3 cm x 5.7 cm x 0.2 cm.
+  Wound bed: 65% slough, 35% granulation tissue. Periwound: macerated.
+  Drainage: moderate. Odor: present, foul.
+Assessment: Venous venous Left lower leg — not improving.
+Plan: Alginate dressing applied. Physician notified of wound progression.",j.thornton,,1,True
+26,17,org_facility_a,93930,HP Skin & Wound Note,2026-05-14T15:10:00,"Wound note - Leftlowerleg. Meas 6.3x5.7x0.2cm. Mod serosang drainage, no odor. Wound bed 48% gran, 52% slough. Periwound erythematous. Collagen dsg changed. Pt tolerated well. Dr. Oduya notified.",s.okafor,,1,True
+27,18,org_facility_a,82989,Wound (IDT),2026-05-11T03:08:00,"Wound note - Rightheel. Meas 1.1x2.9x0.3cm. Mod serosang drainage, odor present. Wound bed 60% gran, 40% slough. Periwound erythematous. NPWT canister changed. Pt c/o discomfort w/ dsg change. Dr. Ramirez notified.",t.kaczmarek,,1,True
+28,19,org_facility_a,85189,HP Skin & Wound Note,2026-05-07T04:09:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Right buttock / Measures 1.2 cm x 1.5 cm / Stage: Stage 2
+Drainage present - serous, light. Odor present. Treatment: Foam dressing change daily.",a.bergstrom,,1,True
+29,19,org_facility_a,96674,Wound Care Progress Note,2026-05-15T08:01:00,"Subjective: Patient reports pain at Right buttock wound site, rates 8/10.
+Objective: Wound assessment performed. Stage 2 pressure ulcer Right buttock measures 1.2 cm x 1.5 cm x 0.1 cm.
+  Wound bed: 75% slough, 25% granulation tissue. Periwound: macerated.
+  Drainage: light. Odor: none.
+Assessment: Stage 2 pressure ulcer Right buttock — improving.
+Plan: Physician notified of wound progression. Foam dressing change daily.",w.oduya,,1,True
+30,20,org_facility_a,95498,Wound Care Progress Note,2026-05-05T10:58:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Left plantar / Measures 3.2 cm x 2.3 cm / Stage: N/A
+Drainage present - serosanguineous, none. Odor present. Treatment: Foam dressing change daily.",w.oduya,,1,True
+31,21,org_facility_a,94538,Wound (SPN),2026-05-05T03:15:00,"Subjective: Patient reports pain at Right lower extremity wound site, rates 5/10.
+Objective: Wound assessment performed. Arterial arterial Right lower extremity measures 2.6 cm x 1.3 cm x 0.5 cm.
+  Wound bed: 40% slough, 60% granulation tissue. Periwound: erythematous.
+  Drainage: moderate. Odor: none.
+Assessment: Arterial arterial Right lower extremity — improving.
+Plan: Alginate dressing applied. Negative pressure wound therapy initiated.",m.lefebvre,,1,True
+32,22,org_facility_a,83494,Wound (IDT),2026-05-14T11:06:00,"Pt seen for wound eval. Venous Left lower leg measures aprx 2.5 x 3.2cm, depth 0.3cm.
+Min drainage serosanguineous. Heel wound also eval - R ankle 1.5x1.9, 0.1cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",r.patel,,1,True
+33,22,org_facility_a,80718,Wound Care Progress Note,2026-05-08T14:16:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Venous to Left lower leg / Measures 2.5 cm x 3.2 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",h.kim,,1,True
+34,23,org_facility_a,93022,HP Skin & Wound Note,2026-05-10T21:51:00,"Wound note - Rightplantar. Meas 4.1x3.6x0.7cm. Mod serosang drainage, no odor. Wound bed 46% gran, 54% slough. Periwound macerated. Collagen dsg changed. Pt c/o discomfort w/ dsg change. Dr. Oduya notified.",h.kim,,1,True
+35,23,org_facility_a,94902,Wound (SPN),2026-05-17T15:26:00,"Pt seen for wound eval. Diabetic Right plantar measures aprx 4.1 x 3.6cm, depth 0.7cm.
+Min drainage serosanguineous. Heel wound also eval - L heel 2.5x2.2, 0.3cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",c.nakamura,,1,True
+36,24,org_facility_a,89166,Wound (IDT),2026-05-04T08:21:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Right buttock / Measures 6.8 cm x 4.4 cm / Stage: Stage 3
+Drainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",j.thornton,,1,True
+37,25,org_facility_a,83602,HP Skin & Wound Note,2026-05-09T15:09:00,"Pt seen for wound eval. Pressure Ulcer Left heel measures aprx 5.3 x 7.3cm, depth 2.3cm.
+Min drainage serosanguineous. Heel wound also eval - R heel 3.2x4.4, 1.1cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",p.johansson,,1,True
+38,26,org_facility_a,98066,Wound (SPN),2026-05-11T20:10:00,"Subjective: Patient reports pain at Abdominal wall wound site, rates 4/10.
+Objective: Wound assessment performed. Surgical surgical Abdominal wall measures 3.8 cm x 2.2 cm x 1.8 cm.
+  Wound bed: 63% slough, 37% granulation tissue. Periwound: erythematous.
+  Drainage: heavy. Odor: present, mild.
+Assessment: Surgical surgical Abdominal wall — improving.
+Plan: Offloading boot applied. Negative pressure wound therapy initiated.",w.oduya,,1,True
+39,27,org_facility_a,87348,Wound (IDT),2026-05-09T17:51:00,"Pt seen for wound eval. Abscess Right cervical measures aprx 0.8 x 1.1cm, depth 0.6cm.
+Min drainage serous. Heel wound also eval - L ankle 0.5x0.7, 0.3cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",h.kim,,1,True
+40,27,org_facility_a,99955,Wound (SPN),2026-05-11T06:11:00,"Subjective: Patient reports pain at Right cervical wound site, rates 7/10.
+Objective: Wound assessment performed. Abscess abscess Right cervical measures 0.8 cm x 1.1 cm x 0.6 cm.
+  Wound bed: 26% slough, 74% granulation tissue. Periwound: erythematous.
+  Drainage: light. Odor: none.
+Assessment: Abscess abscess Right cervical — not improving.
+Plan: Offloading boot applied. Physician notified of wound progression.",g.ramirez,,1,True
+41,28,org_facility_a,88951,Wound (IDT),2026-05-10T04:32:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Right plantar / Measures 1.6 cm x 3.2 cm / Stage: N/A
+Drainage present - serosanguineous, none. No odor noted. Treatment: Foam dressing change daily.",r.patel,,1,True
+42,28,org_facility_a,80251,Wound (SPN),2026-05-17T16:35:00,"Subjective: Patient reports pain at Right plantar wound site, rates 7/10.
+Objective: Wound assessment performed. Diabetic diabetic Right plantar measures 1.6 cm x 3.2 cm x 0.3 cm.
+  Wound bed: 53% slough, 47% granulation tissue. Periwound: intact.
+  Drainage: none. Odor: present, mild.
+Assessment: Diabetic diabetic Right plantar — improving.
+Plan: Physician notified of wound progression. Offloading boot applied.",r.patel,,1,True
+43,29,org_facility_a,97169,Wound (IDT),2026-05-16T16:33:00,"Pt seen for wound eval. Pressure Ulcer Left hip measures aprx 4.3 x 5.4cm, depth 0.8cm.
+Min drainage serosanguineous. Heel wound also eval - L heel 2.6x3.2, 0.4cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",s.okafor,,1,True
+44,29,org_facility_a,85509,Wound Care Progress Note,2026-05-06T13:46:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Left hip / Measures 4.3 cm x 5.4 cm / Stage: Stage 3
+Drainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",s.okafor,,1,True
+45,30,org_facility_a,83391,Wound (IDT),2026-05-09T19:57:00,"Subjective: Patient reports pain at Right heel wound site, rates 8/10.
+Objective: Wound assessment performed. Stage 3 pressure ulcer Right heel measures 3.9 cm x 3.6 cm x 0.6 cm.
+  Wound bed: 51% slough, 49% granulation tissue. Periwound: intact.
+  Drainage: moderate. Odor: present, mild.
+Assessment: Stage 3 pressure ulcer Right heel — improving.
+Plan: Negative pressure wound therapy initiated. Debridement consult ordered.",f.morales,,1,True
+46,31,org_facility_a,93874,Wound (SPN),2026-05-06T00:17:00,"Subjective: Patient reports pain at Right cervical wound site, rates 6/10.
+Objective: Wound assessment performed. Abscess abscess Right cervical measures 0.8 cm x 1.5 cm x 0.6 cm.
+  Wound bed: 45% slough, 55% granulation tissue. Periwound: indurated.
+  Drainage: moderate. Odor: present, foul.
+Assessment: Abscess abscess Right cervical — not improving.
+Plan: Continue current dressing regimen. Nutritional consult ordered.",b.nguyen,,1,True
+47,32,org_facility_a,86357,Wound (IDT),2026-05-09T16:41:00,"Wound note - Rightplantar. Meas 4.2x1.3x0.8cm. Light serosang drainage, no odor. Wound bed 58% gran, 42% slough. Periwound erythematous. Collagen dsg changed. Pt tolerated well. Dr. Morales notified.",c.nakamura,,1,True
+48,32,org_facility_a,85310,Wound (IDT),2026-05-13T11:28:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Right plantar / Measures 4.2 cm x 1.3 cm / Stage: N/A
+Drainage present - serous, light. No odor noted. Treatment: Foam dressing change daily.",h.kim,,1,True
+49,33,org_facility_a,80622,Wound (SPN),2026-05-10T05:00:00,"Subjective: Patient reports pain at Right plantar wound site, rates 6/10.
+Objective: Wound assessment performed. Diabetic diabetic Right plantar measures 4.7 cm x 3.5 cm x 1.0 cm.
+  Wound bed: 22% slough, 78% granulation tissue. Periwound: indurated.
+  Drainage: none. Odor: present, foul.
+Assessment: Diabetic diabetic Right plantar — improving.
+Plan: Debridement consult ordered. Nutritional consult ordered.",a.bergstrom,,1,True
+50,34,org_facility_a,88311,Wound Care Progress Note,2026-05-17T03:36:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Left heel / Measures 3.0 cm x 2.2 cm / Stage: Stage 2
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",w.oduya,,1,True
+51,35,org_facility_a,94409,Wound (IDT),2026-05-12T10:04:00,"Subjective: Patient reports pain at Right cervical wound site, rates 5/10.
+Objective: Wound assessment performed. Abscess abscess Right cervical measures 0.8 cm x 0.7 cm x 0.7 cm.
+  Wound bed: 62% slough, 38% granulation tissue. Periwound: erythematous.
+  Drainage: moderate. Odor: none.
+Assessment: Abscess abscess Right cervical — not improving.
+Plan: Continue current dressing regimen. Debridement consult ordered.",g.ramirez,,1,True
+52,35,org_facility_a,92037,Wound (IDT),2026-05-15T08:16:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Abscess to Right cervical / Measures 0.8 cm x 0.7 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Pack with iodoform gauze daily.",g.ramirez,,1,True
+53,36,org_facility_a,92190,Wound Care Progress Note,2026-05-15T02:32:00,"Subjective: Patient reports pain at Left plantar wound site, rates 5/10.
+Objective: Wound assessment performed. Diabetic diabetic Left plantar measures 1.6 cm x 2.7 cm x 1.2 cm.
+  Wound bed: 31% slough, 69% granulation tissue. Periwound: erythematous.
+  Drainage: none. Odor: present, mild.
+Assessment: Diabetic diabetic Left plantar — not improving.
+Plan: Nutritional consult ordered. Offloading boot applied.",t.kaczmarek,,1,True
+54,37,org_facility_a,87757,HP Skin & Wound Note,2026-05-14T20:48:00,"Subjective: Patient reports pain at Sacral region wound site, rates 6/10.
+Objective: Wound assessment performed. Stage 4 pressure ulcer Sacral region measures 4.5 cm x 6.4 cm x 3.6 cm.
+  Wound bed: 23% slough, 77% granulation tissue. Periwound: erythematous.
+  Drainage: heavy. Odor: none.
+Assessment: Stage 4 pressure ulcer Sacral region — not improving.
+Plan: Debridement consult ordered. Nutritional consult ordered.",f.morales,,1,True
+55,37,org_facility_a,98076,Wound (IDT),2026-05-09T05:37:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Sacral region / Measures 4.5 cm x 6.4 cm / Stage: Stage 4
+Drainage present - serosanguineous, heavy. Odor present. Treatment: Foam dressing change daily.",m.lefebvre,,1,True
+56,38,org_facility_a,98468,Wound Care Progress Note,2026-05-08T19:50:00,"Wound note - Leftplantar. Meas 3.1x1.7x0.3cm. None serosang drainage, no odor. Wound bed 70% gran, 30% slough. Periwound macerated. Foam dsg changed. Pt c/o discomfort w/ dsg change. Dr. Nguyen notified.",j.thornton,,1,True
+57,38,org_facility_a,97877,Wound (IDT),2026-05-08T03:59:00,"Subjective: Patient reports pain at Left plantar wound site, rates 3/10.
+Objective: Wound assessment performed. Diabetic diabetic Left plantar measures 3.1 cm x 1.7 cm x 0.3 cm.
+  Wound bed: 78% slough, 22% granulation tissue. Periwound: erythematous.
+  Drainage: none. Odor: present, foul.
+Assessment: Diabetic diabetic Left plantar — improving.
+Plan: Negative pressure wound therapy initiated. Nutritional consult ordered.",a.bergstrom,,1,True
+58,39,org_facility_a,96297,Wound Care Progress Note,2026-05-09T09:29:00,"Wound note - Rightplantar. Meas 1.4x1.7x0.7cm. Mod serosang drainage, no odor. Wound bed 40% gran, 60% slough. Periwound macerated. Collagen dsg changed. Pt tolerated well. Dr. Patel notified.",j.thornton,,1,True
+59,39,org_facility_a,89363,Wound (IDT),2026-05-17T14:29:00,"Subjective: Patient reports pain at Right plantar wound site, rates 8/10.
+Objective: Wound assessment performed. Diabetic diabetic Right plantar measures 1.4 cm x 1.7 cm x 0.7 cm.
+  Wound bed: 48% slough, 52% granulation tissue. Periwound: indurated.
+  Drainage: moderate. Odor: none.
+Assessment: Diabetic diabetic Right plantar — not improving.
+Plan: Negative pressure wound therapy initiated. Offloading boot applied.",b.nguyen,,1,True
+60,40,org_facility_a,85324,Wound Care Progress Note,2026-05-09T19:40:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Right plantar / Measures 3.0 cm x 0.9 cm / Stage: N/A
+Drainage present - serous, light. Odor present. Treatment: Foam dressing change daily.",d.espinoza,,1,True
+61,40,org_facility_a,95561,Wound Care Progress Note,2026-05-09T06:29:00,"Pt seen for wound eval. Diabetic Right plantar measures aprx 3.0 x 0.9cm, depth 0.4cm.
+Min drainage serous. Heel wound also eval - L ankle 1.8x0.5, 0.2cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",h.kim,,1,True
+62,41,org_facility_a,97469,Wound (IDT),2026-05-11T13:49:00,"Subjective: Patient reports pain at Right lower extremity wound site, rates 4/10.
+Objective: Wound assessment performed. Arterial arterial Right lower extremity measures 1.3 cm x 0.8 cm x 0.8 cm.
+  Wound bed: 47% slough, 53% granulation tissue. Periwound: macerated.
+  Drainage: moderate. Odor: present, foul.
+Assessment: Arterial arterial Right lower extremity — improving.
+Plan: Continue current dressing regimen. Physician notified of wound progression.",c.nakamura,,1,True
+63,41,org_facility_a,87368,Wound Care Progress Note,2026-05-14T16:43:00,"Pt seen for wound eval. Arterial Right lower extremity measures aprx 1.3 x 0.8cm, depth 0.8cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 0.8x0.5, 0.4cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",a.bergstrom,,1,True
+64,42,org_facility_a,80169,HP Skin & Wound Note,2026-05-10T20:17:00,"Subjective: Patient reports pain at Left lower leg wound site, rates 5/10.
+Objective: Wound assessment performed. Venous venous Left lower leg measures 5.2 cm x 2.4 cm x 0.2 cm.
+  Wound bed: 40% slough, 60% granulation tissue. Periwound: macerated.
+  Drainage: moderate. Odor: none.
+Assessment: Venous venous Left lower leg — not improving.
+Plan: Alginate dressing applied. Negative pressure wound therapy initiated.",b.nguyen,,1,True
+65,43,org_facility_a,95037,HP Skin & Wound Note,2026-05-05T20:39:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Abscess to Right cervical / Measures 1.9 cm x 0.6 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. Odor present. Treatment: Pack with iodoform gauze daily.",p.johansson,,1,True
+66,44,org_facility_a,87180,HP Skin & Wound Note,2026-05-13T12:21:00,"Wound note - Leftupperarm. Meas 2.8x1.8x0.1cm. Mod serosang drainage, odor present. Wound bed 55% gran, 45% slough. Periwound erythematous. Collagen dsg changed. Pt c/o discomfort w/ dsg change. Dr. Oduya notified.",m.lefebvre,,1,True
+67,44,org_facility_a,97997,Wound (IDT),2026-05-06T04:37:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Burn to Left upper arm / Measures 2.8 cm x 1.8 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. Odor present. Treatment: Foam dressing change daily.",g.ramirez,,1,True
+68,45,org_facility_a,81484,Wound (SPN),2026-05-17T00:47:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Abscess to Right cervical / Measures 1.2 cm x 0.9 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. Odor present. Treatment: Pack with iodoform gauze daily.",d.espinoza,,1,True
+69,46,org_facility_a,80512,Wound (IDT),2026-05-05T20:58:00,"Wound note - Rightplantar. Meas 2.9x3.1x0.8cm. Light serosang drainage, odor present. Wound bed 59% gran, 41% slough. Periwound macerated. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Bergstrom notified.",r.patel,,1,True
+70,47,org_facility_a,97185,Wound (IDT),2026-05-17T12:19:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Right plantar / Measures 2.2 cm x 1.0 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",c.nakamura,,1,True
+71,48,org_facility_a,87949,Wound (IDT),2026-05-16T00:12:00,"Wound note - Leftlowerleg. Meas 5.4x5.4x0.2cm. Mod serosang drainage, no odor. Wound bed 51% gran, 49% slough. Periwound macerated. Foam dsg changed. Pt c/o discomfort w/ dsg change. Dr. Patel notified.",w.oduya,,1,True
+72,48,org_facility_a,91784,Wound Care Progress Note,2026-05-07T12:41:00,"Wound note - Leftlowerleg. Meas 5.4x5.4x0.2cm. Mod serosang drainage, odor present. Wound bed 55% gran, 45% slough. Periwound intact. Collagen dsg changed. Pt tolerated well. Dr. Morales notified.",b.nguyen,,1,True
+73,49,org_facility_a,93513,Wound (SPN),2026-05-04T02:57:00,"Wound note - Rightbuttock. Meas 3.8x4.1x0.9cm. Mod serosang drainage, odor present. Wound bed 64% gran, 36% slough. Periwound erythematous. Foam dsg changed. Pt c/o discomfort w/ dsg change. Dr. Nguyen notified.",m.lefebvre,,1,True
+74,49,org_facility_a,95986,Wound (IDT),2026-05-17T04:20:00,"Wound note - Rightbuttock. Meas 3.8x4.1x0.9cm. Mod serosang drainage, odor present. Wound bed 34% gran, 66% slough. Periwound erythematous. Alginate dsg applied. Pt tolerated well. Dr. Thornton notified.",j.thornton,,1,True
+75,50,org_facility_a,85615,Wound (SPN),2026-05-09T08:57:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Arterial to Right lower extremity / Measures 0.7 cm x 2.5 cm / Stage: N/A
+Drainage present - serous, light. No odor noted. Treatment: Foam dressing change daily.",s.okafor,,1,True
+76,51,org_facility_a,90694,Wound (IDT),2026-05-14T21:39:00,"Pt seen for wound eval. Abscess Right cervical measures aprx 0.9 x 1.4cm, depth 0.3cm.
+Min drainage serous. Heel wound also eval - L heel 0.5x0.8, 0.1cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",j.thornton,,1,True
+77,52,org_facility_a,80860,Wound (SPN),2026-05-09T07:34:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Surgical to Abdominal wall / Measures 2.8 cm x 3.2 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",s.okafor,,1,True
+78,53,org_facility_a,92448,Wound Care Progress Note,2026-05-13T23:35:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Right buttock / Measures 6.7 cm x 4.5 cm / Stage: Stage 3
+Drainage present - serosanguineous, heavy. Odor present. Treatment: Foam dressing change daily.",f.morales,,1,True
+79,54,org_facility_a,93865,HP Skin & Wound Note,2026-05-13T16:44:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Arterial to Right lower extremity / Measures 1.0 cm x 2.1 cm / Stage: N/A
+Drainage present - serous, light. Odor present. Treatment: Foam dressing change daily.",f.morales,,1,True
+80,54,org_facility_a,97510,Wound (IDT),2026-05-08T08:23:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Arterial to Right lower extremity / Measures 1.0 cm x 2.1 cm / Stage: N/A
+Drainage present - serous, light. Odor present. Treatment: Foam dressing change daily.",b.nguyen,,1,True
+81,55,org_facility_a,95602,Wound Care Progress Note,2026-05-14T07:30:00,"Subjective: Patient reports pain at Right cervical wound site, rates 3/10.
+Objective: Wound assessment performed. Abscess abscess Right cervical measures 0.5 cm x 1.5 cm x 0.4 cm.
+  Wound bed: 27% slough, 73% granulation tissue. Periwound: macerated.
+  Drainage: moderate. Odor: present, mild.
+Assessment: Abscess abscess Right cervical — improving.
+Plan: Offloading boot applied. Debridement consult ordered.",s.okafor,,1,True
+82,55,org_facility_a,81464,Wound Care Progress Note,2026-05-10T13:56:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Abscess to Right cervical / Measures 0.5 cm x 1.5 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Pack with iodoform gauze daily.",f.morales,,1,True
+83,56,org_facility_a,97292,Wound (IDT),2026-05-13T02:05:00,"Pt seen for wound eval. Diabetic Left foot measures aprx 5.2 x 1.7cm, depth 0.7cm.
+Min drainage serosanguineous. Heel wound also eval - R heel 3.1x1.0, 0.3cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",p.johansson,,1,True
+84,56,org_facility_a,95003,Wound Care Progress Note,2026-05-08T20:38:00,"Pt seen for wound eval. Diabetic Left foot measures aprx 5.2 x 1.7cm, depth 0.7cm.
+Min drainage serosanguineous. Heel wound also eval - R ankle 3.1x1.0, 0.3cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",l.castillo,,1,True
+85,57,org_facility_a,93406,Wound (IDT),2026-05-04T11:25:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Abscess to Right cervical / Measures 0.8 cm x 0.8 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. Odor present. Treatment: Pack with iodoform gauze daily.",p.johansson,,1,True
+86,58,org_facility_a,87764,Wound (SPN),2026-05-12T21:32:00,"Pt seen for wound eval. Pressure Ulcer Left buttock measures aprx 3.5 x 3.5cm, depth 2.0cm.
+Min drainage serosanguineous. Heel wound also eval - L heel 2.1x2.1, 1.0cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",r.patel,,1,True
+87,59,org_facility_a,92093,Wound Care Progress Note,2026-05-07T21:35:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Abscess to Right cervical / Measures 1.6 cm x 1.1 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Pack with iodoform gauze daily.",t.kaczmarek,,1,True
+88,59,org_facility_a,91738,Wound (IDT),2026-05-17T00:55:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Abscess to Right cervical / Measures 1.6 cm x 1.1 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Pack with iodoform gauze daily.",h.kim,,1,True
+89,60,org_facility_a,90010,Wound (IDT),2026-05-07T18:57:00,"Pt seen for wound eval. Venous Left lower leg measures aprx 3.5 x 5.4cm, depth 0.7cm.
+Min drainage serosanguineous. Heel wound also eval - L heel 2.1x3.2, 0.3cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",w.oduya,,1,True
+90,60,org_facility_a,97021,HP Skin & Wound Note,2026-05-16T19:23:00,"Wound note - Leftlowerleg. Meas 3.5x5.4x0.7cm. Mod serosang drainage, odor present. Wound bed 57% gran, 43% slough. Periwound erythematous. Foam dsg changed. Pt tolerated well. Dr. Oduya notified.",p.johansson,,1,True
+91,61,org_facility_a,82760,Wound Care Progress Note,2026-05-12T19:45:00,"Subjective: Patient reports pain at Right lower extremity wound site, rates 4/10.
+Objective: Wound assessment performed. Arterial arterial Right lower extremity measures 2.8 cm x 1.7 cm x 0.6 cm.
+  Wound bed: 32% slough, 68% granulation tissue. Periwound: intact.
+  Drainage: light. Odor: present, foul.
+Assessment: Arterial arterial Right lower extremity — improving.
+Plan: Nutritional consult ordered. Debridement consult ordered.",r.patel,,1,True
+92,62,org_facility_a,82700,Wound (IDT),2026-05-05T10:33:00,"Subjective: Patient reports pain at Right plantar wound site, rates 2/10.
+Objective: Wound assessment performed. Diabetic diabetic Right plantar measures 4.1 cm x 0.9 cm x 0.3 cm.
+  Wound bed: 20% slough, 80% granulation tissue. Periwound: indurated.
+  Drainage: light. Odor: present, foul.
+Assessment: Diabetic diabetic Right plantar — improving.
+Plan: Offloading boot applied. Continue current dressing regimen.",p.johansson,,1,True
+93,63,org_facility_a,80961,Wound (SPN),2026-05-04T15:14:00,"Pt seen for wound eval. Arterial Right lower extremity measures aprx 2.3 x 0.8cm, depth 1.0cm.
+Min drainage serosanguineous. Heel wound also eval - R heel 1.4x0.5, 0.5cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",c.nakamura,,1,True
+94,64,org_facility_a,96450,Wound (SPN),2026-05-16T05:37:00,"Wound note - Rightlowerle. Meas 4.0x1.8x0.8cm. Mod serosang drainage, no odor. Wound bed 50% gran, 50% slough. Periwound intact. NPWT canister changed. Pt tolerated well. Dr. Ramirez notified.",p.johansson,,1,True
+95,64,org_facility_a,98123,Wound (SPN),2026-05-05T14:40:00,"Subjective: Patient reports pain at Right lower leg wound site, rates 4/10.
+Objective: Wound assessment performed. Venous venous Right lower leg measures 4.0 cm x 1.8 cm x 0.8 cm.
+  Wound bed: 66% slough, 34% granulation tissue. Periwound: intact.
+  Drainage: moderate. Odor: present, mild.
+Assessment: Venous venous Right lower leg — improving.
+Plan: Alginate dressing applied. Negative pressure wound therapy initiated.",t.kaczmarek,,1,True
+96,65,org_facility_a,96561,Wound (SPN),2026-05-10T00:55:00,"Subjective: Patient reports pain at Left upper arm wound site, rates 2/10.
+Objective: Wound assessment performed. Burn burn Left upper arm measures 3.1 cm x 4.8 cm x 0.2 cm.
+  Wound bed: 22% slough, 78% granulation tissue. Periwound: macerated.
+  Drainage: light. Odor: present, foul.
+Assessment: Burn burn Left upper arm — improving.
+Plan: Nutritional consult ordered. Continue current dressing regimen.",m.lefebvre,,1,True
+97,65,org_facility_a,87758,HP Skin & Wound Note,2026-05-08T22:33:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Burn to Left upper arm / Measures 3.1 cm x 4.8 cm / Stage: N/A
+Drainage present - serous, light. Odor present. Treatment: Foam dressing change daily.",a.bergstrom,,1,True
+98,66,org_facility_a,89792,Wound (SPN),2026-05-14T12:35:00,"Pt seen for wound eval. Pressure Ulcer Right buttock measures aprx 4.7 x 4.4cm, depth 1.5cm.
+Min drainage serosanguineous. Heel wound also eval - R heel 2.8x2.6, 0.8cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",a.bergstrom,,1,True
+99,67,org_facility_a,87035,Wound Care Progress Note,2026-05-07T10:49:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Surgical to Abdominal wall / Measures 4.8 cm x 1.0 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. Odor present. Treatment: Foam dressing change daily.",g.ramirez,,1,True
+100,67,org_facility_a,96347,Wound Care Progress Note,2026-05-08T16:19:00,"Wound note - Abdominalwal. Meas 4.8x1.0x1.9cm. Heavy serosang drainage, odor present. Wound bed 47% gran, 53% slough. Periwound macerated. NPWT canister changed. Pt c/o discomfort w/ dsg change. Dr. Ramirez notified.",d.espinoza,,1,True
+101,68,org_facility_a,91626,Wound (IDT),2026-05-14T05:06:00,"Subjective: Patient reports pain at Left buttock wound site, rates 5/10.
+Objective: Wound assessment performed. Stage 2 pressure ulcer Left buttock measures 4.0 cm x 2.2 cm x 0.3 cm.
+  Wound bed: 38% slough, 62% granulation tissue. Periwound: macerated.
+  Drainage: none. Odor: present, mild.
+Assessment: Stage 2 pressure ulcer Left buttock — improving.
+Plan: Foam dressing change daily. Nutritional consult ordered.",g.ramirez,,1,True
+102,69,org_facility_a,91028,Wound (SPN),2026-05-07T11:23:00,"Subjective: Patient reports pain at Sacral region wound site, rates 4/10.
+Objective: Wound assessment performed. Pressure Ulcer pressure ulcer Sacral region measures 3.4 cm x 2.1 cm x 1.7 cm.
+  Wound bed: 43% slough, 57% granulation tissue. Periwound: macerated.
+  Drainage: heavy. Odor: none.
+Assessment: Pressure Ulcer pressure ulcer Sacral region — not improving.
+Plan: Continue current dressing regimen. Foam dressing change daily.",a.bergstrom,,1,True
+103,70,org_facility_a,92646,Wound (SPN),2026-05-16T01:00:00,"Subjective: Patient reports pain at Left upper arm wound site, rates 6/10.
+Objective: Wound assessment performed. Burn burn Left upper arm measures 2.6 cm x 3.5 cm x 0.2 cm.
+  Wound bed: 67% slough, 33% granulation tissue. Periwound: macerated.
+  Drainage: moderate. Odor: present, foul.
+Assessment: Burn burn Left upper arm — not improving.
+Plan: Alginate dressing applied. Debridement consult ordered.",t.kaczmarek,,1,True
+104,70,org_facility_a,91509,Wound (IDT),2026-05-11T08:04:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Burn to Left upper arm / Measures 2.6 cm x 3.5 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",b.nguyen,,1,True
+105,71,org_facility_a,85032,Wound (IDT),2026-05-11T05:25:00,"Pt seen for wound eval. Diabetic Left foot measures aprx 2.8 x 3.9cm, depth 1.6cm.
+Min drainage serosanguineous. Heel wound also eval - R heel 1.7x2.3, 0.8cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",j.thornton,,1,True
+106,71,org_facility_a,86542,Wound (IDT),2026-05-13T02:20:00,"Pt seen for wound eval. Diabetic Left foot measures aprx 2.8 x 3.9cm, depth 1.6cm.
+Min drainage serosanguineous. Heel wound also eval - L heel 1.7x2.3, 0.8cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",s.okafor,,1,True
+107,72,org_facility_a,95606,HP Skin & Wound Note,2026-05-07T08:24:00,"Wound note - Leftlowerleg. Meas 2.5x4.5x0.2cm. Heavy serosang drainage, no odor. Wound bed 65% gran, 35% slough. Periwound intact. NPWT canister changed. Pt c/o discomfort w/ dsg change. Dr. Kim notified.",a.bergstrom,,1,True
+108,72,org_facility_a,86315,HP Skin & Wound Note,2026-05-10T18:50:00,"Subjective: Patient reports pain at Left lower leg wound site, rates 8/10.
+Objective: Wound assessment performed. Venous venous Left lower leg measures 2.5 cm x 4.5 cm x 0.2 cm.
+  Wound bed: 23% slough, 77% granulation tissue. Periwound: intact.
+  Drainage: heavy. Odor: present, foul.
+Assessment: Venous venous Left lower leg — improving.
+Plan: Debridement consult ordered. Foam dressing change daily.",m.lefebvre,,1,True
+109,73,org_facility_a,95571,Wound (SPN),2026-05-12T01:45:00,"Subjective: Patient reports pain at Left heel wound site, rates 4/10.
+Objective: Wound assessment performed. Stage 4 pressure ulcer Left heel measures 9.3 cm x 7.4 cm x 2.2 cm.
+  Wound bed: 63% slough, 37% granulation tissue. Periwound: indurated.
+  Drainage: heavy. Odor: none.
+Assessment: Stage 4 pressure ulcer Left heel — not improving.
+Plan: Nutritional consult ordered. Foam dressing change daily.",g.ramirez,,1,True
+110,73,org_facility_a,96109,Wound Care Progress Note,2026-05-04T14:41:00,"Pt seen for wound eval. Pressure Ulcer Left heel measures aprx 9.3 x 7.4cm, depth 2.2cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 5.6x4.4, 1.1cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",h.kim,,1,True
+111,74,org_facility_a,87927,Wound (SPN),2026-05-07T20:17:00,"Pt seen for wound eval. Arterial Right lower extremity measures aprx 1.1 x 1.4cm, depth 0.9cm.
+Min drainage serous. Heel wound also eval - R ankle 0.7x0.8, 0.5cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",c.nakamura,,1,True
+112,74,org_facility_a,91280,Wound Care Progress Note,2026-05-15T08:23:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Arterial to Right lower extremity / Measures 1.1 cm x 1.4 cm / Stage: N/A
+Drainage present - serous, light. No odor noted. Treatment: Foam dressing change daily.",m.lefebvre,,1,True
+113,75,org_facility_a,99152,Wound (IDT),2026-05-07T07:08:00,"Pt seen for wound eval. Arterial Right lower extremity measures aprx 2.1 x 1.3cm, depth 0.5cm.
+Min drainage serosanguineous. Heel wound also eval - R heel 1.3x0.8, 0.2cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",s.okafor,,1,True
+114,75,org_facility_a,88557,Wound Care Progress Note,2026-05-13T03:40:00,"Subjective: Patient reports pain at Right lower extremity wound site, rates 7/10.
+Objective: Wound assessment performed. Arterial arterial Right lower extremity measures 2.1 cm x 1.3 cm x 0.5 cm.
+  Wound bed: 45% slough, 55% granulation tissue. Periwound: erythematous.
+  Drainage: moderate. Odor: present, mild.
+Assessment: Arterial arterial Right lower extremity — not improving.
+Plan: Alginate dressing applied. Negative pressure wound therapy initiated.",p.johansson,,1,True
+115,76,org_facility_a,90998,HP Skin & Wound Note,2026-05-13T00:09:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Abscess to Right cervical / Measures 0.5 cm x 1.1 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. Odor present. Treatment: Pack with iodoform gauze daily.",p.johansson,,1,True
+116,77,org_facility_a,96042,HP Skin & Wound Note,2026-05-14T18:24:00,"Subjective: Patient reports pain at Left foot wound site, rates 9/10.
+Objective: Wound assessment performed. Diabetic diabetic Left foot measures 4.3 cm x 4.7 cm x 1.2 cm.
+  Wound bed: 59% slough, 41% granulation tissue. Periwound: macerated.
+  Drainage: heavy. Odor: present, mild.
+Assessment: Diabetic diabetic Left foot — improving.
+Plan: Foam dressing change daily. Physician notified of wound progression.",f.morales,,1,True
+117,78,org_facility_a,91771,Wound (IDT),2026-05-15T13:03:00,"Pt seen for wound eval. Diabetic Right plantar measures aprx 1.7 x 3.4cm, depth 0.6cm.
+Min drainage serous. Heel wound also eval - R ankle 1.0x2.0, 0.3cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",f.morales,,1,True
+118,78,org_facility_a,84035,HP Skin & Wound Note,2026-05-14T00:59:00,"Wound note - Rightplantar. Meas 1.7x3.4x0.6cm. Light serosang drainage, odor present. Wound bed 40% gran, 60% slough. Periwound macerated. Foam dsg changed. Pt c/o discomfort w/ dsg change. Dr. Patel notified.",c.nakamura,,1,True
+119,79,org_facility_a,90833,Wound (IDT),2026-05-14T01:01:00,"Wound note - Abdominalwal. Meas 2.1x3.3x1.1cm. Mod serosang drainage, odor present. Wound bed 52% gran, 48% slough. Periwound erythematous. NPWT canister changed. Pt c/o discomfort w/ dsg change. Dr. Bergstrom notified.",r.patel,,1,True
+120,79,org_facility_a,88385,Wound (SPN),2026-05-05T07:56:00,"Subjective: Patient reports pain at Abdominal wall wound site, rates 2/10.
+Objective: Wound assessment performed. Surgical surgical Abdominal wall measures 2.1 cm x 3.3 cm x 1.1 cm.
+  Wound bed: 38% slough, 62% granulation tissue. Periwound: intact.
+  Drainage: moderate. Odor: none.
+Assessment: Surgical surgical Abdominal wall — improving.
+Plan: Physician notified of wound progression. Alginate dressing applied.",p.johansson,,1,True
+121,80,org_facility_a,85939,Wound (IDT),2026-05-10T05:17:00,"Subjective: Patient reports pain at Left plantar wound site, rates 4/10.
+Objective: Wound assessment performed. Diabetic diabetic Left plantar measures 2.1 cm x 2.0 cm x 1.3 cm.
+  Wound bed: 36% slough, 64% granulation tissue. Periwound: intact.
+  Drainage: light. Odor: none.
+Assessment: Diabetic diabetic Left plantar — improving.
+Plan: Alginate dressing applied. Negative pressure wound therapy initiated.",l.castillo,,1,True
+122,81,org_facility_a,90506,Wound (IDT),2026-05-04T18:56:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Abscess to Right cervical / Measures 1.7 cm x 1.4 cm / Stage: N/A
+Drainage present - serous, light. No odor noted. Treatment: Pack with iodoform gauze daily.",r.patel,,1,True
+123,82,org_facility_a,87266,Wound (SPN),2026-05-06T09:53:00,"Subjective: Patient reports pain at Left foot wound site, rates 5/10.
+Objective: Wound assessment performed. Diabetic diabetic Left foot measures 4.0 cm x 2.2 cm x 1.5 cm.
+  Wound bed: 26% slough, 74% granulation tissue. Periwound: indurated.
+  Drainage: heavy. Odor: present, mild.
+Assessment: Diabetic diabetic Left foot — improving.
+Plan: Physician notified of wound progression. Continue current dressing regimen.",j.thornton,,1,True
+124,82,org_facility_a,83483,Wound Care Progress Note,2026-05-05T14:25:00,"Pt seen for wound eval. Diabetic Left foot measures aprx 4.0 x 2.2cm, depth 1.5cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 2.4x1.3, 0.8cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",j.thornton,,1,True
+125,83,org_facility_a,88965,HP Skin & Wound Note,2026-05-08T01:12:00,"Wound note - Rightlowerex. Meas 1.6x1.7x0.9cm. Light serosang drainage, no odor. Wound bed 36% gran, 64% slough. Periwound macerated. Collagen dsg changed. Pt tolerated well. Dr. Nguyen notified.",d.espinoza,,1,True
+126,84,org_facility_a,84762,Wound (IDT),2026-05-09T20:59:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Surgical to Abdominal wall / Measures 4.0 cm x 2.6 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",j.thornton,,1,True
+127,84,org_facility_a,91753,Wound (SPN),2026-05-06T14:47:00,"Subjective: Patient reports pain at Abdominal wall wound site, rates 5/10.
+Objective: Wound assessment performed. Surgical surgical Abdominal wall measures 4.0 cm x 2.6 cm x 1.3 cm.
+  Wound bed: 63% slough, 37% granulation tissue. Periwound: macerated.
+  Drainage: heavy. Odor: present, mild.
+Assessment: Surgical surgical Abdominal wall — improving.
+Plan: Offloading boot applied. Alginate dressing applied.",h.kim,,1,True
+128,85,org_facility_a,80184,Wound Care Progress Note,2026-05-13T19:50:00,"Subjective: Patient reports pain at Left upper arm wound site, rates 4/10.
+Objective: Wound assessment performed. Burn burn Left upper arm measures 2.0 cm x 3.8 cm x 0.0 cm.
+  Wound bed: 69% slough, 31% granulation tissue. Periwound: intact.
+  Drainage: moderate. Odor: present, mild.
+Assessment: Burn burn Left upper arm — not improving.
+Plan: Foam dressing change daily. Negative pressure wound therapy initiated.",c.nakamura,,1,True
+129,86,org_facility_a,81306,HP Skin & Wound Note,2026-05-07T04:02:00,"Pt seen for wound eval. Pressure Ulcer Left buttock measures aprx 6.0 x 4.4cm, depth 2.0cm.
+Min drainage serosanguineous. Heel wound also eval - R ankle 3.6x2.6, 1.0cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",p.johansson,,1,True
+130,87,org_facility_a,98840,Wound (SPN),2026-05-05T15:25:00,"Wound note - Leftbuttock. Meas 2.4x3.4x1.5cm. Heavy serosang drainage, odor present. Wound bed 31% gran, 69% slough. Periwound macerated. Collagen dsg changed. Pt tolerated well. Dr. Thornton notified.",h.kim,,1,True
+131,88,org_facility_a,97601,Wound (IDT),2026-05-16T23:00:00,"Wound note - Leftplantar. Meas 1.9x3.2x1.2cm. Mod serosang drainage, no odor. Wound bed 49% gran, 51% slough. Periwound erythematous. Collagen dsg changed. Pt c/o discomfort w/ dsg change. Dr. Thornton notified.",b.nguyen,,1,True
+132,88,org_facility_a,88281,HP Skin & Wound Note,2026-05-15T18:49:00,"Subjective: Patient reports pain at Left plantar wound site, rates 6/10.
+Objective: Wound assessment performed. Diabetic diabetic Left plantar measures 1.9 cm x 3.2 cm x 1.2 cm.
+  Wound bed: 67% slough, 33% granulation tissue. Periwound: erythematous.
+  Drainage: moderate. Odor: none.
+Assessment: Diabetic diabetic Left plantar — improving.
+Plan: Nutritional consult ordered. Continue current dressing regimen.",r.patel,,1,True
+133,89,org_facility_a,95727,Wound Care Progress Note,2026-05-12T19:17:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Venous to Left lower leg / Measures 3.6 cm x 3.1 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. Odor present. Treatment: Foam dressing change daily.",t.kaczmarek,,1,True
+134,90,org_facility_a,87827,Wound (SPN),2026-05-16T11:37:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Arterial to Right lower extremity / Measures 1.1 cm x 2.0 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",h.kim,,1,True
+135,91,org_facility_a,87303,Wound (IDT),2026-05-16T07:44:00,"Wound note - Rightlowerle. Meas 3.6x4.5x0.5cm. Heavy serosang drainage, no odor. Wound bed 54% gran, 46% slough. Periwound erythematous. NPWT canister changed. Pt c/o discomfort w/ dsg change. Dr. Nakamura notified.",b.nguyen,,1,True
+136,91,org_facility_a,99798,Wound (IDT),2026-05-04T12:29:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Venous to Right lower leg / Measures 3.6 cm x 4.5 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",j.thornton,,1,True
+137,92,org_facility_a,82809,Wound Care Progress Note,2026-05-06T00:18:00,"Wound note - Leftlowerleg. Meas 5.4x1.7x0.5cm. Mod serosang drainage, no odor. Wound bed 46% gran, 54% slough. Periwound intact. NPWT canister changed. Pt c/o discomfort w/ dsg change. Dr. Castillo notified.",r.patel,,1,True
+138,93,org_facility_a,83053,Wound (SPN),2026-05-08T22:04:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Left foot / Measures 4.0 cm x 3.0 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",t.kaczmarek,,1,True
+139,94,org_facility_a,88562,Wound Care Progress Note,2026-05-15T10:19:00,"Pt seen for wound eval. Arterial Right lower extremity measures aprx 0.5 x 1.5cm, depth 0.6cm.
+Min drainage serosanguineous. Heel wound also eval - R ankle 0.3x0.9, 0.3cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",h.kim,,1,True
+140,95,org_facility_a,99577,Wound Care Progress Note,2026-05-11T11:21:00,"Subjective: Patient reports pain at Right lower leg wound site, rates 3/10.
+Objective: Wound assessment performed. Venous venous Right lower leg measures 5.6 cm x 5.0 cm x 0.7 cm.
+  Wound bed: 64% slough, 36% granulation tissue. Periwound: macerated.
+  Drainage: heavy. Odor: present, mild.
+Assessment: Venous venous Right lower leg — not improving.
+Plan: Alginate dressing applied. Offloading boot applied.",j.thornton,,1,True
+141,95,org_facility_a,81101,HP Skin & Wound Note,2026-05-05T07:42:00,"Wound note - Rightlowerle. Meas 5.6x5.0x0.7cm. Heavy serosang drainage, odor present. Wound bed 70% gran, 30% slough. Periwound macerated. NPWT canister changed. Pt c/o discomfort w/ dsg change. Dr. Thornton notified.",f.morales,,1,True
+142,96,org_facility_a,94508,Wound Care Progress Note,2026-05-05T07:44:00,"Pt seen for wound eval. Venous Right lower leg measures aprx 5.2 x 2.3cm, depth 0.4cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 3.1x1.4, 0.2cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",d.espinoza,,1,True
+143,97,org_facility_a,87931,HP Skin & Wound Note,2026-05-10T00:48:00,"Wound note - Leftplantar. Meas 2.4x2.6x0.4cm. Light serosang drainage, no odor. Wound bed 66% gran, 34% slough. Periwound macerated. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Oduya notified.",h.kim,,1,True
+144,97,org_facility_a,85111,Wound Care Progress Note,2026-05-04T16:07:00,"Pt seen for wound eval. Diabetic Left plantar measures aprx 2.4 x 2.6cm, depth 0.4cm.
+Min drainage serous. Heel wound also eval - R heel 1.4x1.6, 0.2cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",f.morales,,1,True
+145,98,org_facility_a,87770,Wound Care Progress Note,2026-05-04T15:49:00,"Subjective: Patient reports pain at Left foot wound site, rates 2/10.
+Objective: Wound assessment performed. Diabetic diabetic Left foot measures 4.7 cm x 2.1 cm x 2.0 cm.
+  Wound bed: 37% slough, 63% granulation tissue. Periwound: macerated.
+  Drainage: heavy. Odor: present, mild.
+Assessment: Diabetic diabetic Left foot — not improving.
+Plan: Alginate dressing applied. Debridement consult ordered.",a.bergstrom,,1,True
+146,98,org_facility_a,93891,Wound (IDT),2026-05-12T12:49:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Left foot / Measures 4.7 cm x 2.1 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",r.patel,,1,True
+147,99,org_facility_a,91276,Wound Care Progress Note,2026-05-13T12:37:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Surgical to Abdominal wall / Measures 3.8 cm x 1.0 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",j.thornton,,1,True
+148,100,org_facility_a,93565,Wound (IDT),2026-05-12T00:23:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Arterial to Right lower extremity / Measures 1.3 cm x 1.1 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",m.lefebvre,,1,True
+149,100,org_facility_a,93010,HP Skin & Wound Note,2026-05-06T21:47:00,"Wound note - Rightlowerex. Meas 1.3x1.1x0.4cm. Mod serosang drainage, odor present. Wound bed 31% gran, 69% slough. Periwound intact. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Johansson notified.",s.okafor,,1,True
+150,101,org_facility_a,91376,Wound Care Progress Note,2026-05-07T05:33:00,"Wound note - Rightbuttock. Meas 9.2x4.6x2.7cm. Heavy serosang drainage, no odor. Wound bed 74% gran, 26% slough. Periwound erythematous. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Castillo notified.",t.kaczmarek,,1,True
+151,101,org_facility_a,91268,HP Skin & Wound Note,2026-05-17T23:27:00,"Wound note - Rightbuttock. Meas 9.2x4.6x2.7cm. Heavy serosang drainage, no odor. Wound bed 35% gran, 65% slough. Periwound macerated. Collagen dsg changed. Pt tolerated well. Dr. Nakamura notified.",a.bergstrom,,1,True
+152,102,org_facility_a,86092,Wound (SPN),2026-05-17T19:57:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Burn to Left upper arm / Measures 1.9 cm x 2.0 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. Odor present. Treatment: Foam dressing change daily.",s.okafor,,1,True
+153,102,org_facility_a,82955,HP Skin & Wound Note,2026-05-10T01:00:00,"Pt seen for wound eval. Burn Left upper arm measures aprx 1.9 x 2.0cm, depth 0.1cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 1.1x1.2, 0.1cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",m.lefebvre,,1,True
+154,103,org_facility_a,88300,Wound (SPN),2026-05-06T22:13:00,"Pt seen for wound eval. Abscess Right cervical measures aprx 1.6 x 0.9cm, depth 0.8cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 1.0x0.5, 0.4cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",t.kaczmarek,,1,True
+155,103,org_facility_a,87732,Wound (SPN),2026-05-17T02:47:00,"Pt seen for wound eval. Abscess Right cervical measures aprx 1.6 x 0.9cm, depth 0.8cm.
+Min drainage serosanguineous. Heel wound also eval - R heel 1.0x0.5, 0.4cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",p.johansson,,1,True
+156,104,org_facility_a,84414,Wound Care Progress Note,2026-05-17T01:36:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Left buttock / Measures 1.4 cm x 1.4 cm / Stage: Stage 2
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",a.bergstrom,,1,True
+157,104,org_facility_a,90606,Wound Care Progress Note,2026-05-14T05:49:00,"Subjective: Patient reports pain at Left buttock wound site, rates 9/10.
+Objective: Wound assessment performed. Stage 2 pressure ulcer Left buttock measures 1.4 cm x 1.4 cm x 0.4 cm.
+  Wound bed: 35% slough, 65% granulation tissue. Periwound: indurated.
+  Drainage: moderate. Odor: present, foul.
+Assessment: Stage 2 pressure ulcer Left buttock — improving.
+Plan: Offloading boot applied. Physician notified of wound progression.",w.oduya,,1,True
+158,105,org_facility_a,96053,Wound (IDT),2026-05-08T03:07:00,"Wound note - Rightlowerle. Meas 5.7x1.6x0.5cm. Mod serosang drainage, no odor. Wound bed 41% gran, 59% slough. Periwound intact. Alginate dsg applied. Pt tolerated well. Dr. Okafor notified.",b.nguyen,,1,True
+159,106,org_facility_a,98892,Wound (SPN),2026-05-06T06:34:00,"Wound note - Rightcervica. Meas 0.6x0.9x0.2cm. Light serosang drainage, no odor. Wound bed 42% gran, 58% slough. Periwound erythematous. Alginate dsg applied. Pt tolerated well. Dr. Castillo notified.",c.nakamura,,1,True
+160,106,org_facility_a,98021,HP Skin & Wound Note,2026-05-11T20:50:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Abscess to Right cervical / Measures 0.6 cm x 0.9 cm / Stage: N/A
+Drainage present - serous, light. No odor noted. Treatment: Pack with iodoform gauze daily.",d.espinoza,,1,True
+161,107,org_facility_a,88683,HP Skin & Wound Note,2026-05-10T12:51:00,"Pt seen for wound eval. Venous Left lower leg measures aprx 3.5 x 2.5cm, depth 0.3cm.
+Min drainage serosanguineous. Heel wound also eval - R heel 2.1x1.5, 0.1cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",c.nakamura,,1,True
+162,108,org_facility_a,94601,Wound (IDT),2026-05-14T19:57:00,"Subjective: Patient reports pain at Left upper arm wound site, rates 6/10.
+Objective: Wound assessment performed. Burn burn Left upper arm measures 1.6 cm x 4.0 cm x 0.1 cm.
+  Wound bed: 47% slough, 53% granulation tissue. Periwound: intact.
+  Drainage: light. Odor: present, mild.
+Assessment: Burn burn Left upper arm — improving.
+Plan: Debridement consult ordered. Physician notified of wound progression.",f.morales,,1,True
+163,108,org_facility_a,97961,Wound (SPN),2026-05-10T05:13:00,"Subjective: Patient reports pain at Left upper arm wound site, rates 5/10.
+Objective: Wound assessment performed. Burn burn Left upper arm measures 1.6 cm x 4.0 cm x 0.1 cm.
+  Wound bed: 53% slough, 47% granulation tissue. Periwound: erythematous.
+  Drainage: light. Odor: present, mild.
+Assessment: Burn burn Left upper arm — not improving.
+Plan: Debridement consult ordered. Alginate dressing applied.",d.espinoza,,1,True
+164,109,org_facility_a,85111,Wound Care Progress Note,2026-05-04T16:48:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Surgical to Abdominal wall / Measures 1.1 cm x 1.8 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. Odor present. Treatment: Foam dressing change daily.",f.morales,,1,True
+165,110,org_facility_a,92735,Wound (SPN),2026-05-10T04:00:00,"Wound note - Rightlowerle. Meas 2.4x4.5x0.1cm. Mod serosang drainage, no odor. Wound bed 33% gran, 67% slough. Periwound macerated. Alginate dsg applied. Pt tolerated well. Dr. Morales notified.",p.johansson,,1,True
+166,110,org_facility_a,87574,Wound (IDT),2026-05-17T14:05:00,"Pt seen for wound eval. Venous Right lower leg measures aprx 2.4 x 4.5cm, depth 0.1cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 1.4x2.7, 0.1cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",d.espinoza,,1,True
+167,111,org_facility_a,93675,HP Skin & Wound Note,2026-05-07T04:05:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Left plantar / Measures 1.9 cm x 1.9 cm / Stage: N/A
+Drainage present - serosanguineous, none. No odor noted. Treatment: Foam dressing change daily.",r.patel,,1,True
+168,112,org_facility_a,99541,HP Skin & Wound Note,2026-05-08T04:43:00,"Wound note - Leftheel. Meas 4.4x3.4x1.4cm. Heavy serosang drainage, odor present. Wound bed 79% gran, 21% slough. Periwound intact. Foam dsg changed. Pt c/o discomfort w/ dsg change. Dr. Lefebvre notified.",r.patel,,1,True
+169,112,org_facility_a,86028,Wound Care Progress Note,2026-05-09T04:30:00,"Wound note - Leftheel. Meas 4.4x3.4x1.4cm. Heavy serosang drainage, no odor. Wound bed 73% gran, 27% slough. Periwound intact. Collagen dsg changed. Pt tolerated well. Dr. Okafor notified.",h.kim,,1,True
+170,113,org_facility_a,81286,Wound (IDT),2026-05-17T16:27:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Burn to Left upper arm / Measures 3.9 cm x 3.1 cm / Stage: N/A
+Drainage present - serous, light. No odor noted. Treatment: Foam dressing change daily.",b.nguyen,,1,True
+171,114,org_facility_a,96766,Wound (IDT),2026-05-12T21:27:00,"Wound note - Leftfoot. Meas 4.9x2.2x1.2cm. Heavy serosang drainage, odor present. Wound bed 75% gran, 25% slough. Periwound erythematous. Foam dsg changed. Pt tolerated well. Dr. Okafor notified.",l.castillo,,1,True
+172,114,org_facility_a,85312,HP Skin & Wound Note,2026-05-08T02:05:00,"Wound note - Leftfoot. Meas 4.9x2.2x1.2cm. Heavy serosang drainage, no odor. Wound bed 54% gran, 46% slough. Periwound erythematous. NPWT canister changed. Pt c/o discomfort w/ dsg change. Dr. Thornton notified.",h.kim,,1,True
+173,115,org_facility_a,82873,Wound Care Progress Note,2026-05-08T04:41:00,"Wound note - Rightlowerex. Meas 2.7x1.1x0.7cm. Light serosang drainage, odor present. Wound bed 39% gran, 61% slough. Periwound intact. Collagen dsg changed. Pt tolerated well. Dr. Thornton notified.",j.thornton,,1,True
+174,116,org_facility_a,84250,Wound Care Progress Note,2026-05-12T15:27:00,"Pt seen for wound eval. Diabetic Left plantar measures aprx 1.4 x 3.1cm, depth 1.0cm.
+Min drainage serosanguineous. Heel wound also eval - R ankle 0.8x1.9, 0.5cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",l.castillo,,1,True
+175,116,org_facility_a,99969,HP Skin & Wound Note,2026-05-07T08:29:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Left plantar / Measures 1.4 cm x 3.1 cm / Stage: N/A
+Drainage present - serosanguineous, none. No odor noted. Treatment: Foam dressing change daily.",r.patel,,1,True
+176,117,org_facility_a,84448,Wound (SPN),2026-05-10T08:09:00,"Pt seen for wound eval. Pressure Ulcer Left buttock measures aprx 4.3 x 4.0cm, depth 2.4cm.
+Min drainage serous. Heel wound also eval - L ankle 2.6x2.4, 1.2cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",t.kaczmarek,,1,True
+177,118,org_facility_a,85734,Wound Care Progress Note,2026-05-13T17:27:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Venous to Right lower leg / Measures 6.1 cm x 2.4 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",s.okafor,,1,True
+178,118,org_facility_a,95815,Wound (SPN),2026-05-16T09:28:00,"Pt seen for wound eval. Venous Right lower leg measures aprx 6.1 x 2.4cm, depth 0.2cm.
+Min drainage serosanguineous. Heel wound also eval - L heel 3.7x1.4, 0.1cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",g.ramirez,,1,True
+179,119,org_facility_a,88966,HP Skin & Wound Note,2026-05-16T15:51:00,"Wound note - Rightlowerex. Meas 2.4x0.5x0.8cm. Light serosang drainage, no odor. Wound bed 42% gran, 58% slough. Periwound macerated. Collagen dsg changed. Pt tolerated well. Dr. Nguyen notified.",s.okafor,,1,True
+180,119,org_facility_a,85612,HP Skin & Wound Note,2026-05-06T14:24:00,"Subjective: Patient reports pain at Right lower extremity wound site, rates 3/10.
+Objective: Wound assessment performed. Arterial arterial Right lower extremity measures 2.4 cm x 0.5 cm x 0.8 cm.
+  Wound bed: 67% slough, 33% granulation tissue. Periwound: erythematous.
+  Drainage: light. Odor: present, foul.
+Assessment: Arterial arterial Right lower extremity — not improving.
+Plan: Continue current dressing regimen. Debridement consult ordered.",s.okafor,,1,True
+181,120,org_facility_a,80991,Wound (IDT),2026-05-12T13:31:00,"Wound note - Abdominalwal. Meas 3.7x3.1x1.1cm. Mod serosang drainage, odor present. Wound bed 69% gran, 31% slough. Periwound macerated. Collagen dsg changed. Pt c/o discomfort w/ dsg change. Dr. Espinoza notified.",s.okafor,,1,True
+182,121,org_facility_b,90661,Wound (IDT),2026-05-10T20:23:00,"Wound note - Leftbuttock. Meas 4.4x4.2x1.0cm. Heavy serosang drainage, no odor. Wound bed 72% gran, 28% slough. Periwound erythematous. Foam dsg changed. Pt c/o discomfort w/ dsg change. Dr. Oduya notified.",b.nguyen,,1,True
+183,122,org_facility_b,83594,Wound Care Progress Note,2026-05-09T23:00:00,"Subjective: Patient reports pain at Right lower extremity wound site, rates 2/10.
+Objective: Wound assessment performed. Arterial arterial Right lower extremity measures 2.5 cm x 1.9 cm x 0.9 cm.
+  Wound bed: 41% slough, 59% granulation tissue. Periwound: indurated.
+  Drainage: moderate. Odor: none.
+Assessment: Arterial arterial Right lower extremity — not improving.
+Plan: Offloading boot applied. Foam dressing change daily.",h.kim,,1,True
+184,122,org_facility_b,92543,Wound Care Progress Note,2026-05-06T05:35:00,"Pt seen for wound eval. Arterial Right lower extremity measures aprx 2.5 x 1.9cm, depth 0.9cm.
+Min drainage serosanguineous. Heel wound also eval - L heel 1.5x1.1, 0.5cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",d.espinoza,,1,True
+185,123,org_facility_b,87397,Wound Care Progress Note,2026-05-09T09:36:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Venous to Left lower leg / Measures 7.1 cm x 5.5 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",m.lefebvre,,1,True
+186,124,org_facility_b,93795,Wound Care Progress Note,2026-05-09T08:24:00,"Pt seen for wound eval. Abscess Right cervical measures aprx 1.4 x 1.1cm, depth 0.6cm.
+Min drainage serosanguineous. Heel wound also eval - L heel 0.8x0.7, 0.3cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",c.nakamura,,1,True
+187,125,org_facility_b,95889,HP Skin & Wound Note,2026-05-15T15:10:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Venous to Left lower leg / Measures 3.3 cm x 2.3 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",m.lefebvre,,1,True
+188,126,org_facility_b,97409,Wound (SPN),2026-05-09T02:58:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Venous to Left lower leg / Measures 3.2 cm x 3.7 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",p.johansson,,1,True
+189,126,org_facility_b,88751,Wound Care Progress Note,2026-05-07T15:39:00,"Pt seen for wound eval. Venous Left lower leg measures aprx 3.2 x 3.7cm, depth 0.4cm.
+Min drainage serosanguineous. Heel wound also eval - R ankle 1.9x2.2, 0.2cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",f.morales,,1,True
+190,127,org_facility_b,89056,Wound (IDT),2026-05-07T21:20:00,"Subjective: Patient reports pain at Sacral region wound site, rates 4/10.
+Objective: Wound assessment performed. Stage 2 pressure ulcer Sacral region measures 3.5 cm x 3.4 cm x 0.3 cm.
+  Wound bed: 56% slough, 44% granulation tissue. Periwound: macerated.
+  Drainage: moderate. Odor: none.
+Assessment: Stage 2 pressure ulcer Sacral region — not improving.
+Plan: Debridement consult ordered. Physician notified of wound progression.",f.morales,,1,True
+191,128,org_facility_b,95667,Wound (IDT),2026-05-11T06:00:00,"Subjective: Patient reports pain at Left foot wound site, rates 2/10.
+Objective: Wound assessment performed. Diabetic diabetic Left foot measures 4.3 cm x 2.4 cm x 1.2 cm.
+  Wound bed: 38% slough, 62% granulation tissue. Periwound: indurated.
+  Drainage: heavy. Odor: present, mild.
+Assessment: Diabetic diabetic Left foot — not improving.
+Plan: Debridement consult ordered. Continue current dressing regimen.",d.espinoza,,1,True
+192,129,org_facility_b,96373,Wound Care Progress Note,2026-05-10T11:56:00,"Wound note - Rightheel. Meas 1.3x2.7x0.2cm. Mod serosang drainage, no odor. Wound bed 38% gran, 62% slough. Periwound intact. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Thornton notified.",b.nguyen,,1,True
+193,129,org_facility_b,91066,Wound (SPN),2026-05-17T22:39:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Right heel / Measures 1.3 cm x 2.7 cm / Stage: Stage 2
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",f.morales,,1,True
+194,130,org_facility_b,90624,Wound (IDT),2026-05-04T00:17:00,"Subjective: Patient reports pain at Right lower extremity wound site, rates 9/10.
+Objective: Wound assessment performed. Arterial arterial Right lower extremity measures 2.6 cm x 0.7 cm x 0.7 cm.
+  Wound bed: 42% slough, 58% granulation tissue. Periwound: macerated.
+  Drainage: light. Odor: none.
+Assessment: Arterial arterial Right lower extremity — not improving.
+Plan: Negative pressure wound therapy initiated. Physician notified of wound progression.",s.okafor,,1,True
+195,131,org_facility_b,99538,Wound (SPN),2026-05-15T04:16:00,"Wound note - Leftlowerleg. Meas 5.4x2.4x0.6cm. Heavy serosang drainage, no odor. Wound bed 39% gran, 61% slough. Periwound erythematous. Collagen dsg changed. Pt tolerated well. Dr. Nguyen notified.",m.lefebvre,,1,True
+196,132,org_facility_b,85178,HP Skin & Wound Note,2026-05-06T22:01:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Burn to Left upper arm / Measures 1.3 cm x 2.3 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. Odor present. Treatment: Foam dressing change daily.",f.morales,,1,True
+197,132,org_facility_b,90672,HP Skin & Wound Note,2026-05-08T13:34:00,"Subjective: Patient reports pain at Left upper arm wound site, rates 9/10.
+Objective: Wound assessment performed. Burn burn Left upper arm measures 1.3 cm x 2.3 cm x 0.0 cm.
+  Wound bed: 48% slough, 52% granulation tissue. Periwound: intact.
+  Drainage: moderate. Odor: none.
+Assessment: Burn burn Left upper arm — improving.
+Plan: Negative pressure wound therapy initiated. Continue current dressing regimen.",r.patel,,1,True
+198,133,org_facility_b,98943,HP Skin & Wound Note,2026-05-13T04:50:00,"Wound note - Rightheel. Meas 5.2x3.6x3.2cm. Mod serosang drainage, odor present. Wound bed 37% gran, 63% slough. Periwound macerated. NPWT canister changed. Pt tolerated well. Dr. Espinoza notified.",b.nguyen,,1,True
+199,133,org_facility_b,94028,Wound (SPN),2026-05-04T09:43:00,"Wound note - Rightheel. Meas 5.2x3.6x3.2cm. Mod serosang drainage, no odor. Wound bed 35% gran, 65% slough. Periwound macerated. NPWT canister changed. Pt c/o discomfort w/ dsg change. Dr. Kim notified.",w.oduya,,1,True
+200,134,org_facility_b,82316,Wound (SPN),2026-05-12T03:31:00,"Subjective: Patient reports pain at Right cervical wound site, rates 9/10.
+Objective: Wound assessment performed. Abscess abscess Right cervical measures 2.0 cm x 0.2 cm x 0.6 cm.
+  Wound bed: 51% slough, 49% granulation tissue. Periwound: macerated.
+  Drainage: light. Odor: present, foul.
+Assessment: Abscess abscess Right cervical — improving.
+Plan: Nutritional consult ordered. Alginate dressing applied.",d.espinoza,,1,True
+201,134,org_facility_b,82652,HP Skin & Wound Note,2026-05-05T15:16:00,"Pt seen for wound eval. Abscess Right cervical measures aprx 2.0 x 0.2cm, depth 0.6cm.
+Min drainage serous. Heel wound also eval - L heel 1.2x0.1, 0.3cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",l.castillo,,1,True
+202,135,org_facility_b,86171,Wound (SPN),2026-05-05T02:16:00,"Pt seen for wound eval. Arterial Right lower extremity measures aprx 0.6 x 1.2cm, depth 0.6cm.
+Min drainage serous. Heel wound also eval - R ankle 0.4x0.7, 0.3cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",g.ramirez,,1,True
+203,135,org_facility_b,83583,Wound (SPN),2026-05-11T18:42:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Arterial to Right lower extremity / Measures 0.6 cm x 1.2 cm / Stage: N/A
+Drainage present - serous, light. Odor present. Treatment: Foam dressing change daily.",m.lefebvre,,1,True
+204,136,org_facility_b,81550,Wound Care Progress Note,2026-05-14T08:37:00,"Pt seen for wound eval. Diabetic Right plantar measures aprx 3.8 x 3.5cm, depth 0.8cm.
+Min drainage serous. Heel wound also eval - R heel 2.3x2.1, 0.4cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",m.lefebvre,,1,True
+205,137,org_facility_b,98521,HP Skin & Wound Note,2026-05-13T05:18:00,"Wound note - Rightplantar. Meas 1.1x3.8x1.2cm. Light serosang drainage, no odor. Wound bed 30% gran, 70% slough. Periwound erythematous. Collagen dsg changed. Pt tolerated well. Dr. Johansson notified.",w.oduya,,1,True
+206,137,org_facility_b,84568,Wound (SPN),2026-05-16T00:30:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Right plantar / Measures 1.1 cm x 3.8 cm / Stage: N/A
+Drainage present - serous, light. No odor noted. Treatment: Foam dressing change daily.",p.johansson,,1,True
+207,138,org_facility_b,94556,HP Skin & Wound Note,2026-05-04T06:55:00,"Pt seen for wound eval. Pressure Ulcer Right buttock measures aprx 5.4 x 2.8cm, depth 0.9cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 3.2x1.7, 0.5cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",w.oduya,,1,True
+208,138,org_facility_b,93572,Wound (IDT),2026-05-13T18:09:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Right buttock / Measures 5.4 cm x 2.8 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",m.lefebvre,,1,True
+209,139,org_facility_b,83911,Wound (SPN),2026-05-06T03:45:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Left plantar / Measures 4.8 cm x 3.5 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. Odor present. Treatment: Foam dressing change daily.",f.morales,,1,True
+210,139,org_facility_b,99040,Wound Care Progress Note,2026-05-16T04:13:00,"Pt seen for wound eval. Diabetic Left plantar measures aprx 4.8 x 3.5cm, depth 0.8cm.
+Min drainage serosanguineous. Heel wound also eval - R ankle 2.9x2.1, 0.4cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",t.kaczmarek,,1,True
+211,140,org_facility_b,97511,Wound (SPN),2026-05-06T01:37:00,"Pt seen for wound eval. Diabetic Right plantar measures aprx 3.5 x 3.2cm, depth 1.0cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 2.1x1.9, 0.5cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",l.castillo,,1,True
+212,140,org_facility_b,93500,Wound (IDT),2026-05-09T14:37:00,"Pt seen for wound eval. Diabetic Right plantar measures aprx 3.5 x 3.2cm, depth 1.0cm.
+Min drainage serosanguineous. Heel wound also eval - R heel 2.1x1.9, 0.5cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",c.nakamura,,1,True
+213,141,org_facility_b,96825,Wound (SPN),2026-05-17T17:54:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Right buttock / Measures 2.9 cm x 4.4 cm / Stage: Stage 3
+Drainage present - serous, light. No odor noted. Treatment: Foam dressing change daily.",l.castillo,,1,True
+214,142,org_facility_b,92439,Wound Care Progress Note,2026-05-07T20:49:00,"Wound note - Rightlowerle. Meas 7.8x1.9x0.6cm. Mod serosang drainage, no odor. Wound bed 62% gran, 38% slough. Periwound erythematous. NPWT canister changed. Pt tolerated well. Dr. Nakamura notified.",d.espinoza,,1,True
+215,143,org_facility_b,93127,Wound (IDT),2026-05-16T20:51:00,"Subjective: Patient reports pain at Left lower leg wound site, rates 9/10.
+Objective: Wound assessment performed. Venous venous Left lower leg measures 7.3 cm x 5.0 cm x 0.8 cm.
+  Wound bed: 37% slough, 63% granulation tissue. Periwound: intact.
+  Drainage: heavy. Odor: present, mild.
+Assessment: Venous venous Left lower leg — improving.
+Plan: Physician notified of wound progression. Offloading boot applied.",w.oduya,,1,True
+216,144,org_facility_b,82507,Wound (SPN),2026-05-15T14:21:00,"Subjective: Patient reports pain at Left plantar wound site, rates 9/10.
+Objective: Wound assessment performed. Diabetic diabetic Left plantar measures 1.9 cm x 3.8 cm x 0.2 cm.
+  Wound bed: 37% slough, 63% granulation tissue. Periwound: intact.
+  Drainage: moderate. Odor: none.
+Assessment: Diabetic diabetic Left plantar — improving.
+Plan: Nutritional consult ordered. Offloading boot applied.",p.johansson,,1,True
+217,145,org_facility_b,92824,Wound (SPN),2026-05-04T18:28:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Right buttock / Measures 1.9 cm x 1.9 cm / Stage: Stage 2
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",a.bergstrom,,1,True
+218,145,org_facility_b,89320,Wound Care Progress Note,2026-05-11T04:17:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Right buttock / Measures 1.9 cm x 1.9 cm / Stage: Stage 2
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",c.nakamura,,1,True
+219,146,org_facility_b,96276,Wound Care Progress Note,2026-05-06T02:47:00,"Subjective: Patient reports pain at Left heel wound site, rates 7/10.
+Objective: Wound assessment performed. Stage 2 pressure ulcer Left heel measures 2.7 cm x 3.2 cm x 0.2 cm.
+  Wound bed: 56% slough, 44% granulation tissue. Periwound: indurated.
+  Drainage: moderate. Odor: present, mild.
+Assessment: Stage 2 pressure ulcer Left heel — improving.
+Plan: Alginate dressing applied. Nutritional consult ordered.",b.nguyen,,1,True
+220,146,org_facility_b,82468,Wound (IDT),2026-05-12T10:48:00,"Pt seen for wound eval. Pressure Ulcer Left heel measures aprx 2.7 x 3.2cm, depth 0.2cm.
+Min drainage serosanguineous. Heel wound also eval - R heel 1.6x1.9, 0.1cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",h.kim,,1,True
+221,147,org_facility_b,97456,Wound Care Progress Note,2026-05-04T00:31:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Left plantar / Measures 3.7 cm x 2.6 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. Odor present. Treatment: Foam dressing change daily.",f.morales,,1,True
+222,148,org_facility_b,81383,HP Skin & Wound Note,2026-05-13T02:25:00,"Subjective: Patient reports pain at Right lower extremity wound site, rates 5/10.
+Objective: Wound assessment performed. Arterial arterial Right lower extremity measures 1.1 cm x 2.2 cm x 0.6 cm.
+  Wound bed: 70% slough, 30% granulation tissue. Periwound: erythematous.
+  Drainage: moderate. Odor: none.
+Assessment: Arterial arterial Right lower extremity — improving.
+Plan: Foam dressing change daily. Debridement consult ordered.",w.oduya,,1,True
+223,148,org_facility_b,82083,Wound Care Progress Note,2026-05-17T21:40:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Arterial to Right lower extremity / Measures 1.1 cm x 2.2 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",g.ramirez,,1,True
+224,149,org_facility_b,89100,HP Skin & Wound Note,2026-05-11T08:17:00,"Pt seen for wound eval. Burn Left upper arm measures aprx 5.8 x 2.6cm, depth 0.1cm.
+Min drainage serous. Heel wound also eval - L heel 3.5x1.6, 0.1cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",g.ramirez,,1,True
+225,149,org_facility_b,87853,Wound (SPN),2026-05-08T22:07:00,"Wound note - Leftupperarm. Meas 5.8x2.6x0.1cm. Light serosang drainage, no odor. Wound bed 53% gran, 47% slough. Periwound macerated. Collagen dsg changed. Pt c/o discomfort w/ dsg change. Dr. Kim notified.",a.bergstrom,,1,True
+226,150,org_facility_b,94852,Wound Care Progress Note,2026-05-08T00:08:00,"Pt seen for wound eval. Burn Left upper arm measures aprx 3.1 x 4.3cm, depth 0.1cm.
+Min drainage serous. Heel wound also eval - L heel 1.9x2.6, 0.1cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",w.oduya,,1,True
+227,151,org_facility_b,98301,Wound (SPN),2026-05-08T16:59:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Abscess to Right cervical / Measures 1.6 cm x 0.5 cm / Stage: N/A
+Drainage present - serous, light. No odor noted. Treatment: Pack with iodoform gauze daily.",p.johansson,,1,True
+228,151,org_facility_b,84890,Wound Care Progress Note,2026-05-11T04:33:00,"Wound note - Rightcervica. Meas 1.6x0.5x0.4cm. Light serosang drainage, no odor. Wound bed 35% gran, 65% slough. Periwound macerated. Alginate dsg applied. Pt tolerated well. Dr. Bergstrom notified.",s.okafor,,1,True
+229,152,org_facility_b,93027,Wound Care Progress Note,2026-05-10T19:05:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Surgical to Abdominal wall / Measures 4.9 cm x 1.6 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. Odor present. Treatment: Foam dressing change daily.",p.johansson,,1,True
+230,152,org_facility_b,87695,Wound Care Progress Note,2026-05-09T22:57:00,"Wound note - Abdominalwal. Meas 4.9x1.6x1.1cm. Mod serosang drainage, no odor. Wound bed 75% gran, 25% slough. Periwound macerated. NPWT canister changed. Pt tolerated well. Dr. Oduya notified.",t.kaczmarek,,1,True
+231,153,org_facility_b,84956,Wound (IDT),2026-05-15T13:13:00,"Pt seen for wound eval. Diabetic Left plantar measures aprx 4.3 x 3.2cm, depth 1.4cm.
+Min drainage serous. Heel wound also eval - L ankle 2.6x1.9, 0.7cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",b.nguyen,,1,True
+232,153,org_facility_b,81175,HP Skin & Wound Note,2026-05-15T22:46:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Left plantar / Measures 4.3 cm x 3.2 cm / Stage: N/A
+Drainage present - serous, light. Odor present. Treatment: Foam dressing change daily.",t.kaczmarek,,1,True
+233,154,org_facility_b,99344,Wound Care Progress Note,2026-05-07T20:35:00,"Pt seen for wound eval. Pressure Ulcer Left heel measures aprx 7.4 x 5.1cm, depth 1.7cm.
+Min drainage serosanguineous. Heel wound also eval - L heel 4.4x3.1, 0.8cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",g.ramirez,,1,True
+234,155,org_facility_b,89782,Wound (SPN),2026-05-07T03:51:00,"Subjective: Patient reports pain at Abdominal wall wound site, rates 2/10.
+Objective: Wound assessment performed. Surgical surgical Abdominal wall measures 3.4 cm x 1.1 cm x 0.7 cm.
+  Wound bed: 26% slough, 74% granulation tissue. Periwound: macerated.
+  Drainage: moderate. Odor: none.
+Assessment: Surgical surgical Abdominal wall — improving.
+Plan: Nutritional consult ordered. Physician notified of wound progression.",t.kaczmarek,,1,True
+235,155,org_facility_b,91765,HP Skin & Wound Note,2026-05-13T02:22:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Surgical to Abdominal wall / Measures 3.4 cm x 1.1 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",p.johansson,,1,True
+236,156,org_facility_b,93533,Wound (IDT),2026-05-17T07:54:00,"Wound note - Rightcervica. Meas 1.8x0.8x0.2cm. Light serosang drainage, odor present. Wound bed 63% gran, 37% slough. Periwound macerated. Collagen dsg changed. Pt tolerated well. Dr. Castillo notified.",s.okafor,,1,True
+237,156,org_facility_b,99187,Wound Care Progress Note,2026-05-08T15:38:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Abscess to Right cervical / Measures 1.8 cm x 0.8 cm / Stage: N/A
+Drainage present - serous, light. No odor noted. Treatment: Pack with iodoform gauze daily.",s.okafor,,1,True
+238,157,org_facility_b,89922,Wound (IDT),2026-05-06T04:14:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Right hip / Measures 2.5 cm x 2.4 cm / Stage: Stage 3
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",l.castillo,,1,True
+239,157,org_facility_b,86252,Wound (SPN),2026-05-16T19:52:00,"Pt seen for wound eval. Pressure Ulcer Right hip measures aprx 2.5 x 2.4cm, depth 0.8cm.
+Min drainage serosanguineous. Heel wound also eval - R ankle 1.5x1.4, 0.4cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",s.okafor,,1,True
+240,158,org_facility_b,95974,Wound (SPN),2026-05-06T06:42:00,"Subjective: Patient reports pain at Left lower leg wound site, rates 3/10.
+Objective: Wound assessment performed. Venous venous Left lower leg measures 2.8 cm x 3.8 cm x 0.7 cm.
+  Wound bed: 40% slough, 60% granulation tissue. Periwound: indurated.
+  Drainage: moderate. Odor: present, mild.
+Assessment: Venous venous Left lower leg — improving.
+Plan: Physician notified of wound progression. Continue current dressing regimen.",d.espinoza,,1,True
+241,158,org_facility_b,87599,Wound (IDT),2026-05-06T04:01:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Venous to Left lower leg / Measures 2.8 cm x 3.8 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",w.oduya,,1,True
+242,159,org_facility_b,99849,HP Skin & Wound Note,2026-05-15T18:48:00,"Wound note - Rightlowerle. Meas 6.2x3.0x0.4cm. Heavy serosang drainage, no odor. Wound bed 69% gran, 31% slough. Periwound intact. Collagen dsg changed. Pt c/o discomfort w/ dsg change. Dr. Oduya notified.",t.kaczmarek,,1,True
+243,159,org_facility_b,91699,Wound Care Progress Note,2026-05-17T12:04:00,"Subjective: Patient reports pain at Right lower leg wound site, rates 8/10.
+Objective: Wound assessment performed. Venous venous Right lower leg measures 6.2 cm x 3.0 cm x 0.4 cm.
+  Wound bed: 20% slough, 80% granulation tissue. Periwound: indurated.
+  Drainage: heavy. Odor: present, mild.
+Assessment: Venous venous Right lower leg — improving.
+Plan: Negative pressure wound therapy initiated. Alginate dressing applied.",p.johansson,,1,True
+244,160,org_facility_b,85055,Wound (SPN),2026-05-10T00:05:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Venous to Left lower leg / Measures 5.6 cm x 5.4 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",p.johansson,,1,True
+245,160,org_facility_b,80215,Wound (IDT),2026-05-16T17:32:00,"Pt seen for wound eval. Venous Left lower leg measures aprx 5.6 x 5.4cm, depth 0.7cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 3.4x3.2, 0.3cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",r.patel,,1,True
+246,161,org_facility_b,93739,Wound Care Progress Note,2026-05-07T01:09:00,"Subjective: Patient reports pain at Right heel wound site, rates 8/10.
+Objective: Wound assessment performed. Stage 2 pressure ulcer Right heel measures 1.3 cm x 1.6 cm x 0.4 cm.
+  Wound bed: 32% slough, 68% granulation tissue. Periwound: intact.
+  Drainage: none. Odor: present, foul.
+Assessment: Stage 2 pressure ulcer Right heel — not improving.
+Plan: Debridement consult ordered. Offloading boot applied.",d.espinoza,,1,True
+247,161,org_facility_b,93236,HP Skin & Wound Note,2026-05-17T15:03:00,"Pt seen for wound eval. Pressure Ulcer Right heel measures aprx 1.3 x 1.6cm, depth 0.4cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 0.8x1.0, 0.2cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",t.kaczmarek,,1,True
+248,162,org_facility_b,91479,HP Skin & Wound Note,2026-05-14T00:23:00,"Subjective: Patient reports pain at Sacral region wound site, rates 3/10.
+Objective: Wound assessment performed. Stage 2 pressure ulcer Sacral region measures 1.2 cm x 1.8 cm x 0.3 cm.
+  Wound bed: 52% slough, 48% granulation tissue. Periwound: erythematous.
+  Drainage: light. Odor: present, foul.
+Assessment: Stage 2 pressure ulcer Sacral region — not improving.
+Plan: Foam dressing change daily. Negative pressure wound therapy initiated.",a.bergstrom,,1,True
+249,163,org_facility_b,83891,Wound Care Progress Note,2026-05-06T18:25:00,"Wound note - Leftfoot. Meas 3.7x2.1x1.3cm. Heavy serosang drainage, odor present. Wound bed 75% gran, 25% slough. Periwound erythematous. Foam dsg changed. Pt tolerated well. Dr. Oduya notified.",l.castillo,,1,True
+250,163,org_facility_b,97130,Wound (SPN),2026-05-12T05:42:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Left foot / Measures 3.7 cm x 2.1 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. Odor present. Treatment: Foam dressing change daily.",m.lefebvre,,1,True
+251,164,org_facility_b,92688,Wound (IDT),2026-05-06T13:55:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Venous to Left lower leg / Measures 6.9 cm x 1.7 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. Odor present. Treatment: Foam dressing change daily.",r.patel,,1,True
+252,164,org_facility_b,89089,Wound (IDT),2026-05-17T02:04:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Venous to Left lower leg / Measures 6.9 cm x 1.7 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",p.johansson,,1,True
+253,165,org_facility_b,84719,Wound Care Progress Note,2026-05-16T06:50:00,"Wound note - Leftplantar. Meas 3.4x2.4x1.4cm. Light serosang drainage, odor present. Wound bed 56% gran, 44% slough. Periwound intact. Collagen dsg changed. Pt tolerated well. Dr. Espinoza notified.",m.lefebvre,,1,True
+254,165,org_facility_b,90659,Wound (SPN),2026-05-11T02:50:00,"Pt seen for wound eval. Diabetic Left plantar measures aprx 3.4 x 2.4cm, depth 1.4cm.
+Min drainage serous. Heel wound also eval - L heel 2.0x1.4, 0.7cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",m.lefebvre,,1,True
+255,166,org_facility_b,84665,HP Skin & Wound Note,2026-05-04T03:28:00,"Wound note - Rightplantar. Meas 4.7x0.9x0.9cm. Mod serosang drainage, no odor. Wound bed 78% gran, 22% slough. Periwound erythematous. Alginate dsg applied. Pt tolerated well. Dr. Bergstrom notified.",c.nakamura,,1,True
+256,167,org_facility_b,88058,Wound Care Progress Note,2026-05-13T01:32:00,"Wound note - Leftheel. Meas 4.7x3.7x2.9cm. Heavy serosang drainage, no odor. Wound bed 69% gran, 31% slough. Periwound erythematous. Collagen dsg changed. Pt tolerated well. Dr. Ramirez notified.",p.johansson,,1,True
+257,167,org_facility_b,80067,HP Skin & Wound Note,2026-05-08T13:59:00,"Pt seen for wound eval. Pressure Ulcer Left heel measures aprx 4.7 x 3.7cm, depth 2.9cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 2.8x2.2, 1.4cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",l.castillo,,1,True
+258,168,org_facility_b,80233,HP Skin & Wound Note,2026-05-10T01:15:00,"Subjective: Patient reports pain at Left upper arm wound site, rates 6/10.
+Objective: Wound assessment performed. Burn burn Left upper arm measures 1.1 cm x 2.0 cm x 0.2 cm.
+  Wound bed: 29% slough, 71% granulation tissue. Periwound: macerated.
+  Drainage: moderate. Odor: none.
+Assessment: Burn burn Left upper arm — not improving.
+Plan: Physician notified of wound progression. Debridement consult ordered.",r.patel,,1,True
+259,169,org_facility_b,81538,HP Skin & Wound Note,2026-05-05T22:04:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Surgical to Abdominal wall / Measures 2.3 cm x 3.5 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",a.bergstrom,,1,True
+260,169,org_facility_b,90967,HP Skin & Wound Note,2026-05-12T23:35:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Surgical to Abdominal wall / Measures 2.3 cm x 3.5 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",s.okafor,,1,True
+261,170,org_facility_b,82155,Wound (IDT),2026-05-13T04:20:00,"Subjective: Patient reports pain at Left buttock wound site, rates 8/10.
+Objective: Wound assessment performed. Stage 2 pressure ulcer Left buttock measures 3.3 cm x 2.5 cm x 0.3 cm.
+  Wound bed: 60% slough, 40% granulation tissue. Periwound: intact.
+  Drainage: none. Odor: none.
+Assessment: Stage 2 pressure ulcer Left buttock — improving.
+Plan: Foam dressing change daily. Nutritional consult ordered.",s.okafor,,1,True
+262,171,org_facility_b,84511,HP Skin & Wound Note,2026-05-08T09:49:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Sacral region / Measures 5.2 cm x 2.2 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",f.morales,,1,True
+263,171,org_facility_b,84830,HP Skin & Wound Note,2026-05-05T12:41:00,"Subjective: Patient reports pain at Sacral region wound site, rates 2/10.
+Objective: Wound assessment performed. Pressure Ulcer pressure ulcer Sacral region measures 5.2 cm x 2.2 cm x 1.3 cm.
+  Wound bed: 72% slough, 28% granulation tissue. Periwound: erythematous.
+  Drainage: heavy. Odor: present, foul.
+Assessment: Pressure Ulcer pressure ulcer Sacral region — improving.
+Plan: Nutritional consult ordered. Offloading boot applied.",t.kaczmarek,,1,True
+264,172,org_facility_b,86727,Wound (IDT),2026-05-04T13:09:00,"Wound note - Leftplantar. Meas 4.6x2.4x1.4cm. Mod serosang drainage, no odor. Wound bed 59% gran, 41% slough. Periwound erythematous. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Patel notified.",d.espinoza,,1,True
+265,173,org_facility_b,85615,Wound Care Progress Note,2026-05-14T12:09:00,"Pt seen for wound eval. Venous Right lower leg measures aprx 7.4 x 1.1cm, depth 0.6cm.
+Min drainage serosanguineous. Heel wound also eval - R heel 4.4x0.7, 0.3cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",b.nguyen,,1,True
+266,174,org_facility_b,97003,Wound (IDT),2026-05-05T07:37:00,"Subjective: Patient reports pain at Left upper arm wound site, rates 9/10.
+Objective: Wound assessment performed. Burn burn Left upper arm measures 5.4 cm x 4.4 cm x 0.2 cm.
+  Wound bed: 30% slough, 70% granulation tissue. Periwound: intact.
+  Drainage: moderate. Odor: none.
+Assessment: Burn burn Left upper arm — improving.
+Plan: Nutritional consult ordered. Physician notified of wound progression.",t.kaczmarek,,1,True
+267,175,org_facility_b,90388,Wound (IDT),2026-05-11T10:37:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Right plantar / Measures 3.1 cm x 1.5 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",a.bergstrom,,1,True
+268,175,org_facility_b,91766,Wound (SPN),2026-05-10T16:44:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Right plantar / Measures 3.1 cm x 1.5 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. Odor present. Treatment: Foam dressing change daily.",g.ramirez,,1,True
+269,176,org_facility_b,91162,Wound (IDT),2026-05-09T09:14:00,"Wound note - Leftupperarm. Meas 1.1x3.5x0.2cm. Light serosang drainage, odor present. Wound bed 44% gran, 56% slough. Periwound erythematous. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Kaczmarek notified.",f.morales,,1,True
+270,176,org_facility_b,84553,Wound Care Progress Note,2026-05-04T06:59:00,"Subjective: Patient reports pain at Left upper arm wound site, rates 7/10.
+Objective: Wound assessment performed. Burn burn Left upper arm measures 1.1 cm x 3.5 cm x 0.2 cm.
+  Wound bed: 26% slough, 74% granulation tissue. Periwound: macerated.
+  Drainage: light. Odor: present, mild.
+Assessment: Burn burn Left upper arm — improving.
+Plan: Nutritional consult ordered. Alginate dressing applied.",l.castillo,,1,True
+271,177,org_facility_b,87636,HP Skin & Wound Note,2026-05-16T11:42:00,"Subjective: Patient reports pain at Right plantar wound site, rates 4/10.
+Objective: Wound assessment performed. Diabetic diabetic Right plantar measures 1.8 cm x 1.1 cm x 0.9 cm.
+  Wound bed: 74% slough, 26% granulation tissue. Periwound: macerated.
+  Drainage: light. Odor: none.
+Assessment: Diabetic diabetic Right plantar — not improving.
+Plan: Physician notified of wound progression. Foam dressing change daily.",a.bergstrom,,1,True
+272,177,org_facility_b,84231,Wound (SPN),2026-05-11T11:50:00,"Subjective: Patient reports pain at Right plantar wound site, rates 9/10.
+Objective: Wound assessment performed. Diabetic diabetic Right plantar measures 1.8 cm x 1.1 cm x 0.9 cm.
+  Wound bed: 77% slough, 23% granulation tissue. Periwound: erythematous.
+  Drainage: light. Odor: present, foul.
+Assessment: Diabetic diabetic Right plantar — not improving.
+Plan: Foam dressing change daily. Alginate dressing applied.",b.nguyen,,1,True
+273,178,org_facility_b,85884,HP Skin & Wound Note,2026-05-05T18:34:00,"Pt seen for wound eval. Diabetic Left foot measures aprx 2.2 x 1.8cm, depth 1.5cm.
+Min drainage serosanguineous. Heel wound also eval - R ankle 1.3x1.1, 0.8cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",g.ramirez,,1,True
+274,178,org_facility_b,92895,Wound (SPN),2026-05-07T18:16:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Left foot / Measures 2.2 cm x 1.8 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",w.oduya,,1,True
+275,179,org_facility_b,82704,Wound (SPN),2026-05-10T08:31:00,"Subjective: Patient reports pain at Left buttock wound site, rates 2/10.
+Objective: Wound assessment performed. Pressure Ulcer pressure ulcer Left buttock measures 3.8 cm x 2.7 cm x 1.0 cm.
+  Wound bed: 64% slough, 36% granulation tissue. Periwound: intact.
+  Drainage: moderate. Odor: present, foul.
+Assessment: Pressure Ulcer pressure ulcer Left buttock — improving.
+Plan: Debridement consult ordered. Physician notified of wound progression.",b.nguyen,,1,True
+276,179,org_facility_b,85807,Wound (SPN),2026-05-15T23:22:00,"Wound note - Leftbuttock. Meas 3.8x2.7x1.0cm. Mod serosang drainage, no odor. Wound bed 75% gran, 25% slough. Periwound macerated. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Kaczmarek notified.",a.bergstrom,,1,True
+277,180,org_facility_b,86786,HP Skin & Wound Note,2026-05-16T13:40:00,"Wound note - Rightheel. Meas 1.0x0.9x0.1cm. None serosang drainage, odor present. Wound bed 36% gran, 64% slough. Periwound erythematous. Alginate dsg applied. Pt tolerated well. Dr. Oduya notified.",g.ramirez,,1,True
+278,181,org_facility_b,82212,Wound (IDT),2026-05-06T13:06:00,"Pt seen for wound eval. Diabetic Left plantar measures aprx 4.9 x 3.0cm, depth 1.1cm.
+Min drainage serosanguineous. Heel wound also eval - R heel 2.9x1.8, 0.6cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",c.nakamura,,1,True
+279,182,org_facility_b,99925,HP Skin & Wound Note,2026-05-07T16:09:00,"Subjective: Patient reports pain at Left buttock wound site, rates 5/10.
+Objective: Wound assessment performed. Pressure Ulcer pressure ulcer Left buttock measures 5.1 cm x 1.6 cm x 1.6 cm.
+  Wound bed: 26% slough, 74% granulation tissue. Periwound: erythematous.
+  Drainage: heavy. Odor: present, mild.
+Assessment: Pressure Ulcer pressure ulcer Left buttock — improving.
+Plan: Negative pressure wound therapy initiated. Alginate dressing applied.",h.kim,,1,True
+280,182,org_facility_b,82117,Wound (SPN),2026-05-15T09:20:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Left buttock / Measures 5.1 cm x 1.6 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",h.kim,,1,True
+281,183,org_facility_b,94004,Wound (IDT),2026-05-04T08:59:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Arterial to Right lower extremity / Measures 2.9 cm x 1.3 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",h.kim,,1,True
+282,183,org_facility_b,98420,Wound (IDT),2026-05-13T09:42:00,"Subjective: Patient reports pain at Right lower extremity wound site, rates 6/10.
+Objective: Wound assessment performed. Arterial arterial Right lower extremity measures 2.9 cm x 1.3 cm x 0.3 cm.
+  Wound bed: 42% slough, 58% granulation tissue. Periwound: macerated.
+  Drainage: moderate. Odor: present, foul.
+Assessment: Arterial arterial Right lower extremity — not improving.
+Plan: Debridement consult ordered. Physician notified of wound progression.",l.castillo,,1,True
+283,184,org_facility_b,80925,Wound Care Progress Note,2026-05-14T08:58:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Sacral region / Measures 3.1 cm x 2.5 cm / Stage: Stage 2
+Drainage present - serosanguineous, none. No odor noted. Treatment: Foam dressing change daily.",w.oduya,,1,True
+284,184,org_facility_b,80404,HP Skin & Wound Note,2026-05-08T02:07:00,"Wound note - Sacralrgn. Meas 3.1x2.5x0.2cm. None serosang drainage, odor present. Wound bed 46% gran, 54% slough. Periwound erythematous. NPWT canister changed. Pt tolerated well. Dr. Johansson notified.",s.okafor,,1,True
+285,185,org_facility_b,86082,HP Skin & Wound Note,2026-05-16T09:24:00,"Wound note - Leftbuttock. Meas 4.8x3.3x1.4cm. Heavy serosang drainage, no odor. Wound bed 53% gran, 47% slough. Periwound intact. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Patel notified.",r.patel,,1,True
+286,186,org_facility_b,91241,Wound Care Progress Note,2026-05-08T10:39:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Left heel / Measures 2.1 cm x 2.2 cm / Stage: Stage 2
+Drainage present - serous, light. No odor noted. Treatment: Foam dressing change daily.",c.nakamura,,1,True
+287,186,org_facility_b,80101,Wound (SPN),2026-05-04T13:09:00,"Wound note - Leftheel. Meas 2.1x2.2x0.4cm. Light serosang drainage, no odor. Wound bed 53% gran, 47% slough. Periwound erythematous. NPWT canister changed. Pt c/o discomfort w/ dsg change. Dr. Espinoza notified.",t.kaczmarek,,1,True
+288,187,org_facility_b,83790,Wound (IDT),2026-05-04T09:50:00,"Wound note - Rightlowerex. Meas 2.3x1.1x0.4cm. Light serosang drainage, no odor. Wound bed 61% gran, 39% slough. Periwound intact. Collagen dsg changed. Pt c/o discomfort w/ dsg change. Dr. Kim notified.",t.kaczmarek,,1,True
+289,188,org_facility_b,82873,Wound Care Progress Note,2026-05-14T15:53:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Surgical to Abdominal wall / Measures 4.1 cm x 2.7 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",s.okafor,,1,True
+290,188,org_facility_b,90184,Wound (SPN),2026-05-04T13:36:00,"Subjective: Patient reports pain at Abdominal wall wound site, rates 7/10.
+Objective: Wound assessment performed. Surgical surgical Abdominal wall measures 4.1 cm x 2.7 cm x 1.4 cm.
+  Wound bed: 33% slough, 67% granulation tissue. Periwound: macerated.
+  Drainage: heavy. Odor: present, foul.
+Assessment: Surgical surgical Abdominal wall — not improving.
+Plan: Alginate dressing applied. Offloading boot applied.",j.thornton,,1,True
+291,189,org_facility_b,87375,HP Skin & Wound Note,2026-05-05T13:51:00,"Pt seen for wound eval. Surgical Abdominal wall measures aprx 4.4 x 2.6cm, depth 1.4cm.
+Min drainage serosanguineous. Heel wound also eval - R ankle 2.6x1.6, 0.7cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",w.oduya,,1,True
+292,189,org_facility_b,91056,Wound (IDT),2026-05-07T18:59:00,"Subjective: Patient reports pain at Abdominal wall wound site, rates 4/10.
+Objective: Wound assessment performed. Surgical surgical Abdominal wall measures 4.4 cm x 2.6 cm x 1.4 cm.
+  Wound bed: 26% slough, 74% granulation tissue. Periwound: indurated.
+  Drainage: moderate. Odor: present, foul.
+Assessment: Surgical surgical Abdominal wall — improving.
+Plan: Nutritional consult ordered. Debridement consult ordered.",d.espinoza,,1,True
+293,190,org_facility_b,95527,Wound Care Progress Note,2026-05-15T22:54:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Venous to Left lower leg / Measures 1.6 cm x 4.6 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",m.lefebvre,,1,True
+294,190,org_facility_b,87892,Wound (SPN),2026-05-11T16:58:00,"Subjective: Patient reports pain at Left lower leg wound site, rates 3/10.
+Objective: Wound assessment performed. Venous venous Left lower leg measures 1.6 cm x 4.6 cm x 0.5 cm.
+  Wound bed: 48% slough, 52% granulation tissue. Periwound: erythematous.
+  Drainage: moderate. Odor: present, foul.
+Assessment: Venous venous Left lower leg — improving.
+Plan: Nutritional consult ordered. Alginate dressing applied.",d.espinoza,,1,True
+295,191,org_facility_b,97003,Wound (SPN),2026-05-05T07:29:00,"Wound note - Rightcervica. Meas 1.5x0.6x0.2cm. Mod serosang drainage, no odor. Wound bed 55% gran, 45% slough. Periwound erythematous. Foam dsg changed. Pt c/o discomfort w/ dsg change. Dr. Espinoza notified.",h.kim,,1,True
+296,192,org_facility_b,99391,HP Skin & Wound Note,2026-05-14T19:22:00,"Subjective: Patient reports pain at Left foot wound site, rates 2/10.
+Objective: Wound assessment performed. Diabetic diabetic Left foot measures 2.6 cm x 3.2 cm x 1.0 cm.
+  Wound bed: 65% slough, 35% granulation tissue. Periwound: intact.
+  Drainage: heavy. Odor: none.
+Assessment: Diabetic diabetic Left foot — improving.
+Plan: Debridement consult ordered. Physician notified of wound progression.",c.nakamura,,1,True
+297,193,org_facility_b,83209,Wound (SPN),2026-05-04T16:43:00,"Subjective: Patient reports pain at Abdominal wall wound site, rates 7/10.
+Objective: Wound assessment performed. Surgical surgical Abdominal wall measures 4.9 cm x 1.6 cm x 0.8 cm.
+  Wound bed: 40% slough, 60% granulation tissue. Periwound: intact.
+  Drainage: moderate. Odor: present, mild.
+Assessment: Surgical surgical Abdominal wall — not improving.
+Plan: Continue current dressing regimen. Nutritional consult ordered.",d.espinoza,,1,True
+298,193,org_facility_b,98748,Wound Care Progress Note,2026-05-08T08:54:00,"Wound note - Abdominalwal. Meas 4.9x1.6x0.8cm. Mod serosang drainage, no odor. Wound bed 54% gran, 46% slough. Periwound intact. Foam dsg changed. Pt c/o discomfort w/ dsg change. Dr. Lefebvre notified.",h.kim,,1,True
+299,194,org_facility_b,90015,Wound (SPN),2026-05-06T16:41:00,"Pt seen for wound eval. Arterial Right lower extremity measures aprx 1.6 x 1.4cm, depth 0.5cm.
+Min drainage serosanguineous. Heel wound also eval - R ankle 1.0x0.8, 0.2cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",d.espinoza,,1,True
+300,194,org_facility_b,85410,Wound (SPN),2026-05-16T00:45:00,"Pt seen for wound eval. Arterial Right lower extremity measures aprx 1.6 x 1.4cm, depth 0.5cm.
+Min drainage serosanguineous. Heel wound also eval - L heel 1.0x0.8, 0.2cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",l.castillo,,1,True
+301,195,org_facility_b,97665,HP Skin & Wound Note,2026-05-16T13:02:00,"Wound note - Leftbuttock. Meas 5.5x3.3x0.7cm. Mod serosang drainage, no odor. Wound bed 62% gran, 38% slough. Periwound macerated. Foam dsg changed. Pt tolerated well. Dr. Espinoza notified.",h.kim,,1,True
+302,195,org_facility_b,89988,HP Skin & Wound Note,2026-05-07T05:35:00,"Subjective: Patient reports pain at Left buttock wound site, rates 6/10.
+Objective: Wound assessment performed. Pressure Ulcer pressure ulcer Left buttock measures 5.5 cm x 3.3 cm x 0.7 cm.
+  Wound bed: 61% slough, 39% granulation tissue. Periwound: indurated.
+  Drainage: moderate. Odor: present, mild.
+Assessment: Pressure Ulcer pressure ulcer Left buttock — not improving.
+Plan: Offloading boot applied. Alginate dressing applied.",g.ramirez,,1,True
+303,196,org_facility_b,83626,HP Skin & Wound Note,2026-05-17T12:04:00,"Subjective: Patient reports pain at Right heel wound site, rates 9/10.
+Objective: Wound assessment performed. Stage 3 pressure ulcer Right heel measures 4.6 cm x 3.3 cm x 1.2 cm.
+  Wound bed: 38% slough, 62% granulation tissue. Periwound: indurated.
+  Drainage: light. Odor: none.
+Assessment: Stage 3 pressure ulcer Right heel — improving.
+Plan: Debridement consult ordered. Physician notified of wound progression.",r.patel,,1,True
+304,196,org_facility_b,85253,Wound (SPN),2026-05-11T00:39:00,"Pt seen for wound eval. Pressure Ulcer Right heel measures aprx 4.6 x 3.3cm, depth 1.2cm.
+Min drainage serous. Heel wound also eval - L heel 2.8x2.0, 0.6cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",p.johansson,,1,True
+305,197,org_facility_b,86182,HP Skin & Wound Note,2026-05-06T00:28:00,"Wound note - Leftplantar. Meas 1.6x2.4x0.5cm. None serosang drainage, no odor. Wound bed 72% gran, 28% slough. Periwound macerated. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Kaczmarek notified.",h.kim,,1,True
+306,197,org_facility_b,82979,HP Skin & Wound Note,2026-05-15T10:59:00,"Wound note - Leftplantar. Meas 1.6x2.4x0.5cm. None serosang drainage, odor present. Wound bed 44% gran, 56% slough. Periwound intact. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Espinoza notified.",h.kim,,1,True
+307,198,org_facility_b,89042,HP Skin & Wound Note,2026-05-09T04:37:00,"Subjective: Patient reports pain at Abdominal wall wound site, rates 4/10.
+Objective: Wound assessment performed. Surgical surgical Abdominal wall measures 2.0 cm x 2.4 cm x 0.9 cm.
+  Wound bed: 59% slough, 41% granulation tissue. Periwound: erythematous.
+  Drainage: moderate. Odor: present, foul.
+Assessment: Surgical surgical Abdominal wall — improving.
+Plan: Continue current dressing regimen. Physician notified of wound progression.",r.patel,,1,True
+308,199,org_facility_b,93729,Wound (IDT),2026-05-16T10:56:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Burn to Left upper arm / Measures 5.5 cm x 4.0 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",b.nguyen,,1,True
+309,199,org_facility_b,93025,HP Skin & Wound Note,2026-05-08T22:10:00,"Subjective: Patient reports pain at Left upper arm wound site, rates 4/10.
+Objective: Wound assessment performed. Burn burn Left upper arm measures 5.5 cm x 4.0 cm x 0.2 cm.
+  Wound bed: 42% slough, 58% granulation tissue. Periwound: erythematous.
+  Drainage: moderate. Odor: present, foul.
+Assessment: Burn burn Left upper arm — not improving.
+Plan: Debridement consult ordered. Physician notified of wound progression.",t.kaczmarek,,1,True
+310,200,org_facility_b,80045,Wound (SPN),2026-05-14T17:26:00,"Pt seen for wound eval. Abscess Right cervical measures aprx 0.6 x 0.3cm, depth 0.2cm.
+Min drainage serosanguineous. Heel wound also eval - L heel 0.4x0.2, 0.1cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",p.johansson,,1,True
+311,201,org_facility_b,95696,HP Skin & Wound Note,2026-05-06T10:37:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Abscess to Right cervical / Measures 1.7 cm x 0.5 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. Odor present. Treatment: Pack with iodoform gauze daily.",s.okafor,,1,True
+312,202,org_facility_b,82784,Wound Care Progress Note,2026-05-16T06:13:00,"Wound note - Rightlowerle. Meas 5.7x1.2x0.3cm. Mod serosang drainage, no odor. Wound bed 70% gran, 30% slough. Periwound erythematous. Foam dsg changed. Pt c/o discomfort w/ dsg change. Dr. Morales notified.",r.patel,,1,True
+313,202,org_facility_b,97813,Wound Care Progress Note,2026-05-15T16:57:00,"Wound note - Rightlowerle. Meas 5.7x1.2x0.3cm. Mod serosang drainage, odor present. Wound bed 60% gran, 40% slough. Periwound erythematous. NPWT canister changed. Pt tolerated well. Dr. Kim notified.",s.okafor,,1,True
+314,203,org_facility_b,91415,Wound Care Progress Note,2026-05-07T02:41:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Left heel / Measures 5.2 cm x 2.6 cm / Stage: Stage 3
+Drainage present - serosanguineous, heavy. Odor present. Treatment: Foam dressing change daily.",g.ramirez,,1,True
+315,204,org_facility_b,92603,HP Skin & Wound Note,2026-05-09T06:29:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Left foot / Measures 4.5 cm x 2.0 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",s.okafor,,1,True
+316,204,org_facility_b,82859,HP Skin & Wound Note,2026-05-05T01:09:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Left foot / Measures 4.5 cm x 2.0 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",r.patel,,1,True
+317,205,org_facility_b,95393,HP Skin & Wound Note,2026-05-04T10:51:00,"Wound note - Sacralrgn. Meas 8.2x6.3x1.7cm. Mod serosang drainage, odor present. Wound bed 53% gran, 47% slough. Periwound intact. Foam dsg changed. Pt c/o discomfort w/ dsg change. Dr. Patel notified.",w.oduya,,1,True
+318,206,org_facility_b,85400,Wound (IDT),2026-05-07T11:08:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Right buttock / Measures 3.6 cm x 1.7 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",j.thornton,,1,True
+319,206,org_facility_b,99765,Wound Care Progress Note,2026-05-16T20:56:00,"Pt seen for wound eval. Pressure Ulcer Right buttock measures aprx 3.6 x 1.7cm, depth 1.0cm.
+Min drainage serosanguineous. Heel wound also eval - R ankle 2.2x1.0, 0.5cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",f.morales,,1,True
+320,207,org_facility_b,80776,HP Skin & Wound Note,2026-05-09T20:28:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Left plantar / Measures 3.9 cm x 3.9 cm / Stage: N/A
+Drainage present - serosanguineous, none. No odor noted. Treatment: Foam dressing change daily.",l.castillo,,1,True
+321,207,org_facility_b,84965,HP Skin & Wound Note,2026-05-04T22:42:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Left plantar / Measures 3.9 cm x 3.9 cm / Stage: N/A
+Drainage present - serosanguineous, none. No odor noted. Treatment: Foam dressing change daily.",p.johansson,,1,True
+322,208,org_facility_b,85291,Wound Care Progress Note,2026-05-10T13:50:00,"Pt seen for wound eval. Diabetic Left foot measures aprx 4.3 x 5.0cm, depth 0.6cm.
+Min drainage serosanguineous. Heel wound also eval - L heel 2.6x3.0, 0.3cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",s.okafor,,1,True
+323,209,org_facility_b,87308,Wound (SPN),2026-05-15T05:35:00,"Wound note - Rightlowerex. Meas 2.2x1.5x0.4cm. Light serosang drainage, no odor. Wound bed 74% gran, 26% slough. Periwound erythematous. Foam dsg changed. Pt tolerated well. Dr. Lefebvre notified.",d.espinoza,,1,True
+324,210,org_facility_b,93858,Wound (SPN),2026-05-14T22:47:00,"Pt seen for wound eval. Venous Left lower leg measures aprx 3.6 x 1.2cm, depth 0.5cm.
+Min drainage serosanguineous. Heel wound also eval - R ankle 2.2x0.7, 0.2cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",a.bergstrom,,1,True
+325,211,org_facility_c,83722,Wound Care Progress Note,2026-05-15T08:05:00,"Wound note - Leftfoot. Meas 4.3x4.4x1.3cm. Mod serosang drainage, odor present. Wound bed 50% gran, 50% slough. Periwound erythematous. Collagen dsg changed. Pt tolerated well. Dr. Thornton notified.",f.morales,,1,True
+326,212,org_facility_c,98112,HP Skin & Wound Note,2026-05-10T10:37:00,"Pt seen for wound eval. Diabetic Right plantar measures aprx 3.6 x 2.3cm, depth 0.7cm.
+Min drainage serous. Heel wound also eval - L heel 2.2x1.4, 0.3cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",l.castillo,,1,True
+327,212,org_facility_c,82871,Wound (SPN),2026-05-11T03:42:00,"Wound note - Rightplantar. Meas 3.6x2.3x0.7cm. Light serosang drainage, no odor. Wound bed 64% gran, 36% slough. Periwound macerated. NPWT canister changed. Pt c/o discomfort w/ dsg change. Dr. Bergstrom notified.",f.morales,,1,True
+328,213,org_facility_c,80136,HP Skin & Wound Note,2026-05-05T10:17:00,"Wound note - Rightbuttock. Meas 6.2x4.5x2.0cm. Light serosang drainage, no odor. Wound bed 62% gran, 38% slough. Periwound macerated. Collagen dsg changed. Pt tolerated well. Dr. Ramirez notified.",g.ramirez,,1,True
+329,213,org_facility_c,97005,Wound Care Progress Note,2026-05-17T19:10:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Right buttock / Measures 6.2 cm x 4.5 cm / Stage: Stage 3
+Drainage present - serous, light. Odor present. Treatment: Foam dressing change daily.",h.kim,,1,True
+330,214,org_facility_c,98736,Wound (SPN),2026-05-15T23:21:00,"Wound note - Leftupperarm. Meas 5.2x3.4x0.1cm. Light serosang drainage, odor present. Wound bed 35% gran, 65% slough. Periwound intact. Foam dsg changed. Pt c/o discomfort w/ dsg change. Dr. Espinoza notified.",d.espinoza,,1,True
+331,214,org_facility_c,92389,HP Skin & Wound Note,2026-05-13T17:26:00,"Subjective: Patient reports pain at Left upper arm wound site, rates 4/10.
+Objective: Wound assessment performed. Burn burn Left upper arm measures 5.2 cm x 3.4 cm x 0.1 cm.
+  Wound bed: 51% slough, 49% granulation tissue. Periwound: erythematous.
+  Drainage: light. Odor: none.
+Assessment: Burn burn Left upper arm — improving.
+Plan: Negative pressure wound therapy initiated. Continue current dressing regimen.",f.morales,,1,True
+332,215,org_facility_c,85190,Wound (SPN),2026-05-08T04:26:00,"Pt seen for wound eval. Surgical Abdominal wall measures aprx 1.0 x 1.4cm, depth 1.3cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 0.6x0.8, 0.7cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",b.nguyen,,1,True
+333,216,org_facility_c,93885,Wound (IDT),2026-05-06T08:33:00,"Pt seen for wound eval. Surgical Abdominal wall measures aprx 1.8 x 3.5cm, depth 1.5cm.
+Min drainage serosanguineous. Heel wound also eval - R heel 1.1x2.1, 0.8cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",l.castillo,,1,True
+334,217,org_facility_c,87623,Wound Care Progress Note,2026-05-12T17:31:00,"Wound note - Leftfoot. Meas 2.7x2.4x0.8cm. Heavy serosang drainage, no odor. Wound bed 79% gran, 21% slough. Periwound macerated. Foam dsg changed. Pt tolerated well. Dr. Thornton notified.",b.nguyen,,1,True
+335,217,org_facility_c,98807,Wound (SPN),2026-05-06T04:04:00,"Subjective: Patient reports pain at Left foot wound site, rates 8/10.
+Objective: Wound assessment performed. Diabetic diabetic Left foot measures 2.7 cm x 2.4 cm x 0.8 cm.
+  Wound bed: 62% slough, 38% granulation tissue. Periwound: macerated.
+  Drainage: heavy. Odor: present, foul.
+Assessment: Diabetic diabetic Left foot — improving.
+Plan: Negative pressure wound therapy initiated. Foam dressing change daily.",g.ramirez,,1,True
+336,218,org_facility_c,96181,Wound Care Progress Note,2026-05-11T21:25:00,"Pt seen for wound eval. Venous Left lower leg measures aprx 1.6 x 3.3cm, depth 0.7cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 1.0x2.0, 0.3cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",l.castillo,,1,True
+337,218,org_facility_c,81567,HP Skin & Wound Note,2026-05-08T20:59:00,"Subjective: Patient reports pain at Left lower leg wound site, rates 8/10.
+Objective: Wound assessment performed. Venous venous Left lower leg measures 1.6 cm x 3.3 cm x 0.7 cm.
+  Wound bed: 61% slough, 39% granulation tissue. Periwound: indurated.
+  Drainage: heavy. Odor: present, mild.
+Assessment: Venous venous Left lower leg — not improving.
+Plan: Alginate dressing applied. Nutritional consult ordered.",h.kim,,1,True
+338,219,org_facility_c,96059,Wound (IDT),2026-05-09T07:45:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Left plantar / Measures 3.3 cm x 1.2 cm / Stage: N/A
+Drainage present - serosanguineous, none. No odor noted. Treatment: Foam dressing change daily.",a.bergstrom,,1,True
+339,219,org_facility_c,91567,Wound (SPN),2026-05-13T14:15:00,"Pt seen for wound eval. Diabetic Left plantar measures aprx 3.3 x 1.2cm, depth 0.6cm.
+Min drainage serosanguineous. Heel wound also eval - R ankle 2.0x0.7, 0.3cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",b.nguyen,,1,True
+340,220,org_facility_c,98915,Wound Care Progress Note,2026-05-13T10:50:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Left plantar / Measures 1.5 cm x 3.7 cm / Stage: N/A
+Drainage present - serous, light. Odor present. Treatment: Foam dressing change daily.",p.johansson,,1,True
+341,221,org_facility_c,83639,HP Skin & Wound Note,2026-05-16T02:57:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Right plantar / Measures 4.7 cm x 1.4 cm / Stage: N/A
+Drainage present - serosanguineous, none. No odor noted. Treatment: Foam dressing change daily.",r.patel,,1,True
+342,221,org_facility_c,92842,Wound (IDT),2026-05-16T15:46:00,"Subjective: Patient reports pain at Right plantar wound site, rates 2/10.
+Objective: Wound assessment performed. Diabetic diabetic Right plantar measures 4.7 cm x 1.4 cm x 0.4 cm.
+  Wound bed: 23% slough, 77% granulation tissue. Periwound: intact.
+  Drainage: none. Odor: present, foul.
+Assessment: Diabetic diabetic Right plantar — not improving.
+Plan: Offloading boot applied. Alginate dressing applied.",d.espinoza,,1,True
+343,222,org_facility_c,81480,Wound (SPN),2026-05-10T16:30:00,"Pt seen for wound eval. Pressure Ulcer Right buttock measures aprx 4.1 x 7.9cm, depth 3.7cm.
+Min drainage serosanguineous. Heel wound also eval - R ankle 2.5x4.7, 1.9cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",h.kim,,1,True
+344,223,org_facility_c,97265,Wound (IDT),2026-05-13T03:17:00,"Wound note - Rightlowerle. Meas 1.7x3.9x0.6cm. Heavy serosang drainage, no odor. Wound bed 77% gran, 23% slough. Periwound intact. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Ramirez notified.",m.lefebvre,,1,True
+345,223,org_facility_c,90135,Wound Care Progress Note,2026-05-11T05:34:00,"Pt seen for wound eval. Venous Right lower leg measures aprx 1.7 x 3.9cm, depth 0.6cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 1.0x2.3, 0.3cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",r.patel,,1,True
+346,224,org_facility_c,82818,HP Skin & Wound Note,2026-05-09T02:11:00,"Pt seen for wound eval. Pressure Ulcer Right buttock measures aprx 3.7 x 3.8cm, depth 0.3cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 2.2x2.3, 0.1cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",w.oduya,,1,True
+347,225,org_facility_c,95347,Wound Care Progress Note,2026-05-09T02:15:00,"Wound note - Rightplantar. Meas 1.8x1.8x0.6cm. Mod serosang drainage, no odor. Wound bed 54% gran, 46% slough. Periwound macerated. Foam dsg changed. Pt c/o discomfort w/ dsg change. Dr. Lefebvre notified.",c.nakamura,,1,True
+348,225,org_facility_c,93792,Wound (SPN),2026-05-11T09:59:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Right plantar / Measures 1.8 cm x 1.8 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",s.okafor,,1,True
+349,226,org_facility_c,83758,HP Skin & Wound Note,2026-05-17T08:21:00,"Wound note - Lefthip. Meas 5.8x2.2x0.9cm. Light serosang drainage, no odor. Wound bed 44% gran, 56% slough. Periwound erythematous. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Bergstrom notified.",s.okafor,,1,True
+350,226,org_facility_c,92802,Wound (IDT),2026-05-10T23:07:00,"Subjective: Patient reports pain at Left hip wound site, rates 4/10.
+Objective: Wound assessment performed. Stage 3 pressure ulcer Left hip measures 5.8 cm x 2.2 cm x 0.9 cm.
+  Wound bed: 42% slough, 58% granulation tissue. Periwound: intact.
+  Drainage: light. Odor: present, foul.
+Assessment: Stage 3 pressure ulcer Left hip — not improving.
+Plan: Alginate dressing applied. Physician notified of wound progression.",j.thornton,,1,True
+351,227,org_facility_c,85187,Wound (SPN),2026-05-06T09:43:00,"Subjective: Patient reports pain at Right plantar wound site, rates 6/10.
+Objective: Wound assessment performed. Diabetic diabetic Right plantar measures 2.7 cm x 0.9 cm x 0.8 cm.
+  Wound bed: 78% slough, 22% granulation tissue. Periwound: indurated.
+  Drainage: moderate. Odor: none.
+Assessment: Diabetic diabetic Right plantar — improving.
+Plan: Continue current dressing regimen. Alginate dressing applied.",c.nakamura,,1,True
+352,227,org_facility_c,95056,Wound Care Progress Note,2026-05-12T03:14:00,"Wound note - Rightplantar. Meas 2.7x0.9x0.8cm. Mod serosang drainage, odor present. Wound bed 52% gran, 48% slough. Periwound erythematous. NPWT canister changed. Pt c/o discomfort w/ dsg change. Dr. Nguyen notified.",w.oduya,,1,True
+353,228,org_facility_c,81226,Wound (SPN),2026-05-17T04:44:00,"Wound note - Rightlowerex. Meas 2.2x1.5x0.7cm. Mod serosang drainage, no odor. Wound bed 36% gran, 64% slough. Periwound intact. NPWT canister changed. Pt c/o discomfort w/ dsg change. Dr. Morales notified.",h.kim,,1,True
+354,229,org_facility_c,92324,Wound (IDT),2026-05-15T21:32:00,"Wound note - Rightlowerex. Meas 1.9x2.2x0.5cm. Mod serosang drainage, no odor. Wound bed 66% gran, 34% slough. Periwound macerated. Collagen dsg changed. Pt c/o discomfort w/ dsg change. Dr. Nakamura notified.",h.kim,,1,True
+355,230,org_facility_c,87720,Wound (SPN),2026-05-05T02:02:00,"Wound note - Rightlowerex. Meas 3.0x1.8x0.2cm. Mod serosang drainage, no odor. Wound bed 51% gran, 49% slough. Periwound intact. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Patel notified.",t.kaczmarek,,1,True
+356,230,org_facility_c,83409,Wound (SPN),2026-05-15T15:14:00,"Subjective: Patient reports pain at Right lower extremity wound site, rates 2/10.
+Objective: Wound assessment performed. Arterial arterial Right lower extremity measures 3.0 cm x 1.8 cm x 0.2 cm.
+  Wound bed: 58% slough, 42% granulation tissue. Periwound: intact.
+  Drainage: moderate. Odor: present, mild.
+Assessment: Arterial arterial Right lower extremity — improving.
+Plan: Alginate dressing applied. Offloading boot applied.",j.thornton,,1,True
+357,231,org_facility_c,80488,Wound (SPN),2026-05-05T06:24:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Left foot / Measures 3.7 cm x 1.7 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",h.kim,,1,True
+358,232,org_facility_c,89167,Wound (IDT),2026-05-11T01:21:00,"Pt seen for wound eval. Venous Right lower leg measures aprx 3.9 x 3.8cm, depth 0.7cm.
+Min drainage serosanguineous. Heel wound also eval - L heel 2.3x2.3, 0.3cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",s.okafor,,1,True
+359,232,org_facility_c,81175,HP Skin & Wound Note,2026-05-12T00:08:00,"Wound note - Rightlowerle. Meas 3.9x3.8x0.7cm. Mod serosang drainage, no odor. Wound bed 38% gran, 62% slough. Periwound erythematous. Alginate dsg applied. Pt tolerated well. Dr. Bergstrom notified.",r.patel,,1,True
+360,233,org_facility_c,83578,Wound (SPN),2026-05-11T00:01:00,"Wound note - Rightbuttock. Meas 3.4x1.6x1.3cm. Heavy serosang drainage, no odor. Wound bed 78% gran, 22% slough. Periwound intact. Collagen dsg changed. Pt tolerated well. Dr. Oduya notified.",b.nguyen,,1,True
+361,233,org_facility_c,93888,Wound (IDT),2026-05-07T14:06:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Right buttock / Measures 3.4 cm x 1.6 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",l.castillo,,1,True
+362,234,org_facility_c,84168,Wound (IDT),2026-05-05T15:44:00,"Subjective: Patient reports pain at Right lower extremity wound site, rates 3/10.
+Objective: Wound assessment performed. Arterial arterial Right lower extremity measures 0.5 cm x 0.6 cm x 0.5 cm.
+  Wound bed: 63% slough, 37% granulation tissue. Periwound: erythematous.
+  Drainage: light. Odor: none.
+Assessment: Arterial arterial Right lower extremity — not improving.
+Plan: Physician notified of wound progression. Alginate dressing applied.",r.patel,,1,True
+363,234,org_facility_c,99001,Wound (IDT),2026-05-07T07:05:00,"Wound note - Rightlowerex. Meas 0.5x0.6x0.5cm. Light serosang drainage, odor present. Wound bed 39% gran, 61% slough. Periwound erythematous. Foam dsg changed. Pt tolerated well. Dr. Patel notified.",c.nakamura,,1,True
+364,235,org_facility_c,96737,Wound Care Progress Note,2026-05-08T17:09:00,"Subjective: Patient reports pain at Left foot wound site, rates 4/10.
+Objective: Wound assessment performed. Diabetic diabetic Left foot measures 3.3 cm x 2.9 cm x 1.5 cm.
+  Wound bed: 57% slough, 43% granulation tissue. Periwound: intact.
+  Drainage: heavy. Odor: present, mild.
+Assessment: Diabetic diabetic Left foot — not improving.
+Plan: Debridement consult ordered. Offloading boot applied.",w.oduya,,1,True
+365,235,org_facility_c,92487,HP Skin & Wound Note,2026-05-08T22:18:00,"Pt seen for wound eval. Diabetic Left foot measures aprx 3.3 x 2.9cm, depth 1.5cm.
+Min drainage serosanguineous. Heel wound also eval - R heel 2.0x1.7, 0.8cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",f.morales,,1,True
+366,236,org_facility_c,97616,HP Skin & Wound Note,2026-05-14T05:08:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Abscess to Right cervical / Measures 0.8 cm x 0.9 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Pack with iodoform gauze daily.",r.patel,,1,True
+367,237,org_facility_c,83900,Wound Care Progress Note,2026-05-09T16:15:00,"Pt seen for wound eval. Venous Right lower leg measures aprx 1.7 x 1.8cm, depth 0.2cm.
+Min drainage serosanguineous. Heel wound also eval - R heel 1.0x1.1, 0.1cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",c.nakamura,,1,True
+368,237,org_facility_c,94709,Wound Care Progress Note,2026-05-17T21:13:00,"Pt seen for wound eval. Venous Right lower leg measures aprx 1.7 x 1.8cm, depth 0.2cm.
+Min drainage serosanguineous. Heel wound also eval - L heel 1.0x1.1, 0.1cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",g.ramirez,,1,True
+369,238,org_facility_c,88973,Wound Care Progress Note,2026-05-13T18:53:00,"Pt seen for wound eval. Venous Left lower leg measures aprx 3.6 x 1.9cm, depth 0.2cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 2.2x1.1, 0.1cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",t.kaczmarek,,1,True
+370,238,org_facility_c,99862,Wound Care Progress Note,2026-05-15T14:02:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Venous to Left lower leg / Measures 3.6 cm x 1.9 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. Odor present. Treatment: Foam dressing change daily.",f.morales,,1,True
+371,239,org_facility_c,91590,Wound (SPN),2026-05-04T19:43:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Left foot / Measures 2.4 cm x 4.0 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. Odor present. Treatment: Foam dressing change daily.",f.morales,,1,True
+372,239,org_facility_c,90315,Wound (SPN),2026-05-10T03:13:00,"Subjective: Patient reports pain at Left foot wound site, rates 5/10.
+Objective: Wound assessment performed. Diabetic diabetic Left foot measures 2.4 cm x 4.0 cm x 1.8 cm.
+  Wound bed: 34% slough, 66% granulation tissue. Periwound: intact.
+  Drainage: heavy. Odor: present, mild.
+Assessment: Diabetic diabetic Left foot — not improving.
+Plan: Debridement consult ordered. Offloading boot applied.",g.ramirez,,1,True
+373,240,org_facility_c,97382,Wound (IDT),2026-05-14T03:38:00,"Pt seen for wound eval. Diabetic Left plantar measures aprx 3.0 x 2.8cm, depth 1.1cm.
+Min drainage serosanguineous. Heel wound also eval - R ankle 1.8x1.7, 0.6cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",p.johansson,,1,True
+374,240,org_facility_c,89680,Wound (IDT),2026-05-11T04:38:00,"Wound note - Leftplantar. Meas 3.0x2.8x1.1cm. None serosang drainage, no odor. Wound bed 49% gran, 51% slough. Periwound intact. Collagen dsg changed. Pt c/o discomfort w/ dsg change. Dr. Johansson notified.",s.okafor,,1,True
+375,241,org_facility_c,97564,HP Skin & Wound Note,2026-05-14T05:04:00,"Subjective: Patient reports pain at Left plantar wound site, rates 6/10.
+Objective: Wound assessment performed. Diabetic diabetic Left plantar measures 2.3 cm x 2.1 cm x 0.8 cm.
+  Wound bed: 49% slough, 51% granulation tissue. Periwound: macerated.
+  Drainage: light. Odor: present, mild.
+Assessment: Diabetic diabetic Left plantar — improving.
+Plan: Foam dressing change daily. Debridement consult ordered.",r.patel,,1,True
+376,241,org_facility_c,98117,Wound Care Progress Note,2026-05-05T01:39:00,"Subjective: Patient reports pain at Left plantar wound site, rates 7/10.
+Objective: Wound assessment performed. Diabetic diabetic Left plantar measures 2.3 cm x 2.1 cm x 0.8 cm.
+  Wound bed: 72% slough, 28% granulation tissue. Periwound: intact.
+  Drainage: light. Odor: present, foul.
+Assessment: Diabetic diabetic Left plantar — not improving.
+Plan: Foam dressing change daily. Nutritional consult ordered.",s.okafor,,1,True
+377,242,org_facility_c,80483,Wound (SPN),2026-05-05T00:34:00,"Wound note - Leftlowerleg. Meas 3.1x2.4x0.2cm. Heavy serosang drainage, odor present. Wound bed 77% gran, 23% slough. Periwound macerated. Foam dsg changed. Pt c/o discomfort w/ dsg change. Dr. Okafor notified.",w.oduya,,1,True
+378,242,org_facility_c,89900,Wound (SPN),2026-05-05T13:33:00,"Wound note - Leftlowerleg. Meas 3.1x2.4x0.2cm. Heavy serosang drainage, no odor. Wound bed 36% gran, 64% slough. Periwound erythematous. NPWT canister changed. Pt c/o discomfort w/ dsg change. Dr. Patel notified.",a.bergstrom,,1,True
+379,243,org_facility_c,84631,Wound (SPN),2026-05-10T05:45:00,"Wound note - Rightlowerle. Meas 3.0x2.8x0.5cm. Heavy serosang drainage, odor present. Wound bed 70% gran, 30% slough. Periwound intact. Foam dsg changed. Pt c/o discomfort w/ dsg change. Dr. Nguyen notified.",d.espinoza,,1,True
+380,243,org_facility_c,81931,HP Skin & Wound Note,2026-05-04T05:12:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Venous to Right lower leg / Measures 3.0 cm x 2.8 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",f.morales,,1,True
+381,244,org_facility_c,89723,Wound (SPN),2026-05-09T10:35:00,"Subjective: Patient reports pain at Right cervical wound site, rates 8/10.
+Objective: Wound assessment performed. Abscess abscess Right cervical measures 0.5 cm x 1.2 cm x 0.2 cm.
+  Wound bed: 49% slough, 51% granulation tissue. Periwound: macerated.
+  Drainage: moderate. Odor: present, foul.
+Assessment: Abscess abscess Right cervical — improving.
+Plan: Physician notified of wound progression. Alginate dressing applied.",s.okafor,,1,True
+382,245,org_facility_c,99151,Wound (IDT),2026-05-13T14:08:00,"Wound note - Leftfoot. Meas 4.8x3.4x1.0cm. Mod serosang drainage, no odor. Wound bed 34% gran, 66% slough. Periwound macerated. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Nakamura notified.",w.oduya,,1,True
+383,245,org_facility_c,82538,HP Skin & Wound Note,2026-05-11T15:25:00,"Pt seen for wound eval. Diabetic Left foot measures aprx 4.8 x 3.4cm, depth 1.0cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 2.9x2.0, 0.5cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",l.castillo,,1,True
+384,246,org_facility_c,92363,Wound (IDT),2026-05-16T16:25:00,"Pt seen for wound eval. Pressure Ulcer Sacral region measures aprx 5.9 x 2.0cm, depth 1.7cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 3.5x1.2, 0.8cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",f.morales,,1,True
+385,246,org_facility_c,97389,Wound Care Progress Note,2026-05-12T14:07:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Sacral region / Measures 5.9 cm x 2.0 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",s.okafor,,1,True
+386,247,org_facility_c,93051,Wound (IDT),2026-05-17T03:43:00,"Pt seen for wound eval. Venous Right lower leg measures aprx 4.9 x 1.0cm, depth 0.3cm.
+Min drainage serosanguineous. Heel wound also eval - L heel 2.9x0.6, 0.1cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",j.thornton,,1,True
+387,247,org_facility_c,99908,Wound (IDT),2026-05-08T23:05:00,"Pt seen for wound eval. Venous Right lower leg measures aprx 4.9 x 1.0cm, depth 0.3cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 2.9x0.6, 0.1cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",p.johansson,,1,True
+388,248,org_facility_c,96563,HP Skin & Wound Note,2026-05-17T15:22:00,"Subjective: Patient reports pain at Left buttock wound site, rates 3/10.
+Objective: Wound assessment performed. Pressure Ulcer pressure ulcer Left buttock measures 4.3 cm x 4.8 cm x 1.2 cm.
+  Wound bed: 68% slough, 32% granulation tissue. Periwound: macerated.
+  Drainage: heavy. Odor: present, foul.
+Assessment: Pressure Ulcer pressure ulcer Left buttock — not improving.
+Plan: Offloading boot applied. Foam dressing change daily.",d.espinoza,,1,True
+389,248,org_facility_c,98552,Wound (SPN),2026-05-12T09:24:00,"Wound note - Leftbuttock. Meas 4.3x4.8x1.2cm. Heavy serosang drainage, odor present. Wound bed 70% gran, 30% slough. Periwound erythematous. Foam dsg changed. Pt tolerated well. Dr. Bergstrom notified.",g.ramirez,,1,True
+390,249,org_facility_c,91431,Wound Care Progress Note,2026-05-10T12:23:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Left foot / Measures 2.8 cm x 4.6 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. Odor present. Treatment: Foam dressing change daily.",f.morales,,1,True
+391,249,org_facility_c,85102,Wound (IDT),2026-05-07T18:58:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Left foot / Measures 2.8 cm x 4.6 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",b.nguyen,,1,True
+392,250,org_facility_c,93085,Wound (IDT),2026-05-10T05:24:00,"Wound note - Leftfoot. Meas 3.3x4.7x0.8cm. Heavy serosang drainage, odor present. Wound bed 59% gran, 41% slough. Periwound erythematous. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Morales notified.",t.kaczmarek,,1,True
+393,250,org_facility_c,96612,HP Skin & Wound Note,2026-05-13T22:01:00,"Wound note - Leftfoot. Meas 3.3x4.7x0.8cm. Heavy serosang drainage, no odor. Wound bed 46% gran, 54% slough. Periwound erythematous. Collagen dsg changed. Pt c/o discomfort w/ dsg change. Dr. Castillo notified.",s.okafor,,1,True
+394,251,org_facility_c,92330,Wound (IDT),2026-05-06T17:02:00,"Subjective: Patient reports pain at Right heel wound site, rates 9/10.
+Objective: Wound assessment performed. Stage 4 pressure ulcer Right heel measures 9.1 cm x 5.2 cm x 3.3 cm.
+  Wound bed: 70% slough, 30% granulation tissue. Periwound: erythematous.
+  Drainage: moderate. Odor: none.
+Assessment: Stage 4 pressure ulcer Right heel — improving.
+Plan: Physician notified of wound progression. Offloading boot applied.",h.kim,,1,True
+395,251,org_facility_c,90431,HP Skin & Wound Note,2026-05-05T20:36:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Right heel / Measures 9.1 cm x 5.2 cm / Stage: Stage 4
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",f.morales,,1,True
+396,252,org_facility_c,95234,Wound (SPN),2026-05-11T02:27:00,"Pt seen for wound eval. Pressure Ulcer Sacral region measures aprx 3.7 x 2.5cm, depth 1.0cm.
+Min drainage serosanguineous. Heel wound also eval - R ankle 2.2x1.5, 0.5cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",f.morales,,1,True
+397,253,org_facility_c,81640,Wound Care Progress Note,2026-05-16T08:31:00,"Wound note - Leftlowerleg. Meas 4.0x4.4x0.2cm. Heavy serosang drainage, odor present. Wound bed 62% gran, 38% slough. Periwound erythematous. NPWT canister changed. Pt tolerated well. Dr. Espinoza notified.",g.ramirez,,1,True
+398,253,org_facility_c,97784,Wound (SPN),2026-05-07T14:11:00,"Pt seen for wound eval. Venous Left lower leg measures aprx 4.0 x 4.4cm, depth 0.2cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 2.4x2.6, 0.1cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",a.bergstrom,,1,True
+399,254,org_facility_c,94202,Wound (SPN),2026-05-06T15:14:00,"Subjective: Patient reports pain at Left foot wound site, rates 7/10.
+Objective: Wound assessment performed. Diabetic diabetic Left foot measures 2.2 cm x 2.6 cm x 0.6 cm.
+  Wound bed: 21% slough, 79% granulation tissue. Periwound: erythematous.
+  Drainage: moderate. Odor: present, mild.
+Assessment: Diabetic diabetic Left foot — not improving.
+Plan: Nutritional consult ordered. Foam dressing change daily.",s.okafor,,1,True
+400,254,org_facility_c,92262,Wound (SPN),2026-05-14T01:09:00,"Wound note - Leftfoot. Meas 2.2x2.6x0.6cm. Mod serosang drainage, no odor. Wound bed 66% gran, 34% slough. Periwound macerated. Collagen dsg changed. Pt c/o discomfort w/ dsg change. Dr. Castillo notified.",l.castillo,,1,True
+401,255,org_facility_c,90474,Wound Care Progress Note,2026-05-09T23:39:00,"Pt seen for wound eval. Surgical Abdominal wall measures aprx 1.9 x 2.8cm, depth 1.5cm.
+Min drainage serosanguineous. Heel wound also eval - R ankle 1.1x1.7, 0.8cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",c.nakamura,,1,True
+402,255,org_facility_c,97440,HP Skin & Wound Note,2026-05-04T00:29:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Surgical to Abdominal wall / Measures 1.9 cm x 2.8 cm / Stage: N/A
+Drainage present - serosanguineous, heavy. Odor present. Treatment: Foam dressing change daily.",w.oduya,,1,True
+403,256,org_facility_c,87153,Wound (IDT),2026-05-04T20:54:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Arterial to Right lower extremity / Measures 1.2 cm x 2.0 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",r.patel,,1,True
+404,257,org_facility_c,80951,HP Skin & Wound Note,2026-05-11T10:34:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Burn to Left upper arm / Measures 3.7 cm x 2.2 cm / Stage: N/A
+Drainage present - serous, light. No odor noted. Treatment: Foam dressing change daily.",l.castillo,,1,True
+405,258,org_facility_c,80225,Wound (SPN),2026-05-15T16:31:00,"Wound note - Sacralrgn. Meas 2.8x3.1x0.7cm. Heavy serosang drainage, no odor. Wound bed 59% gran, 41% slough. Periwound erythematous. Foam dsg changed. Pt tolerated well. Dr. Morales notified.",w.oduya,,1,True
+406,259,org_facility_c,86884,Wound (IDT),2026-05-15T16:10:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Abscess to Right cervical / Measures 1.6 cm x 1.0 cm / Stage: N/A
+Drainage present - serous, light. No odor noted. Treatment: Pack with iodoform gauze daily.",a.bergstrom,,1,True
+407,259,org_facility_c,90835,Wound (IDT),2026-05-13T13:42:00,"Subjective: Patient reports pain at Right cervical wound site, rates 7/10.
+Objective: Wound assessment performed. Abscess abscess Right cervical measures 1.6 cm x 1.0 cm x 0.7 cm.
+  Wound bed: 39% slough, 61% granulation tissue. Periwound: intact.
+  Drainage: light. Odor: present, mild.
+Assessment: Abscess abscess Right cervical — not improving.
+Plan: Physician notified of wound progression. Nutritional consult ordered.",f.morales,,1,True
+408,260,org_facility_c,99239,HP Skin & Wound Note,2026-05-15T12:19:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Right buttock / Measures 5.3 cm x 4.5 cm / Stage: Stage 4
+Drainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",h.kim,,1,True
+409,260,org_facility_c,85747,Wound (IDT),2026-05-10T03:50:00,"Pt seen for wound eval. Pressure Ulcer Right buttock measures aprx 5.3 x 4.5cm, depth 3.0cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 3.2x2.7, 1.5cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",t.kaczmarek,,1,True
+410,261,org_facility_c,85814,Wound (IDT),2026-05-14T01:15:00,"Wound note - Leftbuttock. Meas 6.3x3.9x0.7cm. Light serosang drainage, no odor. Wound bed 45% gran, 55% slough. Periwound macerated. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Oduya notified.",j.thornton,,1,True
+411,261,org_facility_c,84343,Wound (SPN),2026-05-14T00:07:00,"Pt seen for wound eval. Pressure Ulcer Left buttock measures aprx 6.3 x 3.9cm, depth 0.7cm.
+Min drainage serous. Heel wound also eval - L ankle 3.8x2.3, 0.3cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",b.nguyen,,1,True
+412,262,org_facility_c,89818,Wound Care Progress Note,2026-05-12T07:30:00,"Subjective: Patient reports pain at Left lower leg wound site, rates 6/10.
+Objective: Wound assessment performed. Venous venous Left lower leg measures 2.2 cm x 5.4 cm x 0.6 cm.
+  Wound bed: 32% slough, 68% granulation tissue. Periwound: indurated.
+  Drainage: moderate. Odor: present, foul.
+Assessment: Venous venous Left lower leg — improving.
+Plan: Offloading boot applied. Negative pressure wound therapy initiated.",a.bergstrom,,1,True
+413,262,org_facility_c,96696,Wound Care Progress Note,2026-05-15T09:00:00,"Wound note - Leftlowerleg. Meas 2.2x5.4x0.6cm. Mod serosang drainage, no odor. Wound bed 51% gran, 49% slough. Periwound macerated. Collagen dsg changed. Pt c/o discomfort w/ dsg change. Dr. Johansson notified.",t.kaczmarek,,1,True
+414,263,org_facility_c,90034,HP Skin & Wound Note,2026-05-10T14:37:00,"Pt seen for wound eval. Arterial Right lower extremity measures aprx 2.0 x 0.8cm, depth 1.0cm.
+Min drainage serosanguineous. Heel wound also eval - R heel 1.2x0.5, 0.5cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",c.nakamura,,1,True
+415,263,org_facility_c,80185,Wound (IDT),2026-05-11T05:35:00,"Pt seen for wound eval. Arterial Right lower extremity measures aprx 2.0 x 0.8cm, depth 1.0cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 1.2x0.5, 0.5cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",f.morales,,1,True
+416,264,org_facility_c,83323,Wound (SPN),2026-05-08T05:36:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Venous to Right lower leg / Measures 6.2 cm x 5.7 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. Odor present. Treatment: Foam dressing change daily.",j.thornton,,1,True
+417,264,org_facility_c,84400,Wound (IDT),2026-05-10T14:53:00,"Pt seen for wound eval. Venous Right lower leg measures aprx 6.2 x 5.7cm, depth 0.5cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 3.7x3.4, 0.2cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",g.ramirez,,1,True
+418,265,org_facility_c,80530,Wound Care Progress Note,2026-05-17T07:57:00,"Subjective: Patient reports pain at Left upper arm wound site, rates 4/10.
+Objective: Wound assessment performed. Burn burn Left upper arm measures 2.8 cm x 1.6 cm x 0.2 cm.
+  Wound bed: 73% slough, 27% granulation tissue. Periwound: indurated.
+  Drainage: moderate. Odor: present, mild.
+Assessment: Burn burn Left upper arm — improving.
+Plan: Nutritional consult ordered. Physician notified of wound progression.",l.castillo,,1,True
+419,265,org_facility_c,89261,Wound (IDT),2026-05-09T13:10:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Burn to Left upper arm / Measures 2.8 cm x 1.6 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",l.castillo,,1,True
+420,266,org_facility_c,80618,Wound (IDT),2026-05-17T04:07:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Abscess to Right cervical / Measures 1.1 cm x 1.1 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Pack with iodoform gauze daily.",j.thornton,,1,True
+421,267,org_facility_c,80833,Wound (IDT),2026-05-10T20:07:00,"Pt seen for wound eval. Pressure Ulcer Right buttock measures aprx 1.6 x 1.2cm, depth 0.4cm.
+Min drainage serosanguineous. Heel wound also eval - L heel 1.0x0.7, 0.2cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",t.kaczmarek,,1,True
+422,268,org_facility_c,82767,HP Skin & Wound Note,2026-05-11T03:41:00,"Pt seen for wound eval. Pressure Ulcer Sacral region measures aprx 2.1 x 2.8cm, depth 1.0cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 1.3x1.7, 0.5cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",p.johansson,,1,True
+423,268,org_facility_c,81486,Wound Care Progress Note,2026-05-17T15:14:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Sacral region / Measures 2.1 cm x 2.8 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",m.lefebvre,,1,True
+424,269,org_facility_c,81121,Wound (IDT),2026-05-12T23:04:00,"Pt seen for wound eval. Venous Right lower leg measures aprx 1.7 x 2.0cm, depth 0.4cm.
+Min drainage serosanguineous. Heel wound also eval - L heel 1.0x1.2, 0.2cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",w.oduya,,1,True
+425,269,org_facility_c,87297,Wound Care Progress Note,2026-05-15T21:00:00,"Wound note - Rightlowerle. Meas 1.7x2.0x0.4cm. Heavy serosang drainage, no odor. Wound bed 56% gran, 44% slough. Periwound intact. NPWT canister changed. Pt c/o discomfort w/ dsg change. Dr. Morales notified.",s.okafor,,1,True
+426,270,org_facility_c,84315,Wound Care Progress Note,2026-05-09T07:24:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Right buttock / Measures 4.6 cm x 4.1 cm / Stage: Stage 4
+Drainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",c.nakamura,,1,True
+427,270,org_facility_c,92616,Wound (SPN),2026-05-15T05:13:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Right buttock / Measures 4.6 cm x 4.1 cm / Stage: Stage 4
+Drainage present - serosanguineous, heavy. No odor noted. Treatment: Foam dressing change daily.",p.johansson,,1,True
+428,271,org_facility_c,83099,HP Skin & Wound Note,2026-05-11T03:59:00,"Pt seen for wound eval. Pressure Ulcer Right hip measures aprx 6.4 x 4.7cm, depth 1.4cm.
+Min drainage serous. Heel wound also eval - L heel 3.8x2.8, 0.7cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",r.patel,,1,True
+429,271,org_facility_c,84138,Wound Care Progress Note,2026-05-16T06:15:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Right hip / Measures 6.4 cm x 4.7 cm / Stage: Stage 3
+Drainage present - serous, light. No odor noted. Treatment: Foam dressing change daily.",h.kim,,1,True
+430,272,org_facility_c,95615,Wound (IDT),2026-05-11T14:36:00,"Pt seen for wound eval. Pressure Ulcer Sacral region measures aprx 5.4 x 7.7cm, depth 3.3cm.
+Min drainage serosanguineous. Heel wound also eval - L heel 3.2x4.6, 1.6cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",t.kaczmarek,,1,True
+431,273,org_facility_c,97059,Wound (SPN),2026-05-13T14:00:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Diabetic to Left foot / Measures 2.5 cm x 4.1 cm / Stage: N/A
+Drainage present - serosanguineous, moderate. Odor present. Treatment: Foam dressing change daily.",a.bergstrom,,1,True
+432,274,org_facility_c,89039,Wound Care Progress Note,2026-05-07T20:05:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Right heel / Measures 8.4 cm x 7.8 cm / Stage: Stage 4
+Drainage present - serosanguineous, moderate. No odor noted. Treatment: Foam dressing change daily.",g.ramirez,,1,True
+433,274,org_facility_c,80423,Wound (SPN),2026-05-04T15:38:00,"Pt seen for wound eval. Pressure Ulcer Right heel measures aprx 8.4 x 7.8cm, depth 3.7cm.
+Min drainage serosanguineous. Heel wound also eval - L ankle 5.0x4.7, 1.9cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",s.okafor,,1,True
+434,275,org_facility_c,88307,Wound (IDT),2026-05-11T23:14:00,"Wound note - Rightcervica. Meas 1.1x1.4x0.7cm. Mod serosang drainage, no odor. Wound bed 66% gran, 34% slough. Periwound intact. Foam dsg changed. Pt tolerated well. Dr. Johansson notified.",c.nakamura,,1,True
+435,276,org_facility_c,85217,Wound Care Progress Note,2026-05-05T09:03:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Abscess to Right cervical / Measures 1.3 cm x 1.0 cm / Stage: N/A
+Drainage present - serous, light. No odor noted. Treatment: Pack with iodoform gauze daily.",m.lefebvre,,1,True
+436,276,org_facility_c,98347,Wound Care Progress Note,2026-05-08T14:02:00,"Pt seen for wound eval. Abscess Right cervical measures aprx 1.3 x 1.0cm, depth 0.6cm.
+Min drainage serous. Heel wound also eval - L heel 0.8x0.6, 0.3cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",b.nguyen,,1,True
+437,277,org_facility_c,93583,Wound (IDT),2026-05-17T04:30:00,"Wound note - Leftbuttock. Meas 7.0x2.1x0.9cm. Heavy serosang drainage, odor present. Wound bed 44% gran, 56% slough. Periwound macerated. Alginate dsg applied. Pt tolerated well. Dr. Lefebvre notified.",b.nguyen,,1,True
+438,278,org_facility_c,82118,Wound (IDT),2026-05-10T08:23:00,"Pt seen for wound eval. Burn Left upper arm measures aprx 4.6 x 3.5cm, depth 0.1cm.
+Min drainage serous. Heel wound also eval - L heel 2.8x2.1, 0.1cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",m.lefebvre,,1,True
+439,278,org_facility_c,89046,Wound (SPN),2026-05-16T02:38:00,"Subjective: Patient reports pain at Left upper arm wound site, rates 9/10.
+Objective: Wound assessment performed. Burn burn Left upper arm measures 4.6 cm x 3.5 cm x 0.1 cm.
+  Wound bed: 45% slough, 55% granulation tissue. Periwound: intact.
+  Drainage: light. Odor: present, mild.
+Assessment: Burn burn Left upper arm — improving.
+Plan: Physician notified of wound progression. Nutritional consult ordered.",l.castillo,,1,True
+440,279,org_facility_c,93355,Wound (IDT),2026-05-11T05:16:00,"Wound note - Leftheel. Meas 2.2x1.2x0.2cm. Mod serosang drainage, odor present. Wound bed 31% gran, 69% slough. Periwound erythematous. NPWT canister changed. Pt tolerated well. Dr. Oduya notified.",d.espinoza,,1,True
+441,280,org_facility_c,82273,Wound Care Progress Note,2026-05-05T05:24:00,"Pt seen for wound eval. Diabetic Left plantar measures aprx 1.4 x 0.8cm, depth 1.5cm.
+Min drainage serosanguineous. Heel wound also eval - R ankle 0.8x0.5, 0.8cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",m.lefebvre,,1,True
+442,281,org_facility_c,83813,Wound (IDT),2026-05-09T11:10:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Burn to Left upper arm / Measures 1.8 cm x 1.2 cm / Stage: N/A
+Drainage present - serous, light. No odor noted. Treatment: Foam dressing change daily.",p.johansson,,1,True
+443,281,org_facility_c,81920,Wound Care Progress Note,2026-05-05T11:58:00,"Subjective: Patient reports pain at Left upper arm wound site, rates 7/10.
+Objective: Wound assessment performed. Burn burn Left upper arm measures 1.8 cm x 1.2 cm x 0.0 cm.
+  Wound bed: 65% slough, 35% granulation tissue. Periwound: erythematous.
+  Drainage: light. Odor: none.
+Assessment: Burn burn Left upper arm — improving.
+Plan: Negative pressure wound therapy initiated. Nutritional consult ordered.",g.ramirez,,1,True
+444,282,org_facility_c,96658,Wound (IDT),2026-05-17T02:05:00,"Subjective: Patient reports pain at Left foot wound site, rates 2/10.
+Objective: Wound assessment performed. Diabetic diabetic Left foot measures 2.2 cm x 4.8 cm x 1.0 cm.
+  Wound bed: 77% slough, 23% granulation tissue. Periwound: erythematous.
+  Drainage: moderate. Odor: present, mild.
+Assessment: Diabetic diabetic Left foot — improving.
+Plan: Negative pressure wound therapy initiated. Debridement consult ordered.",b.nguyen,,1,True
+445,282,org_facility_c,82390,Wound Care Progress Note,2026-05-15T16:15:00,"Wound note - Leftfoot. Meas 2.2x4.8x1.0cm. Mod serosang drainage, odor present. Wound bed 62% gran, 38% slough. Periwound macerated. Foam dsg changed. Pt tolerated well. Dr. Ramirez notified.",w.oduya,,1,True
+446,283,org_facility_c,92958,Wound (SPN),2026-05-04T08:44:00,"Subjective: Patient reports pain at Left heel wound site, rates 8/10.
+Objective: Wound assessment performed. Stage 4 pressure ulcer Left heel measures 7.8 cm x 4.0 cm x 3.7 cm.
+  Wound bed: 28% slough, 72% granulation tissue. Periwound: indurated.
+  Drainage: heavy. Odor: present, mild.
+Assessment: Stage 4 pressure ulcer Left heel — improving.
+Plan: Offloading boot applied. Nutritional consult ordered.",j.thornton,,1,True
+447,283,org_facility_c,83777,Wound (SPN),2026-05-06T16:56:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Left heel / Measures 7.8 cm x 4.0 cm / Stage: Stage 4
+Drainage present - serosanguineous, heavy. Odor present. Treatment: Foam dressing change daily.",m.lefebvre,,1,True
+448,284,org_facility_c,81433,Wound Care Progress Note,2026-05-14T17:14:00,"Wound note - Leftlowerleg. Meas 6.5x5.0x0.3cm. Heavy serosang drainage, no odor. Wound bed 58% gran, 42% slough. Periwound erythematous. Foam dsg changed. Pt c/o discomfort w/ dsg change. Dr. Johansson notified.",l.castillo,,1,True
+449,284,org_facility_c,85016,Wound (IDT),2026-05-07T22:35:00,"Subjective: Patient reports pain at Left lower leg wound site, rates 4/10.
+Objective: Wound assessment performed. Venous venous Left lower leg measures 6.5 cm x 5.0 cm x 0.3 cm.
+  Wound bed: 59% slough, 41% granulation tissue. Periwound: erythematous.
+  Drainage: heavy. Odor: none.
+Assessment: Venous venous Left lower leg — not improving.
+Plan: Continue current dressing regimen. Negative pressure wound therapy initiated.",a.bergstrom,,1,True
+450,285,org_facility_c,89255,Wound (IDT),2026-05-04T08:01:00,"Wound note - Rightlowerex. Meas 0.5x0.5x0.2cm. Mod serosang drainage, no odor. Wound bed 78% gran, 22% slough. Periwound erythematous. Foam dsg changed. Pt tolerated well. Dr. Castillo notified.",p.johansson,,1,True
+451,286,org_facility_c,94545,Wound (IDT),2026-05-11T10:31:00,"Pt seen for wound eval. Pressure Ulcer Left buttock measures aprx 8.3 x 5.7cm, depth 2.1cm.
+Min drainage serosanguineous. Heel wound also eval - R heel 5.0x3.4, 1.1cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Mon.",d.espinoza,,1,True
+452,287,org_facility_c,93168,HP Skin & Wound Note,2026-05-06T02:24:00,"Wound note - Leftheel. Meas 3.5x3.9x0.8cm. Mod serosang drainage, no odor. Wound bed 58% gran, 42% slough. Periwound intact. Alginate dsg applied. Pt tolerated well. Dr. Espinoza notified.",l.castillo,,1,True
+453,287,org_facility_c,83180,Wound (SPN),2026-05-05T08:40:00,"Wound note - Leftheel. Meas 3.5x3.9x0.8cm. Mod serosang drainage, odor present. Wound bed 39% gran, 61% slough. Periwound macerated. Collagen dsg changed. Pt c/o discomfort w/ dsg change. Dr. Kaczmarek notified.",f.morales,,1,True
+454,288,org_facility_c,95626,Wound (IDT),2026-05-15T11:30:00,"Wound note - Rightlowerle. Meas 5.5x1.8x0.5cm. Heavy serosang drainage, no odor. Wound bed 37% gran, 63% slough. Periwound erythematous. Alginate dsg applied. Pt c/o discomfort w/ dsg change. Dr. Ramirez notified.",m.lefebvre,,1,True
+455,288,org_facility_c,91133,Wound Care Progress Note,2026-05-10T02:24:00,"Subjective: Patient reports pain at Right lower leg wound site, rates 7/10.
+Objective: Wound assessment performed. Venous venous Right lower leg measures 5.5 cm x 1.8 cm x 0.5 cm.
+  Wound bed: 21% slough, 79% granulation tissue. Periwound: indurated.
+  Drainage: heavy. Odor: present, foul.
+Assessment: Venous venous Right lower leg — improving.
+Plan: Debridement consult ordered. Negative pressure wound therapy initiated.",s.okafor,,1,True
+456,289,org_facility_c,90909,Wound (SPN),2026-05-05T02:31:00,"Pt seen for wound eval. Diabetic Left plantar measures aprx 1.2 x 1.6cm, depth 0.6cm.
+Min drainage serous. Heel wound also eval - L heel 0.7x1.0, 0.3cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",b.nguyen,,1,True
+457,289,org_facility_c,88856,Wound (SPN),2026-05-10T11:36:00,"Subjective: Patient reports pain at Left plantar wound site, rates 4/10.
+Objective: Wound assessment performed. Diabetic diabetic Left plantar measures 1.2 cm x 1.6 cm x 0.6 cm.
+  Wound bed: 25% slough, 75% granulation tissue. Periwound: intact.
+  Drainage: light. Odor: present, foul.
+Assessment: Diabetic diabetic Left plantar — not improving.
+Plan: Foam dressing change daily. Debridement consult ordered.",w.oduya,,1,True
+458,290,org_facility_c,86537,HP Skin & Wound Note,2026-05-08T20:57:00,"Subjective: Patient reports pain at Right buttock wound site, rates 4/10.
+Objective: Wound assessment performed. Stage 3 pressure ulcer Right buttock measures 6.0 cm x 5.0 cm x 0.5 cm.
+  Wound bed: 43% slough, 57% granulation tissue. Periwound: indurated.
+  Drainage: light. Odor: present, foul.
+Assessment: Stage 3 pressure ulcer Right buttock — improving.
+Plan: Continue current dressing regimen. Nutritional consult ordered.",g.ramirez,,1,True
+459,290,org_facility_c,92677,Wound (SPN),2026-05-14T22:15:00,"Subjective: Patient reports pain at Right buttock wound site, rates 4/10.
+Objective: Wound assessment performed. Stage 3 pressure ulcer Right buttock measures 6.0 cm x 5.0 cm x 0.5 cm.
+  Wound bed: 75% slough, 25% granulation tissue. Periwound: intact.
+  Drainage: light. Odor: none.
+Assessment: Stage 3 pressure ulcer Right buttock — improving.
+Plan: Nutritional consult ordered. Physician notified of wound progression.",c.nakamura,,1,True
+460,291,org_facility_c,80393,Wound (IDT),2026-05-08T10:55:00,"Wound note - Abdominalwal. Meas 4.3x3.2x1.2cm. Heavy serosang drainage, no odor. Wound bed 34% gran, 66% slough. Periwound intact. Foam dsg changed. Pt c/o discomfort w/ dsg change. Dr. Kaczmarek notified.",w.oduya,,1,True
+461,291,org_facility_c,95743,Wound Care Progress Note,2026-05-04T13:32:00,"Subjective: Patient reports pain at Abdominal wall wound site, rates 7/10.
+Objective: Wound assessment performed. Surgical surgical Abdominal wall measures 4.3 cm x 3.2 cm x 1.2 cm.
+  Wound bed: 43% slough, 57% granulation tissue. Periwound: erythematous.
+  Drainage: heavy. Odor: present, foul.
+Assessment: Surgical surgical Abdominal wall — not improving.
+Plan: Alginate dressing applied. Offloading boot applied.",c.nakamura,,1,True
+462,292,org_facility_c,96296,Wound (SPN),2026-05-13T13:48:00,"Wound note - Leftfoot. Meas 5.5x2.0x1.0cm. Heavy serosang drainage, odor present. Wound bed 67% gran, 33% slough. Periwound intact. Alginate dsg applied. Pt tolerated well. Dr. Okafor notified.",d.espinoza,,1,True
+463,293,org_facility_c,82068,Wound (IDT),2026-05-15T12:24:00,"Wound note - Rightbuttock. Meas 5.8x3.8x3.1cm. Heavy serosang drainage, no odor. Wound bed 63% gran, 37% slough. Periwound macerated. Collagen dsg changed. Pt c/o discomfort w/ dsg change. Dr. Oduya notified.",j.thornton,,1,True
+464,294,org_facility_c,92765,Wound (IDT),2026-05-06T15:56:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Arterial to Right lower extremity / Measures 0.7 cm x 2.0 cm / Stage: N/A
+Drainage present - serous, light. No odor noted. Treatment: Foam dressing change daily.",f.morales,,1,True
+465,294,org_facility_c,90722,Wound (SPN),2026-05-14T16:20:00,"Wound note - Rightlowerex. Meas 0.7x2.0x0.7cm. Light serosang drainage, no odor. Wound bed 80% gran, 20% slough. Periwound macerated. Alginate dsg applied. Pt tolerated well. Dr. Nakamura notified.",c.nakamura,,1,True
+466,295,org_facility_c,83530,Wound Care Progress Note,2026-05-08T09:12:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Abscess to Right cervical / Measures 1.4 cm x 0.7 cm / Stage: N/A
+Drainage present - serous, light. No odor noted. Treatment: Pack with iodoform gauze daily.",g.ramirez,,1,True
+467,295,org_facility_c,85337,Wound Care Progress Note,2026-05-06T04:31:00,"Pt seen for wound eval. Abscess Right cervical measures aprx 1.4 x 0.7cm, depth 0.4cm.
+Min drainage serous. Heel wound also eval - R ankle 0.8x0.4, 0.2cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",l.castillo,,1,True
+468,296,org_facility_c,97192,Wound (SPN),2026-05-16T08:35:00,"Wound note - Rightplantar. Meas 3.0x3.8x0.4cm. None serosang drainage, odor present. Wound bed 35% gran, 65% slough. Periwound macerated. Collagen dsg changed. Pt tolerated well. Dr. Nakamura notified.",d.espinoza,,1,True
+469,297,org_facility_c,93014,HP Skin & Wound Note,2026-05-12T07:03:00,"Wound note - Rightplantar. Meas 3.9x2.1x0.3cm. None serosang drainage, no odor. Wound bed 44% gran, 56% slough. Periwound erythematous. NPWT canister changed. Pt tolerated well. Dr. Thornton notified.",r.patel,,1,True
+470,298,org_facility_c,86761,Wound Care Progress Note,2026-05-04T18:05:00,"Subjective: Patient reports pain at Right heel wound site, rates 5/10.
+Objective: Wound assessment performed. Stage 2 pressure ulcer Right heel measures 3.0 cm x 3.2 cm x 0.3 cm.
+  Wound bed: 44% slough, 56% granulation tissue. Periwound: erythematous.
+  Drainage: light. Odor: none.
+Assessment: Stage 2 pressure ulcer Right heel — not improving.
+Plan: Foam dressing change daily. Debridement consult ordered.",t.kaczmarek,,1,True
+471,298,org_facility_c,96111,HP Skin & Wound Note,2026-05-10T11:22:00,"*Envive Care Conference Review - V 4.0
+Wound Status: Pressure Ulcer to Right heel / Measures 3.0 cm x 3.2 cm / Stage: Stage 2
+Drainage present - serous, light. No odor noted. Treatment: Foam dressing change daily.",t.kaczmarek,,1,True
+472,299,org_facility_c,88849,Wound Care Progress Note,2026-05-04T05:16:00,"Subjective: Patient reports pain at Left buttock wound site, rates 9/10.
+Objective: Wound assessment performed. Stage 2 pressure ulcer Left buttock measures 3.8 cm x 3.2 cm x 0.3 cm.
+  Wound bed: 69% slough, 31% granulation tissue. Periwound: intact.
+  Drainage: none. Odor: none.
+Assessment: Stage 2 pressure ulcer Left buttock — not improving.
+Plan: Alginate dressing applied. Continue current dressing regimen.",j.thornton,,1,True
+473,300,org_facility_c,92231,HP Skin & Wound Note,2026-05-10T08:26:00,"Wound note - Leftplantar. Meas 1.0x2.9x1.3cm. Light serosang drainage, no odor. Wound bed 75% gran, 25% slough. Periwound erythematous. Foam dsg changed. Pt c/o discomfort w/ dsg change. Dr. Bergstrom notified.",p.johansson,,1,True
+474,300,org_facility_c,99012,HP Skin & Wound Note,2026-05-07T12:34:00,"Pt seen for wound eval. Diabetic Left plantar measures aprx 1.0 x 2.9cm, depth 1.3cm.
+Min drainage serous. Heel wound also eval - R heel 0.6x1.7, 0.7cm deep, slight serous.
+Both wounds cleaned w/ NS, covered. Will follow up Thu.",d.espinoza,,1,True

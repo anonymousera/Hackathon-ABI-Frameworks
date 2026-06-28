@@ -1,0 +1,876 @@
+id,patient_id,icd10_code,icd10_description,clinical_status,onset_date,last_modified_at
+1,FA-001,L89.143,Stage 3 Pressure Ulcer – Right hip,active,2025-07-14,2026-05-22T00:52:51.177980
+2,FA-001,Z87.891,Personal history of nicotine dependence,resolved,2025-01-12,2026-05-22T00:52:51.177980
+3,FA-002,L89.319,Unstageable Pressure Ulcer – Left buttock,active,2026-03-15,2026-05-22T00:52:51.177980
+4,FA-002,G30.9,"Alzheimer disease, unspecified",active,2025-07-30,2026-05-22T00:52:51.177980
+5,FA-003,I83.022,Venous Stasis Ulcer – Right Lower Leg,active,2025-06-24,2026-05-22T00:52:51.177980
+6,FA-003,E66.9,"Obesity, unspecified",active,2025-02-05,2026-05-22T00:52:51.177980
+7,FA-003,Z87.891,Personal history of nicotine dependence,resolved,2025-03-15,2026-05-22T00:52:51.177980
+8,FA-004,E11.621,Diabetic Foot Ulcer – Right Plantar,active,2026-04-10,2026-05-22T00:52:51.177980
+9,FA-004,E66.9,"Obesity, unspecified",active,2025-03-14,2026-05-22T00:52:51.177980
+10,FA-005,I83.022,Venous Stasis Ulcer – Right Lower Leg,active,2025-11-28,2026-05-22T00:52:51.177980
+11,FA-005,F03.90,Unspecified dementia without behavioral disturbance,active,2025-11-05,2026-05-22T00:52:51.177980
+12,FA-005,N18.3,"Chronic kidney disease, stage 3",active,2024-03-10,2026-05-22T00:52:51.177980
+13,FA-005,M79.3,"Panniculitis, unspecified",active,2024-08-13,2026-05-22T00:52:51.177980
+14,FA-006,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2025-08-16,2026-05-22T00:52:51.177980
+15,FA-006,M81.0,Age-related osteoporosis without current pathological fracture,active,2025-02-03,2026-05-22T00:52:51.177980
+16,FA-007,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2025-05-12,2026-05-22T00:52:51.177980
+17,FA-007,E78.5,"Hyperlipidemia, unspecified",active,2025-02-08,2026-05-22T00:52:51.177980
+18,FA-007,N18.3,"Chronic kidney disease, stage 3",active,2025-11-06,2026-05-22T00:52:51.177980
+19,FA-007,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2024-05-02,2026-05-22T00:52:51.177980
+20,FA-008,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2025-07-06,2026-05-22T00:52:51.177980
+21,FA-008,I10,Essential (primary) hypertension,active,2026-01-02,2026-05-22T00:52:51.177980
+22,FA-009,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2025-08-22,2026-05-22T00:52:51.177980
+23,FA-009,N18.3,"Chronic kidney disease, stage 3",active,2024-12-04,2026-05-22T00:52:51.177980
+24,FA-010,T81.31XA,Surgical Site Infection – Abdominal,active,2025-11-03,2026-05-22T00:52:51.177980
+25,FA-010,I48.91,Unspecified atrial fibrillation,active,2024-08-30,2026-05-22T00:52:51.177980
+26,FA-010,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2025-11-10,2026-05-22T00:52:51.177980
+27,FA-011,L89.152,Stage 2 Pressure Ulcer – Sacral region,active,2025-09-14,2026-05-22T00:52:51.177980
+28,FA-011,I50.9,"Heart failure, unspecified",active,2024-04-07,2026-05-22T00:52:51.177980
+29,FA-012,L02.211,Abscess – Right Cervical,active,2025-04-23,2026-05-22T00:52:51.177980
+30,FA-012,I10,Essential (primary) hypertension,active,2025-01-20,2026-05-22T00:52:51.177980
+31,FA-013,L02.211,Abscess – Right Cervical,active,2025-10-22,2026-05-22T00:52:51.177980
+32,FA-013,G30.9,"Alzheimer disease, unspecified",active,2026-01-09,2026-05-22T00:52:51.177980
+33,FA-014,L89.312,Stage 2 Pressure Ulcer – Left buttock,active,2025-07-21,2026-05-22T00:52:51.177980
+34,FA-014,G30.9,"Alzheimer disease, unspecified",active,2026-01-09,2026-05-22T00:52:51.177980
+35,FA-014,E78.5,"Hyperlipidemia, unspecified",active,2024-10-18,2026-05-22T00:52:51.177980
+36,FA-015,I83.022,Venous Stasis Ulcer – Right Lower Leg,active,2026-03-07,2026-05-22T00:52:51.177980
+37,FA-015,I48.91,Unspecified atrial fibrillation,active,2025-01-28,2026-05-22T00:52:51.177980
+38,FA-016,I83.022,Venous Stasis Ulcer – Right Lower Leg,active,2025-11-30,2026-05-22T00:52:51.177980
+39,FA-016,E11.9,Type 2 diabetes mellitus without complications,active,2024-08-31,2026-05-22T00:52:51.177980
+40,FA-017,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2025-06-22,2026-05-22T00:52:51.177980
+41,FA-017,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2024-06-23,2026-05-22T00:52:51.177980
+42,FA-017,Z87.891,Personal history of nicotine dependence,resolved,2026-01-18,2026-05-22T00:52:51.177980
+43,FA-018,L89.522,Stage 2 Pressure Ulcer – Right heel,active,2025-11-05,2026-05-22T00:52:51.177980
+44,FA-018,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2025-07-29,2026-05-22T00:52:51.177980
+45,FA-018,E11.9,Type 2 diabetes mellitus without complications,active,2024-04-29,2026-05-22T00:52:51.177980
+46,FA-018,I10,Essential (primary) hypertension,active,2024-08-08,2026-05-22T00:52:51.177980
+47,FA-019,L89.302,Stage 2 Pressure Ulcer – Right buttock,active,2025-07-28,2026-05-22T00:52:51.177980
+48,FA-019,Z87.891,Personal history of nicotine dependence,resolved,2024-10-26,2026-05-22T00:52:51.177980
+49,FA-019,Z96.641,Presence of right artificial hip joint,active,2024-06-18,2026-05-22T00:52:51.177980
+50,FA-020,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2026-02-02,2026-05-22T00:52:51.177980
+51,FA-020,M79.3,"Panniculitis, unspecified",active,2025-04-01,2026-05-22T00:52:51.177980
+52,FA-020,F03.90,Unspecified dementia without behavioral disturbance,active,2025-04-14,2026-05-22T00:52:51.177980
+53,FA-021,I70.234,Arterial Ulcer – Right Lower Extremity,active,2025-05-22,2026-05-22T00:52:51.177980
+54,FA-021,M81.0,Age-related osteoporosis without current pathological fracture,active,2025-04-18,2026-05-22T00:52:51.177980
+55,FA-022,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2025-08-27,2026-05-22T00:52:51.177980
+56,FA-022,G30.9,"Alzheimer disease, unspecified",active,2024-11-29,2026-05-22T00:52:51.177980
+57,FA-022,E11.9,Type 2 diabetes mellitus without complications,active,2025-05-30,2026-05-22T00:52:51.177980
+58,FA-023,E11.621,Diabetic Foot Ulcer – Right Plantar,active,2026-03-04,2026-05-22T00:52:51.177980
+59,FA-023,E78.5,"Hyperlipidemia, unspecified",active,2025-01-19,2026-05-22T00:52:51.177980
+60,FA-023,I48.91,Unspecified atrial fibrillation,active,2025-09-22,2026-05-22T00:52:51.177980
+61,FA-024,L89.303,Stage 3 Pressure Ulcer – Right buttock,active,2025-07-18,2026-05-22T00:52:51.177980
+62,FA-024,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2024-12-11,2026-05-22T00:52:51.177980
+63,FA-025,L89.614,Stage 4 Pressure Ulcer – Left heel,active,2026-01-04,2026-05-22T00:52:51.177980
+64,FA-025,M81.0,Age-related osteoporosis without current pathological fracture,active,2024-08-30,2026-05-22T00:52:51.177980
+65,FA-026,T81.31XA,Surgical Site Infection – Abdominal,active,2026-03-19,2026-05-22T00:52:51.177980
+66,FA-026,M81.0,Age-related osteoporosis without current pathological fracture,active,2025-01-08,2026-05-22T00:52:51.177980
+67,FA-026,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2024-04-17,2026-05-22T00:52:51.177980
+68,FA-027,L02.211,Abscess – Right Cervical,active,2026-02-12,2026-05-22T00:52:51.177980
+69,FA-027,E11.9,Type 2 diabetes mellitus without complications,active,2024-08-22,2026-05-22T00:52:51.177980
+70,FA-027,Z87.891,Personal history of nicotine dependence,resolved,2025-04-17,2026-05-22T00:52:51.177980
+71,FA-027,M79.3,"Panniculitis, unspecified",active,2024-05-03,2026-05-22T00:52:51.177980
+72,FA-028,E11.621,Diabetic Foot Ulcer – Right Plantar,active,2025-04-15,2026-05-22T00:52:51.177980
+73,FA-028,Z96.641,Presence of right artificial hip joint,active,2024-07-18,2026-05-22T00:52:51.177980
+74,FA-028,Z87.891,Personal history of nicotine dependence,resolved,2025-12-24,2026-05-22T00:52:51.177980
+75,FA-029,L89.133,Stage 3 Pressure Ulcer – Left hip,active,2025-11-10,2026-05-22T00:52:51.177980
+76,FA-029,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2024-03-24,2026-05-22T00:52:51.177980
+77,FA-029,Z87.891,Personal history of nicotine dependence,resolved,2024-06-03,2026-05-22T00:52:51.177980
+78,FA-029,E66.9,"Obesity, unspecified",active,2025-01-17,2026-05-22T00:52:51.177980
+79,FA-030,L89.523,Stage 3 Pressure Ulcer – Right heel,active,2025-09-05,2026-05-22T00:52:51.177980
+80,FA-030,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2024-07-23,2026-05-22T00:52:51.177980
+81,FA-030,Z96.641,Presence of right artificial hip joint,active,2026-01-22,2026-05-22T00:52:51.177980
+82,FA-030,E66.9,"Obesity, unspecified",active,2025-03-25,2026-05-22T00:52:51.177980
+83,FA-031,L02.211,Abscess – Right Cervical,active,2025-10-31,2026-05-22T00:52:51.177980
+84,FA-031,Z87.891,Personal history of nicotine dependence,resolved,2024-05-10,2026-05-22T00:52:51.177980
+85,FA-032,E11.621,Diabetic Foot Ulcer – Right Plantar,active,2025-06-18,2026-05-22T00:52:51.177980
+86,FA-032,I50.9,"Heart failure, unspecified",active,2025-09-16,2026-05-22T00:52:51.177980
+87,FA-032,E66.9,"Obesity, unspecified",active,2024-04-10,2026-05-22T00:52:51.177980
+88,FA-033,E11.621,Diabetic Foot Ulcer – Right Plantar,active,2025-10-04,2026-05-22T00:52:51.177980
+89,FA-033,E78.5,"Hyperlipidemia, unspecified",active,2025-08-03,2026-05-22T00:52:51.177980
+90,FA-034,L89.612,Stage 2 Pressure Ulcer – Left heel,active,2025-10-21,2026-05-22T00:52:51.177980
+91,FA-034,Z87.891,Personal history of nicotine dependence,resolved,2025-01-18,2026-05-22T00:52:51.177980
+92,FA-035,L02.211,Abscess – Right Cervical,active,2026-04-01,2026-05-22T00:52:51.177980
+93,FA-035,N18.3,"Chronic kidney disease, stage 3",active,2025-08-28,2026-05-22T00:52:51.177980
+94,FA-035,E11.9,Type 2 diabetes mellitus without complications,active,2026-02-06,2026-05-22T00:52:51.177980
+95,FA-036,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2026-03-12,2026-05-22T00:52:51.177980
+96,FA-036,G30.9,"Alzheimer disease, unspecified",active,2024-10-11,2026-05-22T00:52:51.177980
+97,FA-036,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2024-04-24,2026-05-22T00:52:51.177980
+98,FA-036,E78.5,"Hyperlipidemia, unspecified",active,2025-10-08,2026-05-22T00:52:51.177980
+99,FA-037,L89.154,Stage 4 Pressure Ulcer – Sacral region,active,2025-08-31,2026-05-22T00:52:51.177980
+100,FA-037,E66.9,"Obesity, unspecified",active,2024-03-20,2026-05-22T00:52:51.177980
+101,FA-038,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2026-01-27,2026-05-22T00:52:51.177980
+102,FA-038,E66.9,"Obesity, unspecified",active,2025-08-02,2026-05-22T00:52:51.177980
+103,FA-038,I48.91,Unspecified atrial fibrillation,active,2025-03-31,2026-05-22T00:52:51.177980
+104,FA-039,E11.621,Diabetic Foot Ulcer – Right Plantar,active,2025-08-24,2026-05-22T00:52:51.177980
+105,FA-039,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2024-12-15,2026-05-22T00:52:51.177980
+106,FA-040,E11.621,Diabetic Foot Ulcer – Right Plantar,active,2025-07-08,2026-05-22T00:52:51.177980
+107,FA-040,Z96.641,Presence of right artificial hip joint,active,2025-08-29,2026-05-22T00:52:51.177980
+108,FA-040,I50.9,"Heart failure, unspecified",active,2024-07-12,2026-05-22T00:52:51.177980
+109,FA-041,I70.234,Arterial Ulcer – Right Lower Extremity,active,2026-02-03,2026-05-22T00:52:51.177980
+110,FA-041,N18.3,"Chronic kidney disease, stage 3",active,2024-04-02,2026-05-22T00:52:51.177980
+111,FA-041,E11.9,Type 2 diabetes mellitus without complications,active,2025-11-28,2026-05-22T00:52:51.177980
+112,FA-041,Z87.891,Personal history of nicotine dependence,resolved,2025-09-06,2026-05-22T00:52:51.177980
+113,FA-042,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2025-08-17,2026-05-22T00:52:51.177980
+114,FA-042,N18.3,"Chronic kidney disease, stage 3",active,2024-09-15,2026-05-22T00:52:51.177980
+115,FA-043,L02.211,Abscess – Right Cervical,active,2026-03-31,2026-05-22T00:52:51.177980
+116,FA-043,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2024-08-16,2026-05-22T00:52:51.177980
+117,FA-044,T22.219A,Partial Thickness Burn – Left Upper Arm,active,2025-11-02,2026-05-22T00:52:51.177980
+118,FA-044,Z87.891,Personal history of nicotine dependence,resolved,2024-08-11,2026-05-22T00:52:51.177980
+119,FA-044,I48.91,Unspecified atrial fibrillation,active,2026-03-09,2026-05-22T00:52:51.177980
+120,FA-045,L02.211,Abscess – Right Cervical,active,2026-03-04,2026-05-22T00:52:51.177980
+121,FA-045,F03.90,Unspecified dementia without behavioral disturbance,active,2024-12-11,2026-05-22T00:52:51.177980
+122,FA-045,Z96.641,Presence of right artificial hip joint,active,2025-11-05,2026-05-22T00:52:51.177980
+123,FA-045,E11.9,Type 2 diabetes mellitus without complications,active,2024-10-11,2026-05-22T00:52:51.177980
+124,FA-046,E11.621,Diabetic Foot Ulcer – Right Plantar,active,2026-01-18,2026-05-22T00:52:51.177980
+125,FA-046,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2025-08-04,2026-05-22T00:52:51.177980
+126,FA-046,M79.3,"Panniculitis, unspecified",active,2026-03-17,2026-05-22T00:52:51.177980
+127,FA-046,I50.9,"Heart failure, unspecified",active,2026-02-25,2026-05-22T00:52:51.177980
+128,FA-047,E11.621,Diabetic Foot Ulcer – Right Plantar,active,2025-12-19,2026-05-22T00:52:51.177980
+129,FA-047,E66.9,"Obesity, unspecified",active,2024-05-13,2026-05-22T00:52:51.177980
+130,FA-047,I50.9,"Heart failure, unspecified",active,2024-10-03,2026-05-22T00:52:51.177980
+131,FA-048,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2026-03-03,2026-05-22T00:52:51.177980
+132,FA-048,I48.91,Unspecified atrial fibrillation,active,2026-01-27,2026-05-22T00:52:51.177980
+133,FA-048,M81.0,Age-related osteoporosis without current pathological fracture,active,2025-06-19,2026-05-22T00:52:51.177980
+134,FA-048,N18.3,"Chronic kidney disease, stage 3",active,2025-02-27,2026-05-22T00:52:51.177980
+135,FA-049,L89.309,Unstageable Pressure Ulcer – Right buttock,active,2025-07-12,2026-05-22T00:52:51.177980
+136,FA-049,G30.9,"Alzheimer disease, unspecified",active,2024-11-05,2026-05-22T00:52:51.177980
+137,FA-049,E78.5,"Hyperlipidemia, unspecified",active,2024-03-10,2026-05-22T00:52:51.177980
+138,FA-049,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2024-06-01,2026-05-22T00:52:51.177980
+139,FA-050,I70.234,Arterial Ulcer – Right Lower Extremity,active,2025-04-28,2026-05-22T00:52:51.177980
+140,FA-050,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2024-04-19,2026-05-22T00:52:51.177980
+141,FA-051,L02.211,Abscess – Right Cervical,active,2026-03-11,2026-05-22T00:52:51.177980
+142,FA-051,I50.9,"Heart failure, unspecified",active,2025-07-17,2026-05-22T00:52:51.177980
+143,FA-051,Z87.891,Personal history of nicotine dependence,resolved,2024-08-17,2026-05-22T00:52:51.177980
+144,FA-052,T81.31XA,Surgical Site Infection – Abdominal,active,2025-10-02,2026-05-22T00:52:51.177980
+145,FA-052,E78.5,"Hyperlipidemia, unspecified",active,2025-12-17,2026-05-22T00:52:51.177980
+146,FA-052,I10,Essential (primary) hypertension,active,2026-03-15,2026-05-22T00:52:51.177980
+147,FA-053,L89.303,Stage 3 Pressure Ulcer – Right buttock,active,2025-09-09,2026-05-22T00:52:51.177980
+148,FA-053,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2024-11-10,2026-05-22T00:52:51.177980
+149,FA-053,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2026-01-01,2026-05-22T00:52:51.177980
+150,FA-054,I70.234,Arterial Ulcer – Right Lower Extremity,active,2025-06-20,2026-05-22T00:52:51.177980
+151,FA-054,I50.9,"Heart failure, unspecified",active,2024-09-03,2026-05-22T00:52:51.177980
+152,FA-054,G30.9,"Alzheimer disease, unspecified",active,2026-02-21,2026-05-22T00:52:51.177980
+153,FA-054,Z96.641,Presence of right artificial hip joint,active,2024-12-03,2026-05-22T00:52:51.177980
+154,FA-055,L02.211,Abscess – Right Cervical,active,2025-09-03,2026-05-22T00:52:51.177980
+155,FA-055,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2024-04-24,2026-05-22T00:52:51.177980
+156,FA-055,F03.90,Unspecified dementia without behavioral disturbance,active,2024-07-26,2026-05-22T00:52:51.177980
+157,FA-056,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2025-04-24,2026-05-22T00:52:51.177980
+158,FA-056,N18.3,"Chronic kidney disease, stage 3",active,2025-06-08,2026-05-22T00:52:51.177980
+159,FA-057,L02.211,Abscess – Right Cervical,active,2025-07-09,2026-05-22T00:52:51.177980
+160,FA-057,F03.90,Unspecified dementia without behavioral disturbance,active,2025-05-29,2026-05-22T00:52:51.177980
+161,FA-058,L89.313,Stage 3 Pressure Ulcer – Left buttock,active,2025-07-15,2026-05-22T00:52:51.177980
+162,FA-058,M79.3,"Panniculitis, unspecified",active,2026-02-06,2026-05-22T00:52:51.177980
+163,FA-058,M81.0,Age-related osteoporosis without current pathological fracture,active,2024-03-14,2026-05-22T00:52:51.177980
+164,FA-059,L02.211,Abscess – Right Cervical,active,2025-12-13,2026-05-22T00:52:51.177980
+165,FA-059,I48.91,Unspecified atrial fibrillation,active,2025-04-25,2026-05-22T00:52:51.177980
+166,FA-060,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2025-09-12,2026-05-22T00:52:51.177980
+167,FA-060,I48.91,Unspecified atrial fibrillation,active,2025-11-05,2026-05-22T00:52:51.177980
+168,FA-061,I70.234,Arterial Ulcer – Right Lower Extremity,active,2025-06-11,2026-05-22T00:52:51.177980
+169,FA-061,I50.9,"Heart failure, unspecified",active,2024-03-11,2026-05-22T00:52:51.177980
+170,FA-061,F03.90,Unspecified dementia without behavioral disturbance,active,2025-08-14,2026-05-22T00:52:51.177980
+171,FA-061,E78.5,"Hyperlipidemia, unspecified",active,2024-06-15,2026-05-22T00:52:51.177980
+172,FA-062,E11.621,Diabetic Foot Ulcer – Right Plantar,active,2025-10-03,2026-05-22T00:52:51.177980
+173,FA-062,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2024-04-20,2026-05-22T00:52:51.177980
+174,FA-062,E78.5,"Hyperlipidemia, unspecified",active,2025-09-25,2026-05-22T00:52:51.177980
+175,FA-062,M79.3,"Panniculitis, unspecified",active,2024-11-23,2026-05-22T00:52:51.177980
+176,FA-063,I70.234,Arterial Ulcer – Right Lower Extremity,active,2025-11-12,2026-05-22T00:52:51.177980
+177,FA-063,I48.91,Unspecified atrial fibrillation,active,2025-09-22,2026-05-22T00:52:51.177980
+178,FA-063,G30.9,"Alzheimer disease, unspecified",active,2025-11-18,2026-05-22T00:52:51.177980
+179,FA-063,E66.9,"Obesity, unspecified",active,2026-03-08,2026-05-22T00:52:51.177980
+180,FA-064,I83.022,Venous Stasis Ulcer – Right Lower Leg,active,2026-03-28,2026-05-22T00:52:51.177980
+181,FA-064,N18.3,"Chronic kidney disease, stage 3",active,2026-02-01,2026-05-22T00:52:51.177980
+182,FA-065,T22.219A,Partial Thickness Burn – Left Upper Arm,active,2025-11-13,2026-05-22T00:52:51.177980
+183,FA-065,N18.3,"Chronic kidney disease, stage 3",active,2024-09-24,2026-05-22T00:52:51.177980
+184,FA-066,L89.309,Unstageable Pressure Ulcer – Right buttock,active,2025-11-13,2026-05-22T00:52:51.177980
+185,FA-066,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2025-11-18,2026-05-22T00:52:51.177980
+186,FA-066,M81.0,Age-related osteoporosis without current pathological fracture,active,2025-12-18,2026-05-22T00:52:51.177980
+187,FA-067,T81.31XA,Surgical Site Infection – Abdominal,active,2026-02-13,2026-05-22T00:52:51.177980
+188,FA-067,E66.9,"Obesity, unspecified",active,2025-04-15,2026-05-22T00:52:51.177980
+189,FA-068,L89.312,Stage 2 Pressure Ulcer – Left buttock,active,2025-06-18,2026-05-22T00:52:51.177980
+190,FA-068,E11.9,Type 2 diabetes mellitus without complications,active,2025-06-06,2026-05-22T00:52:51.177980
+191,FA-069,L89.159,Unstageable Pressure Ulcer – Sacral region,active,2025-07-24,2026-05-22T00:52:51.177980
+192,FA-069,E11.9,Type 2 diabetes mellitus without complications,active,2024-06-30,2026-05-22T00:52:51.177980
+193,FA-069,E78.5,"Hyperlipidemia, unspecified",active,2025-08-26,2026-05-22T00:52:51.177980
+194,FA-070,T22.219A,Partial Thickness Burn – Left Upper Arm,active,2025-05-27,2026-05-22T00:52:51.177980
+195,FA-070,I10,Essential (primary) hypertension,active,2025-04-15,2026-05-22T00:52:51.177980
+196,FA-070,F03.90,Unspecified dementia without behavioral disturbance,active,2025-12-31,2026-05-22T00:52:51.177980
+197,FA-070,I50.9,"Heart failure, unspecified",active,2025-07-20,2026-05-22T00:52:51.177980
+198,FA-071,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2025-06-13,2026-05-22T00:52:51.177980
+199,FA-071,I50.9,"Heart failure, unspecified",active,2025-12-07,2026-05-22T00:52:51.177980
+200,FA-071,E11.9,Type 2 diabetes mellitus without complications,active,2025-04-15,2026-05-22T00:52:51.177980
+201,FA-072,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2025-12-06,2026-05-22T00:52:51.177980
+202,FA-072,M81.0,Age-related osteoporosis without current pathological fracture,active,2025-06-18,2026-05-22T00:52:51.177980
+203,FA-073,L89.614,Stage 4 Pressure Ulcer – Left heel,active,2025-06-22,2026-05-22T00:52:51.177980
+204,FA-073,Z96.641,Presence of right artificial hip joint,active,2024-08-21,2026-05-22T00:52:51.177980
+205,FA-073,I10,Essential (primary) hypertension,active,2025-12-07,2026-05-22T00:52:51.177980
+206,FA-073,M81.0,Age-related osteoporosis without current pathological fracture,active,2025-06-01,2026-05-22T00:52:51.177980
+207,FA-074,I70.234,Arterial Ulcer – Right Lower Extremity,active,2026-01-21,2026-05-22T00:52:51.177980
+208,FA-074,E66.9,"Obesity, unspecified",active,2025-08-27,2026-05-22T00:52:51.177980
+209,FA-075,I70.234,Arterial Ulcer – Right Lower Extremity,active,2025-12-26,2026-05-22T00:52:51.177980
+210,FA-075,Z87.891,Personal history of nicotine dependence,resolved,2025-05-12,2026-05-22T00:52:51.177980
+211,FA-075,Z96.641,Presence of right artificial hip joint,active,2024-03-21,2026-05-22T00:52:51.177980
+212,FA-076,L02.211,Abscess – Right Cervical,active,2025-05-03,2026-05-22T00:52:51.177980
+213,FA-076,G30.9,"Alzheimer disease, unspecified",active,2024-05-02,2026-05-22T00:52:51.177980
+214,FA-076,Z96.641,Presence of right artificial hip joint,active,2025-03-18,2026-05-22T00:52:51.177980
+215,FA-076,F03.90,Unspecified dementia without behavioral disturbance,active,2024-10-17,2026-05-22T00:52:51.177980
+216,FA-077,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2026-02-01,2026-05-22T00:52:51.177980
+217,FA-077,N18.3,"Chronic kidney disease, stage 3",active,2025-04-04,2026-05-22T00:52:51.177980
+218,FA-078,E11.621,Diabetic Foot Ulcer – Right Plantar,active,2026-02-12,2026-05-22T00:52:51.177980
+219,FA-078,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2024-10-21,2026-05-22T00:52:51.177980
+220,FA-079,T81.31XA,Surgical Site Infection – Abdominal,active,2025-06-05,2026-05-22T00:52:51.177980
+221,FA-079,I48.91,Unspecified atrial fibrillation,active,2025-12-03,2026-05-22T00:52:51.177980
+222,FA-079,I50.9,"Heart failure, unspecified",active,2024-10-13,2026-05-22T00:52:51.177980
+223,FA-079,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2024-03-14,2026-05-22T00:52:51.177980
+224,FA-080,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2025-10-11,2026-05-22T00:52:51.177980
+225,FA-080,I50.9,"Heart failure, unspecified",active,2025-02-03,2026-05-22T00:52:51.177980
+226,FA-080,I10,Essential (primary) hypertension,active,2025-02-04,2026-05-22T00:52:51.177980
+227,FA-081,L02.211,Abscess – Right Cervical,active,2025-08-16,2026-05-22T00:52:51.177980
+228,FA-081,G30.9,"Alzheimer disease, unspecified",active,2024-06-02,2026-05-22T00:52:51.177980
+229,FA-081,E66.9,"Obesity, unspecified",active,2025-02-19,2026-05-22T00:52:51.177980
+230,FA-082,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2025-07-08,2026-05-22T00:52:51.177980
+231,FA-082,E11.9,Type 2 diabetes mellitus without complications,active,2024-07-10,2026-05-22T00:52:51.177980
+232,FA-082,M81.0,Age-related osteoporosis without current pathological fracture,active,2024-06-25,2026-05-22T00:52:51.177980
+233,FA-082,I10,Essential (primary) hypertension,active,2024-06-06,2026-05-22T00:52:51.177980
+234,FA-083,I70.234,Arterial Ulcer – Right Lower Extremity,active,2025-08-07,2026-05-22T00:52:51.177980
+235,FA-083,M79.3,"Panniculitis, unspecified",active,2026-01-30,2026-05-22T00:52:51.177980
+236,FA-084,T81.31XA,Surgical Site Infection – Abdominal,active,2025-04-21,2026-05-22T00:52:51.177980
+237,FA-084,I50.9,"Heart failure, unspecified",active,2024-04-09,2026-05-22T00:52:51.177980
+238,FA-084,M79.3,"Panniculitis, unspecified",active,2024-06-06,2026-05-22T00:52:51.177980
+239,FA-084,M81.0,Age-related osteoporosis without current pathological fracture,active,2025-04-24,2026-05-22T00:52:51.177980
+240,FA-085,T22.219A,Partial Thickness Burn – Left Upper Arm,active,2025-12-25,2026-05-22T00:52:51.177980
+241,FA-085,I48.91,Unspecified atrial fibrillation,active,2025-03-09,2026-05-22T00:52:51.177980
+242,FA-085,E66.9,"Obesity, unspecified",active,2024-07-26,2026-05-22T00:52:51.177980
+243,FA-085,G30.9,"Alzheimer disease, unspecified",active,2024-09-07,2026-05-22T00:52:51.177980
+244,FA-086,L89.319,Unstageable Pressure Ulcer – Left buttock,active,2025-11-01,2026-05-22T00:52:51.177980
+245,FA-086,E78.5,"Hyperlipidemia, unspecified",active,2025-08-09,2026-05-22T00:52:51.177980
+246,FA-086,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2024-06-25,2026-05-22T00:52:51.177980
+247,FA-087,L89.319,Unstageable Pressure Ulcer – Left buttock,active,2025-06-01,2026-05-22T00:52:51.177980
+248,FA-087,M81.0,Age-related osteoporosis without current pathological fracture,active,2024-04-18,2026-05-22T00:52:51.177980
+249,FA-088,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2025-10-06,2026-05-22T00:52:51.177980
+250,FA-088,M81.0,Age-related osteoporosis without current pathological fracture,active,2026-02-17,2026-05-22T00:52:51.177980
+251,FA-088,G30.9,"Alzheimer disease, unspecified",active,2024-11-20,2026-05-22T00:52:51.177980
+252,FA-089,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2025-06-08,2026-05-22T00:52:51.177980
+253,FA-089,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2025-10-15,2026-05-22T00:52:51.177980
+254,FA-089,I48.91,Unspecified atrial fibrillation,active,2024-08-18,2026-05-22T00:52:51.177980
+255,FA-089,Z87.891,Personal history of nicotine dependence,resolved,2024-08-17,2026-05-22T00:52:51.177980
+256,FA-090,I70.234,Arterial Ulcer – Right Lower Extremity,active,2026-04-01,2026-05-22T00:52:51.177980
+257,FA-090,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2024-11-22,2026-05-22T00:52:51.177980
+258,FA-090,M79.3,"Panniculitis, unspecified",active,2024-05-20,2026-05-22T00:52:51.177980
+259,FA-090,M81.0,Age-related osteoporosis without current pathological fracture,active,2025-10-19,2026-05-22T00:52:51.177980
+260,FA-091,I83.022,Venous Stasis Ulcer – Right Lower Leg,active,2025-10-03,2026-05-22T00:52:51.177980
+261,FA-091,E66.9,"Obesity, unspecified",active,2026-02-01,2026-05-22T00:52:51.177980
+262,FA-091,F03.90,Unspecified dementia without behavioral disturbance,active,2026-02-08,2026-05-22T00:52:51.177980
+263,FA-092,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2026-01-02,2026-05-22T00:52:51.177980
+264,FA-092,I50.9,"Heart failure, unspecified",active,2026-02-26,2026-05-22T00:52:51.177980
+265,FA-092,G30.9,"Alzheimer disease, unspecified",active,2025-07-14,2026-05-22T00:52:51.177980
+266,FA-092,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2026-02-04,2026-05-22T00:52:51.177980
+267,FA-093,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2026-02-23,2026-05-22T00:52:51.177980
+268,FA-093,N18.3,"Chronic kidney disease, stage 3",active,2024-10-01,2026-05-22T00:52:51.177980
+269,FA-094,I70.234,Arterial Ulcer – Right Lower Extremity,active,2025-12-09,2026-05-22T00:52:51.177980
+270,FA-094,E11.9,Type 2 diabetes mellitus without complications,active,2024-03-24,2026-05-22T00:52:51.177980
+271,FA-095,I83.022,Venous Stasis Ulcer – Right Lower Leg,active,2025-10-28,2026-05-22T00:52:51.177980
+272,FA-095,Z87.891,Personal history of nicotine dependence,resolved,2024-03-27,2026-05-22T00:52:51.177980
+273,FA-095,I48.91,Unspecified atrial fibrillation,active,2026-01-26,2026-05-22T00:52:51.177980
+274,FA-095,G30.9,"Alzheimer disease, unspecified",active,2025-10-07,2026-05-22T00:52:51.177980
+275,FA-096,I83.022,Venous Stasis Ulcer – Right Lower Leg,active,2025-10-24,2026-05-22T00:52:51.177980
+276,FA-096,N18.3,"Chronic kidney disease, stage 3",active,2025-09-02,2026-05-22T00:52:51.177980
+277,FA-096,Z87.891,Personal history of nicotine dependence,resolved,2024-12-10,2026-05-22T00:52:51.177980
+278,FA-097,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2025-11-23,2026-05-22T00:52:51.177980
+279,FA-097,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2024-04-30,2026-05-22T00:52:51.177980
+280,FA-098,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2025-07-17,2026-05-22T00:52:51.177980
+281,FA-098,M79.3,"Panniculitis, unspecified",active,2025-03-30,2026-05-22T00:52:51.177980
+282,FA-099,T81.31XA,Surgical Site Infection – Abdominal,active,2025-08-13,2026-05-22T00:52:51.177980
+283,FA-099,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2024-08-16,2026-05-22T00:52:51.177980
+284,FA-099,M79.3,"Panniculitis, unspecified",active,2026-01-31,2026-05-22T00:52:51.177980
+285,FA-100,I70.234,Arterial Ulcer – Right Lower Extremity,active,2026-03-14,2026-05-22T00:52:51.177980
+286,FA-100,I50.9,"Heart failure, unspecified",active,2025-04-03,2026-05-22T00:52:51.177980
+287,FA-101,L89.304,Stage 4 Pressure Ulcer – Right buttock,active,2025-07-24,2026-05-22T00:52:51.177980
+288,FA-101,E11.9,Type 2 diabetes mellitus without complications,active,2026-02-13,2026-05-22T00:52:51.177980
+289,FA-102,T22.219A,Partial Thickness Burn – Left Upper Arm,active,2025-11-25,2026-05-22T00:52:51.177980
+290,FA-102,I48.91,Unspecified atrial fibrillation,active,2025-06-18,2026-05-22T00:52:51.177980
+291,FA-102,M79.3,"Panniculitis, unspecified",active,2025-01-22,2026-05-22T00:52:51.177980
+292,FA-102,Z96.641,Presence of right artificial hip joint,active,2025-09-09,2026-05-22T00:52:51.177980
+293,FA-103,L02.211,Abscess – Right Cervical,active,2025-10-04,2026-05-22T00:52:51.177980
+294,FA-103,N18.3,"Chronic kidney disease, stage 3",active,2026-02-14,2026-05-22T00:52:51.177980
+295,FA-103,I48.91,Unspecified atrial fibrillation,active,2025-08-29,2026-05-22T00:52:51.177980
+296,FA-104,L89.312,Stage 2 Pressure Ulcer – Left buttock,active,2025-05-24,2026-05-22T00:52:51.177980
+297,FA-104,I48.91,Unspecified atrial fibrillation,active,2024-09-17,2026-05-22T00:52:51.177980
+298,FA-105,I83.022,Venous Stasis Ulcer – Right Lower Leg,active,2025-07-11,2026-05-22T00:52:51.177980
+299,FA-105,Z87.891,Personal history of nicotine dependence,resolved,2025-06-04,2026-05-22T00:52:51.177980
+300,FA-106,L02.211,Abscess – Right Cervical,active,2025-06-08,2026-05-22T00:52:51.177980
+301,FA-106,M79.3,"Panniculitis, unspecified",active,2026-01-07,2026-05-22T00:52:51.177980
+302,FA-106,E11.9,Type 2 diabetes mellitus without complications,active,2025-05-13,2026-05-22T00:52:51.177980
+303,FA-107,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2026-04-19,2026-05-22T00:52:51.177980
+304,FA-107,E11.9,Type 2 diabetes mellitus without complications,active,2026-03-04,2026-05-22T00:52:51.177980
+305,FA-107,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2024-10-06,2026-05-22T00:52:51.177980
+306,FA-107,Z87.891,Personal history of nicotine dependence,resolved,2025-11-02,2026-05-22T00:52:51.177980
+307,FA-108,T22.219A,Partial Thickness Burn – Left Upper Arm,active,2025-10-30,2026-05-22T00:52:51.177980
+308,FA-108,E66.9,"Obesity, unspecified",active,2024-12-31,2026-05-22T00:52:51.177980
+309,FA-108,M81.0,Age-related osteoporosis without current pathological fracture,active,2025-01-18,2026-05-22T00:52:51.177980
+310,FA-109,T81.31XA,Surgical Site Infection – Abdominal,active,2025-09-15,2026-05-22T00:52:51.177980
+311,FA-109,E78.5,"Hyperlipidemia, unspecified",active,2025-04-26,2026-05-22T00:52:51.177980
+312,FA-109,N18.3,"Chronic kidney disease, stage 3",active,2025-04-02,2026-05-22T00:52:51.177980
+313,FA-110,I83.022,Venous Stasis Ulcer – Right Lower Leg,active,2026-01-05,2026-05-22T00:52:51.177980
+314,FA-110,M79.3,"Panniculitis, unspecified",active,2024-09-05,2026-05-22T00:52:51.177980
+315,FA-110,Z96.641,Presence of right artificial hip joint,active,2024-11-11,2026-05-22T00:52:51.177980
+316,FA-110,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2024-06-21,2026-05-22T00:52:51.177980
+317,FA-111,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2025-06-03,2026-05-22T00:52:51.177980
+318,FA-111,E66.9,"Obesity, unspecified",active,2026-02-18,2026-05-22T00:52:51.177980
+319,FA-111,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2024-08-29,2026-05-22T00:52:51.177980
+320,FA-112,L89.613,Stage 3 Pressure Ulcer – Left heel,active,2025-07-21,2026-05-22T00:52:51.177980
+321,FA-112,I10,Essential (primary) hypertension,active,2025-10-22,2026-05-22T00:52:51.177980
+322,FA-112,I50.9,"Heart failure, unspecified",active,2026-02-18,2026-05-22T00:52:51.177980
+323,FA-112,E78.5,"Hyperlipidemia, unspecified",active,2025-04-28,2026-05-22T00:52:51.177980
+324,FA-113,T22.219A,Partial Thickness Burn – Left Upper Arm,active,2025-06-12,2026-05-22T00:52:51.177980
+325,FA-113,M81.0,Age-related osteoporosis without current pathological fracture,active,2025-05-04,2026-05-22T00:52:51.177980
+326,FA-113,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2025-02-10,2026-05-22T00:52:51.177980
+327,FA-113,I48.91,Unspecified atrial fibrillation,active,2024-07-02,2026-05-22T00:52:51.177980
+328,FA-114,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2025-09-01,2026-05-22T00:52:51.177980
+329,FA-114,I50.9,"Heart failure, unspecified",active,2024-12-11,2026-05-22T00:52:51.177980
+330,FA-115,I70.234,Arterial Ulcer – Right Lower Extremity,active,2025-08-30,2026-05-22T00:52:51.177980
+331,FA-115,F03.90,Unspecified dementia without behavioral disturbance,active,2024-07-13,2026-05-22T00:52:51.177980
+332,FA-115,I10,Essential (primary) hypertension,active,2024-07-14,2026-05-22T00:52:51.177980
+333,FA-116,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2025-07-24,2026-05-22T00:52:51.177980
+334,FA-116,M79.3,"Panniculitis, unspecified",active,2024-04-07,2026-05-22T00:52:51.177980
+335,FA-116,N18.3,"Chronic kidney disease, stage 3",active,2025-08-18,2026-05-22T00:52:51.177980
+336,FA-117,L89.313,Stage 3 Pressure Ulcer – Left buttock,active,2025-11-17,2026-05-22T00:52:51.177980
+337,FA-117,M79.3,"Panniculitis, unspecified",active,2026-03-14,2026-05-22T00:52:51.177980
+338,FA-117,E78.5,"Hyperlipidemia, unspecified",active,2025-11-24,2026-05-22T00:52:51.177980
+339,FA-117,Z96.641,Presence of right artificial hip joint,active,2024-04-17,2026-05-22T00:52:51.177980
+340,FA-118,I83.022,Venous Stasis Ulcer – Right Lower Leg,active,2025-07-01,2026-05-22T00:52:51.177980
+341,FA-118,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2025-11-21,2026-05-22T00:52:51.177980
+342,FA-118,I50.9,"Heart failure, unspecified",active,2025-05-09,2026-05-22T00:52:51.177980
+343,FA-118,Z87.891,Personal history of nicotine dependence,resolved,2024-03-28,2026-05-22T00:52:51.177980
+344,FA-119,I70.234,Arterial Ulcer – Right Lower Extremity,active,2025-10-31,2026-05-22T00:52:51.177980
+345,FA-119,E66.9,"Obesity, unspecified",active,2025-12-05,2026-05-22T00:52:51.177980
+346,FA-119,E11.9,Type 2 diabetes mellitus without complications,active,2024-10-03,2026-05-22T00:52:51.177980
+347,FA-120,T81.31XA,Surgical Site Infection – Abdominal,active,2025-08-24,2026-05-22T00:52:51.177980
+348,FA-120,I50.9,"Heart failure, unspecified",active,2024-04-04,2026-05-22T00:52:51.177980
+349,FA-120,I10,Essential (primary) hypertension,active,2024-11-26,2026-05-22T00:52:51.177980
+350,FA-120,Z96.641,Presence of right artificial hip joint,active,2025-12-11,2026-05-22T00:52:51.177980
+351,FB-001,L89.319,Unstageable Pressure Ulcer – Left buttock,active,2026-01-28,2026-05-22T00:52:51.177980
+352,FB-001,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2025-04-06,2026-05-22T00:52:51.177980
+353,FB-001,I10,Essential (primary) hypertension,active,2025-08-19,2026-05-22T00:52:51.177980
+354,FB-002,I70.234,Arterial Ulcer – Right Lower Extremity,active,2026-01-09,2026-05-22T00:52:51.177980
+355,FB-002,G30.9,"Alzheimer disease, unspecified",active,2025-04-30,2026-05-22T00:52:51.177980
+356,FB-003,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2026-02-09,2026-05-22T00:52:51.177980
+357,FB-003,I50.9,"Heart failure, unspecified",active,2024-06-01,2026-05-22T00:52:51.177980
+358,FB-004,L02.211,Abscess – Right Cervical,active,2025-08-24,2026-05-22T00:52:51.177980
+359,FB-004,I10,Essential (primary) hypertension,active,2025-12-20,2026-05-22T00:52:51.177980
+360,FB-004,M79.3,"Panniculitis, unspecified",active,2025-07-12,2026-05-22T00:52:51.177980
+361,FB-004,Z87.891,Personal history of nicotine dependence,resolved,2024-11-22,2026-05-22T00:52:51.177980
+362,FB-005,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2026-02-14,2026-05-22T00:52:51.177980
+363,FB-005,I10,Essential (primary) hypertension,active,2025-06-09,2026-05-22T00:52:51.177980
+364,FB-005,M81.0,Age-related osteoporosis without current pathological fracture,active,2025-07-05,2026-05-22T00:52:51.177980
+365,FB-005,Z96.641,Presence of right artificial hip joint,active,2025-11-05,2026-05-22T00:52:51.177980
+366,FB-006,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2025-08-19,2026-05-22T00:52:51.177980
+367,FB-006,Z96.641,Presence of right artificial hip joint,active,2025-02-25,2026-05-22T00:52:51.177980
+368,FB-006,M79.3,"Panniculitis, unspecified",active,2024-04-20,2026-05-22T00:52:51.177980
+369,FB-006,N18.3,"Chronic kidney disease, stage 3",active,2024-03-28,2026-05-22T00:52:51.177980
+370,FB-007,L89.152,Stage 2 Pressure Ulcer – Sacral region,active,2025-06-06,2026-05-22T00:52:51.177980
+371,FB-007,E11.9,Type 2 diabetes mellitus without complications,active,2024-07-20,2026-05-22T00:52:51.177980
+372,FB-008,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2025-06-09,2026-05-22T00:52:51.177980
+373,FB-008,I10,Essential (primary) hypertension,active,2025-06-28,2026-05-22T00:52:51.177980
+374,FB-008,F03.90,Unspecified dementia without behavioral disturbance,active,2025-12-05,2026-05-22T00:52:51.177980
+375,FB-008,I48.91,Unspecified atrial fibrillation,active,2026-02-13,2026-05-22T00:52:51.177980
+376,FB-009,L89.522,Stage 2 Pressure Ulcer – Right heel,active,2025-05-16,2026-05-22T00:52:51.177980
+377,FB-009,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2024-04-07,2026-05-22T00:52:51.177980
+378,FB-010,I70.234,Arterial Ulcer – Right Lower Extremity,active,2025-12-16,2026-05-22T00:52:51.177980
+379,FB-010,G30.9,"Alzheimer disease, unspecified",active,2025-09-25,2026-05-22T00:52:51.177980
+380,FB-010,I50.9,"Heart failure, unspecified",active,2024-06-11,2026-05-22T00:52:51.177980
+381,FB-010,E11.9,Type 2 diabetes mellitus without complications,active,2026-01-28,2026-05-22T00:52:51.177980
+382,FB-011,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2026-04-16,2026-05-22T00:52:51.177980
+383,FB-011,I50.9,"Heart failure, unspecified",active,2025-12-19,2026-05-22T00:52:51.177980
+384,FB-012,T22.219A,Partial Thickness Burn – Left Upper Arm,active,2025-05-04,2026-05-22T00:52:51.177980
+385,FB-012,F03.90,Unspecified dementia without behavioral disturbance,active,2025-10-08,2026-05-22T00:52:51.177980
+386,FB-012,I50.9,"Heart failure, unspecified",active,2024-05-03,2026-05-22T00:52:51.177980
+387,FB-013,L89.524,Stage 4 Pressure Ulcer – Right heel,active,2025-04-16,2026-05-22T00:52:51.177980
+388,FB-013,G30.9,"Alzheimer disease, unspecified",active,2025-03-18,2026-05-22T00:52:51.177980
+389,FB-014,L02.211,Abscess – Right Cervical,active,2025-12-29,2026-05-22T00:52:51.177980
+390,FB-014,E78.5,"Hyperlipidemia, unspecified",active,2025-05-22,2026-05-22T00:52:51.177980
+391,FB-015,I70.234,Arterial Ulcer – Right Lower Extremity,active,2025-12-25,2026-05-22T00:52:51.177980
+392,FB-015,E78.5,"Hyperlipidemia, unspecified",active,2024-10-21,2026-05-22T00:52:51.177980
+393,FB-015,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2024-04-23,2026-05-22T00:52:51.177980
+394,FB-016,E11.621,Diabetic Foot Ulcer – Right Plantar,active,2025-06-27,2026-05-22T00:52:51.177980
+395,FB-016,G30.9,"Alzheimer disease, unspecified",active,2025-04-20,2026-05-22T00:52:51.177980
+396,FB-016,E66.9,"Obesity, unspecified",active,2024-11-08,2026-05-22T00:52:51.177980
+397,FB-017,E11.621,Diabetic Foot Ulcer – Right Plantar,active,2025-07-17,2026-05-22T00:52:51.177980
+398,FB-017,M79.3,"Panniculitis, unspecified",active,2025-05-16,2026-05-22T00:52:51.177980
+399,FB-018,L89.309,Unstageable Pressure Ulcer – Right buttock,active,2025-11-08,2026-05-22T00:52:51.177980
+400,FB-018,Z87.891,Personal history of nicotine dependence,resolved,2024-05-07,2026-05-22T00:52:51.177980
+401,FB-018,M79.3,"Panniculitis, unspecified",active,2025-03-16,2026-05-22T00:52:51.177980
+402,FB-018,E11.9,Type 2 diabetes mellitus without complications,active,2025-02-06,2026-05-22T00:52:51.177980
+403,FB-019,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2025-08-10,2026-05-22T00:52:51.177980
+404,FB-019,I48.91,Unspecified atrial fibrillation,active,2026-02-21,2026-05-22T00:52:51.177980
+405,FB-019,F03.90,Unspecified dementia without behavioral disturbance,active,2026-03-18,2026-05-22T00:52:51.177980
+406,FB-019,N18.3,"Chronic kidney disease, stage 3",active,2025-10-14,2026-05-22T00:52:51.177980
+407,FB-020,E11.621,Diabetic Foot Ulcer – Right Plantar,active,2025-11-22,2026-05-22T00:52:51.177980
+408,FB-020,M79.3,"Panniculitis, unspecified",active,2026-01-01,2026-05-22T00:52:51.177980
+409,FB-020,G30.9,"Alzheimer disease, unspecified",active,2024-10-10,2026-05-22T00:52:51.177980
+410,FB-021,L89.303,Stage 3 Pressure Ulcer – Right buttock,active,2026-02-13,2026-05-22T00:52:51.177980
+411,FB-021,I50.9,"Heart failure, unspecified",active,2025-05-10,2026-05-22T00:52:51.177980
+412,FB-021,I48.91,Unspecified atrial fibrillation,active,2025-11-12,2026-05-22T00:52:51.177980
+413,FB-021,N18.3,"Chronic kidney disease, stage 3",active,2025-08-18,2026-05-22T00:52:51.177980
+414,FB-022,I83.022,Venous Stasis Ulcer – Right Lower Leg,active,2025-08-04,2026-05-22T00:52:51.177980
+415,FB-022,I10,Essential (primary) hypertension,active,2026-03-06,2026-05-22T00:52:51.177980
+416,FB-022,E66.9,"Obesity, unspecified",active,2024-09-25,2026-05-22T00:52:51.177980
+417,FB-022,Z87.891,Personal history of nicotine dependence,resolved,2025-08-10,2026-05-22T00:52:51.177980
+418,FB-023,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2025-07-10,2026-05-22T00:52:51.177980
+419,FB-023,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2025-01-06,2026-05-22T00:52:51.177980
+420,FB-023,M81.0,Age-related osteoporosis without current pathological fracture,active,2025-09-08,2026-05-22T00:52:51.177980
+421,FB-024,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2025-08-30,2026-05-22T00:52:51.177980
+422,FB-024,I10,Essential (primary) hypertension,active,2025-07-07,2026-05-22T00:52:51.177980
+423,FB-025,L89.302,Stage 2 Pressure Ulcer – Right buttock,active,2025-07-08,2026-05-22T00:52:51.177980
+424,FB-025,M81.0,Age-related osteoporosis without current pathological fracture,active,2024-03-27,2026-05-22T00:52:51.177980
+425,FB-025,Z96.641,Presence of right artificial hip joint,active,2025-10-03,2026-05-22T00:52:51.177980
+426,FB-025,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2024-11-02,2026-05-22T00:52:51.177980
+427,FB-026,L89.612,Stage 2 Pressure Ulcer – Left heel,active,2025-11-04,2026-05-22T00:52:51.177980
+428,FB-026,F03.90,Unspecified dementia without behavioral disturbance,active,2024-05-16,2026-05-22T00:52:51.177980
+429,FB-027,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2025-05-15,2026-05-22T00:52:51.177980
+430,FB-027,E78.5,"Hyperlipidemia, unspecified",active,2025-02-02,2026-05-22T00:52:51.177980
+431,FB-027,N18.3,"Chronic kidney disease, stage 3",active,2025-07-06,2026-05-22T00:52:51.177980
+432,FB-027,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2024-06-19,2026-05-22T00:52:51.177980
+433,FB-028,I70.234,Arterial Ulcer – Right Lower Extremity,active,2025-09-24,2026-05-22T00:52:51.177980
+434,FB-028,I10,Essential (primary) hypertension,active,2025-10-18,2026-05-22T00:52:51.177980
+435,FB-029,T22.219A,Partial Thickness Burn – Left Upper Arm,active,2025-09-15,2026-05-22T00:52:51.177980
+436,FB-029,I50.9,"Heart failure, unspecified",active,2025-12-01,2026-05-22T00:52:51.177980
+437,FB-030,T22.219A,Partial Thickness Burn – Left Upper Arm,active,2025-11-30,2026-05-22T00:52:51.177980
+438,FB-030,M81.0,Age-related osteoporosis without current pathological fracture,active,2024-11-02,2026-05-22T00:52:51.177980
+439,FB-031,L02.211,Abscess – Right Cervical,active,2025-12-07,2026-05-22T00:52:51.177980
+440,FB-031,G30.9,"Alzheimer disease, unspecified",active,2024-07-21,2026-05-22T00:52:51.177980
+441,FB-032,T81.31XA,Surgical Site Infection – Abdominal,active,2025-09-17,2026-05-22T00:52:51.177980
+442,FB-032,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2025-10-22,2026-05-22T00:52:51.177980
+443,FB-033,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2025-11-10,2026-05-22T00:52:51.177980
+444,FB-033,I50.9,"Heart failure, unspecified",active,2024-10-25,2026-05-22T00:52:51.177980
+445,FB-034,L89.614,Stage 4 Pressure Ulcer – Left heel,active,2025-12-01,2026-05-22T00:52:51.177980
+446,FB-034,E66.9,"Obesity, unspecified",active,2025-08-15,2026-05-22T00:52:51.177980
+447,FB-034,G30.9,"Alzheimer disease, unspecified",active,2024-07-31,2026-05-22T00:52:51.177980
+448,FB-034,Z87.891,Personal history of nicotine dependence,resolved,2026-03-16,2026-05-22T00:52:51.177980
+449,FB-035,T81.31XA,Surgical Site Infection – Abdominal,active,2025-11-05,2026-05-22T00:52:51.177980
+450,FB-035,I48.91,Unspecified atrial fibrillation,active,2026-01-07,2026-05-22T00:52:51.177980
+453,FB-036,E66.9,"Obesity, unspecified",active,2025-05-27,2026-05-22T00:52:51.177980
+451,FB-036,L02.211,Abscess – Right Cervical,active,2025-08-09,2026-05-22T00:52:51.177980
+452,FB-036,G30.9,"Alzheimer disease, unspecified",active,2025-12-25,2026-05-22T00:52:51.177980
+454,FB-036,M79.3,"Panniculitis, unspecified",active,2024-11-26,2026-05-22T00:52:51.177980
+455,FB-037,L89.143,Stage 3 Pressure Ulcer – Right hip,active,2025-06-14,2026-05-22T00:52:51.177980
+456,FB-037,M81.0,Age-related osteoporosis without current pathological fracture,active,2025-12-02,2026-05-22T00:52:51.177980
+457,FB-037,G30.9,"Alzheimer disease, unspecified",active,2024-12-31,2026-05-22T00:52:51.177980
+458,FB-038,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2025-08-21,2026-05-22T00:52:51.177980
+459,FB-038,M81.0,Age-related osteoporosis without current pathological fracture,active,2024-12-15,2026-05-22T00:52:51.177980
+460,FB-039,I83.022,Venous Stasis Ulcer – Right Lower Leg,active,2025-06-23,2026-05-22T00:52:51.177980
+461,FB-039,E78.5,"Hyperlipidemia, unspecified",active,2024-05-17,2026-05-22T00:52:51.177980
+462,FB-039,Z87.891,Personal history of nicotine dependence,resolved,2024-11-26,2026-05-22T00:52:51.177980
+463,FB-039,I48.91,Unspecified atrial fibrillation,active,2025-11-06,2026-05-22T00:52:51.177980
+464,FB-040,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2026-02-24,2026-05-22T00:52:51.177980
+465,FB-040,Z87.891,Personal history of nicotine dependence,resolved,2024-08-22,2026-05-22T00:52:51.177980
+466,FB-040,Z96.641,Presence of right artificial hip joint,active,2026-02-06,2026-05-22T00:52:51.177980
+467,FB-040,I10,Essential (primary) hypertension,active,2024-10-17,2026-05-22T00:52:51.177980
+468,FB-041,L89.522,Stage 2 Pressure Ulcer – Right heel,active,2026-02-04,2026-05-22T00:52:51.177980
+469,FB-041,I48.91,Unspecified atrial fibrillation,active,2024-10-07,2026-05-22T00:52:51.177980
+470,FB-042,L89.152,Stage 2 Pressure Ulcer – Sacral region,active,2025-07-17,2026-05-22T00:52:51.177980
+471,FB-042,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2025-05-13,2026-05-22T00:52:51.177980
+472,FB-042,N18.3,"Chronic kidney disease, stage 3",active,2025-01-12,2026-05-22T00:52:51.177980
+473,FB-042,Z96.641,Presence of right artificial hip joint,active,2024-10-19,2026-05-22T00:52:51.177980
+474,FB-043,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2025-12-05,2026-05-22T00:52:51.177980
+475,FB-043,F03.90,Unspecified dementia without behavioral disturbance,active,2024-12-25,2026-05-22T00:52:51.177980
+476,FB-043,G30.9,"Alzheimer disease, unspecified",active,2024-04-14,2026-05-22T00:52:51.177980
+477,FB-043,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2024-11-04,2026-05-22T00:52:51.177980
+478,FB-044,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2025-07-04,2026-05-22T00:52:51.177980
+479,FB-044,E66.9,"Obesity, unspecified",active,2025-02-27,2026-05-22T00:52:51.177980
+480,FB-044,E78.5,"Hyperlipidemia, unspecified",active,2024-11-19,2026-05-22T00:52:51.177980
+481,FB-045,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2025-12-15,2026-05-22T00:52:51.177980
+482,FB-045,M81.0,Age-related osteoporosis without current pathological fracture,active,2025-12-24,2026-05-22T00:52:51.177980
+483,FB-045,Z87.891,Personal history of nicotine dependence,resolved,2024-09-20,2026-05-22T00:52:51.177980
+484,FB-045,F03.90,Unspecified dementia without behavioral disturbance,active,2024-07-07,2026-05-22T00:52:51.177980
+485,FB-046,E11.621,Diabetic Foot Ulcer – Right Plantar,active,2025-07-10,2026-05-22T00:52:51.177980
+486,FB-046,I10,Essential (primary) hypertension,active,2026-02-19,2026-05-22T00:52:51.177980
+487,FB-046,F03.90,Unspecified dementia without behavioral disturbance,active,2025-01-27,2026-05-22T00:52:51.177980
+488,FB-047,L89.614,Stage 4 Pressure Ulcer – Left heel,active,2025-07-05,2026-05-22T00:52:51.177980
+489,FB-047,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2025-12-19,2026-05-22T00:52:51.177980
+490,FB-048,T22.219A,Partial Thickness Burn – Left Upper Arm,active,2026-02-15,2026-05-22T00:52:51.177980
+491,FB-048,E78.5,"Hyperlipidemia, unspecified",active,2024-12-20,2026-05-22T00:52:51.177980
+492,FB-048,N18.3,"Chronic kidney disease, stage 3",active,2026-03-11,2026-05-22T00:52:51.177980
+493,FB-049,T81.31XA,Surgical Site Infection – Abdominal,active,2026-04-18,2026-05-22T00:52:51.177980
+494,FB-049,G30.9,"Alzheimer disease, unspecified",active,2024-05-24,2026-05-22T00:52:51.177980
+495,FB-049,E66.9,"Obesity, unspecified",active,2026-01-26,2026-05-22T00:52:51.177980
+496,FB-050,L89.312,Stage 2 Pressure Ulcer – Left buttock,active,2025-07-27,2026-05-22T00:52:51.177980
+497,FB-050,I10,Essential (primary) hypertension,active,2024-07-14,2026-05-22T00:52:51.177980
+498,FB-051,L89.159,Unstageable Pressure Ulcer – Sacral region,active,2026-02-26,2026-05-22T00:52:51.177980
+499,FB-051,Z87.891,Personal history of nicotine dependence,resolved,2024-03-20,2026-05-22T00:52:51.177980
+500,FB-052,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2025-11-02,2026-05-22T00:52:51.177980
+501,FB-052,I10,Essential (primary) hypertension,active,2024-12-10,2026-05-22T00:52:51.177980
+502,FB-053,I83.022,Venous Stasis Ulcer – Right Lower Leg,active,2026-01-18,2026-05-22T00:52:51.177980
+503,FB-053,E11.9,Type 2 diabetes mellitus without complications,active,2025-09-21,2026-05-22T00:52:51.177980
+504,FB-054,T22.219A,Partial Thickness Burn – Left Upper Arm,active,2025-11-03,2026-05-22T00:52:51.177980
+505,FB-054,E11.9,Type 2 diabetes mellitus without complications,active,2024-06-14,2026-05-22T00:52:51.177980
+506,FB-055,E11.621,Diabetic Foot Ulcer – Right Plantar,active,2025-07-12,2026-05-22T00:52:51.177980
+507,FB-055,I50.9,"Heart failure, unspecified",active,2025-12-24,2026-05-22T00:52:51.177980
+508,FB-056,T22.219A,Partial Thickness Burn – Left Upper Arm,active,2025-11-26,2026-05-22T00:52:51.177980
+509,FB-056,Z96.641,Presence of right artificial hip joint,active,2025-01-29,2026-05-22T00:52:51.177980
+510,FB-056,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2024-08-04,2026-05-22T00:52:51.177980
+511,FB-057,E11.621,Diabetic Foot Ulcer – Right Plantar,active,2025-10-06,2026-05-22T00:52:51.177980
+512,FB-057,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2026-01-14,2026-05-22T00:52:51.177980
+513,FB-058,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2025-07-24,2026-05-22T00:52:51.177980
+514,FB-058,E66.9,"Obesity, unspecified",active,2024-11-03,2026-05-22T00:52:51.177980
+515,FB-058,Z87.891,Personal history of nicotine dependence,resolved,2024-12-04,2026-05-22T00:52:51.177980
+516,FB-059,L89.319,Unstageable Pressure Ulcer – Left buttock,active,2026-03-28,2026-05-22T00:52:51.177980
+517,FB-059,E11.9,Type 2 diabetes mellitus without complications,active,2024-06-04,2026-05-22T00:52:51.177980
+518,FB-059,I10,Essential (primary) hypertension,active,2024-04-08,2026-05-22T00:52:51.177980
+519,FB-060,L89.522,Stage 2 Pressure Ulcer – Right heel,active,2026-01-06,2026-05-22T00:52:51.177980
+520,FB-060,E78.5,"Hyperlipidemia, unspecified",active,2025-07-19,2026-05-22T00:52:51.177980
+521,FB-061,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2026-02-26,2026-05-22T00:52:51.177980
+522,FB-061,M79.3,"Panniculitis, unspecified",active,2025-09-26,2026-05-22T00:52:51.177980
+523,FB-061,Z96.641,Presence of right artificial hip joint,active,2025-07-06,2026-05-22T00:52:51.177980
+524,FB-061,Z87.891,Personal history of nicotine dependence,resolved,2025-12-13,2026-05-22T00:52:51.177980
+525,FB-062,L89.319,Unstageable Pressure Ulcer – Left buttock,active,2025-06-17,2026-05-22T00:52:51.177980
+526,FB-062,I48.91,Unspecified atrial fibrillation,active,2025-11-03,2026-05-22T00:52:51.177980
+527,FB-062,E78.5,"Hyperlipidemia, unspecified",active,2025-06-09,2026-05-22T00:52:51.177980
+528,FB-063,I70.234,Arterial Ulcer – Right Lower Extremity,active,2025-05-29,2026-05-22T00:52:51.177980
+529,FB-063,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2024-11-13,2026-05-22T00:52:51.177980
+530,FB-064,L89.152,Stage 2 Pressure Ulcer – Sacral region,active,2025-10-04,2026-05-22T00:52:51.177980
+531,FB-064,I50.9,"Heart failure, unspecified",active,2024-12-29,2026-05-22T00:52:51.177980
+532,FB-064,N18.3,"Chronic kidney disease, stage 3",active,2025-07-02,2026-05-22T00:52:51.177980
+533,FB-064,Z96.641,Presence of right artificial hip joint,active,2024-03-11,2026-05-22T00:52:51.177980
+534,FB-065,L89.319,Unstageable Pressure Ulcer – Left buttock,active,2025-09-28,2026-05-22T00:52:51.177980
+535,FB-065,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2024-11-02,2026-05-22T00:52:51.177980
+536,FB-065,E11.9,Type 2 diabetes mellitus without complications,active,2026-03-19,2026-05-22T00:52:51.177980
+537,FB-065,I50.9,"Heart failure, unspecified",active,2025-12-11,2026-05-22T00:52:51.177980
+538,FB-066,L89.612,Stage 2 Pressure Ulcer – Left heel,active,2026-03-29,2026-05-22T00:52:51.177980
+539,FB-066,N18.3,"Chronic kidney disease, stage 3",active,2024-10-02,2026-05-22T00:52:51.177980
+540,FB-067,I70.234,Arterial Ulcer – Right Lower Extremity,active,2025-10-23,2026-05-22T00:52:51.177980
+541,FB-067,E66.9,"Obesity, unspecified",active,2024-05-15,2026-05-22T00:52:51.177980
+542,FB-067,F03.90,Unspecified dementia without behavioral disturbance,active,2024-04-03,2026-05-22T00:52:51.177980
+543,FB-068,T81.31XA,Surgical Site Infection – Abdominal,active,2025-07-20,2026-05-22T00:52:51.177980
+544,FB-068,I48.91,Unspecified atrial fibrillation,active,2024-04-11,2026-05-22T00:52:51.177980
+545,FB-068,F03.90,Unspecified dementia without behavioral disturbance,active,2025-04-14,2026-05-22T00:52:51.177980
+546,FB-068,I10,Essential (primary) hypertension,active,2025-08-03,2026-05-22T00:52:51.177980
+547,FB-069,T81.31XA,Surgical Site Infection – Abdominal,active,2025-06-17,2026-05-22T00:52:51.177980
+548,FB-069,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2024-04-14,2026-05-22T00:52:51.177980
+549,FB-069,M79.3,"Panniculitis, unspecified",active,2025-11-14,2026-05-22T00:52:51.177980
+550,FB-070,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2026-02-04,2026-05-22T00:52:51.177980
+551,FB-070,N18.3,"Chronic kidney disease, stage 3",active,2025-09-01,2026-05-22T00:52:51.177980
+552,FB-071,L02.211,Abscess – Right Cervical,active,2025-06-20,2026-05-22T00:52:51.177980
+553,FB-071,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2024-11-10,2026-05-22T00:52:51.177980
+554,FB-072,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2025-12-13,2026-05-22T00:52:51.177980
+555,FB-072,E11.9,Type 2 diabetes mellitus without complications,active,2025-05-24,2026-05-22T00:52:51.177980
+556,FB-072,M79.3,"Panniculitis, unspecified",active,2024-05-15,2026-05-22T00:52:51.177980
+557,FB-073,T81.31XA,Surgical Site Infection – Abdominal,active,2025-09-17,2026-05-22T00:52:51.177980
+558,FB-073,E78.5,"Hyperlipidemia, unspecified",active,2024-12-31,2026-05-22T00:52:51.177980
+559,FB-074,I70.234,Arterial Ulcer – Right Lower Extremity,active,2026-03-23,2026-05-22T00:52:51.177980
+560,FB-074,G30.9,"Alzheimer disease, unspecified",active,2025-07-08,2026-05-22T00:52:51.177980
+561,FB-074,E78.5,"Hyperlipidemia, unspecified",active,2024-04-25,2026-05-22T00:52:51.177980
+562,FB-074,I48.91,Unspecified atrial fibrillation,active,2024-07-05,2026-05-22T00:52:51.177980
+563,FB-075,L89.319,Unstageable Pressure Ulcer – Left buttock,active,2025-05-16,2026-05-22T00:52:51.177980
+564,FB-075,G30.9,"Alzheimer disease, unspecified",active,2024-07-07,2026-05-22T00:52:51.177980
+565,FB-075,Z87.891,Personal history of nicotine dependence,resolved,2024-12-16,2026-05-22T00:52:51.177980
+566,FB-075,E11.9,Type 2 diabetes mellitus without complications,active,2025-09-29,2026-05-22T00:52:51.177980
+567,FB-076,L89.523,Stage 3 Pressure Ulcer – Right heel,active,2026-04-16,2026-05-22T00:52:51.177980
+568,FB-076,Z96.641,Presence of right artificial hip joint,active,2024-05-17,2026-05-22T00:52:51.177980
+569,FB-077,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2025-08-14,2026-05-22T00:52:51.177980
+570,FB-077,Z96.641,Presence of right artificial hip joint,active,2025-01-05,2026-05-22T00:52:51.177980
+571,FB-078,T81.31XA,Surgical Site Infection – Abdominal,active,2026-01-01,2026-05-22T00:52:51.177980
+572,FB-078,F03.90,Unspecified dementia without behavioral disturbance,active,2024-07-07,2026-05-22T00:52:51.177980
+573,FB-078,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2025-12-07,2026-05-22T00:52:51.177980
+574,FB-079,T22.219A,Partial Thickness Burn – Left Upper Arm,active,2025-07-20,2026-05-22T00:52:51.177980
+575,FB-079,I50.9,"Heart failure, unspecified",active,2025-09-05,2026-05-22T00:52:51.177980
+576,FB-079,E11.9,Type 2 diabetes mellitus without complications,active,2025-01-16,2026-05-22T00:52:51.177980
+577,FB-079,E66.9,"Obesity, unspecified",active,2024-09-03,2026-05-22T00:52:51.177980
+578,FB-080,L02.211,Abscess – Right Cervical,active,2025-07-11,2026-05-22T00:52:51.177980
+579,FB-080,I50.9,"Heart failure, unspecified",active,2025-08-03,2026-05-22T00:52:51.177980
+580,FB-081,L02.211,Abscess – Right Cervical,active,2025-05-20,2026-05-22T00:52:51.177980
+581,FB-081,M81.0,Age-related osteoporosis without current pathological fracture,active,2024-06-09,2026-05-22T00:52:51.177980
+582,FB-081,G30.9,"Alzheimer disease, unspecified",active,2024-07-10,2026-05-22T00:52:51.177980
+583,FB-082,I83.022,Venous Stasis Ulcer – Right Lower Leg,active,2026-04-13,2026-05-22T00:52:51.177980
+584,FB-082,I10,Essential (primary) hypertension,active,2026-02-27,2026-05-22T00:52:51.177980
+585,FB-082,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2025-11-28,2026-05-22T00:52:51.177980
+586,FB-082,M81.0,Age-related osteoporosis without current pathological fracture,active,2026-03-07,2026-05-22T00:52:51.177980
+587,FB-083,L89.613,Stage 3 Pressure Ulcer – Left heel,active,2025-10-31,2026-05-22T00:52:51.177980
+588,FB-083,E78.5,"Hyperlipidemia, unspecified",active,2025-12-24,2026-05-22T00:52:51.177980
+589,FB-084,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2025-11-07,2026-05-22T00:52:51.177980
+590,FB-084,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2024-04-09,2026-05-22T00:52:51.177980
+591,FB-084,F03.90,Unspecified dementia without behavioral disturbance,active,2025-01-21,2026-05-22T00:52:51.177980
+592,FB-085,L89.154,Stage 4 Pressure Ulcer – Sacral region,active,2025-04-28,2026-05-22T00:52:51.177980
+593,FB-085,I50.9,"Heart failure, unspecified",active,2026-02-22,2026-05-22T00:52:51.177980
+594,FB-085,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2024-04-07,2026-05-22T00:52:51.177980
+595,FB-085,I48.91,Unspecified atrial fibrillation,active,2025-01-10,2026-05-22T00:52:51.177980
+596,FB-086,L89.309,Unstageable Pressure Ulcer – Right buttock,active,2026-01-29,2026-05-22T00:52:51.177980
+597,FB-086,I10,Essential (primary) hypertension,active,2025-02-27,2026-05-22T00:52:51.177980
+598,FB-086,M79.3,"Panniculitis, unspecified",active,2025-11-12,2026-05-22T00:52:51.177980
+599,FB-087,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2025-10-19,2026-05-22T00:52:51.177980
+600,FB-087,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2025-09-02,2026-05-22T00:52:51.177980
+601,FB-087,M79.3,"Panniculitis, unspecified",active,2025-05-02,2026-05-22T00:52:51.177980
+602,FB-088,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2025-04-20,2026-05-22T00:52:51.177980
+603,FB-088,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2024-07-03,2026-05-22T00:52:51.177980
+604,FB-088,N18.3,"Chronic kidney disease, stage 3",active,2024-07-07,2026-05-22T00:52:51.177980
+605,FB-088,M81.0,Age-related osteoporosis without current pathological fracture,active,2026-01-03,2026-05-22T00:52:51.177980
+606,FB-089,I70.234,Arterial Ulcer – Right Lower Extremity,active,2025-09-06,2026-05-22T00:52:51.177980
+607,FB-089,M79.3,"Panniculitis, unspecified",active,2024-06-19,2026-05-22T00:52:51.177980
+608,FB-089,M81.0,Age-related osteoporosis without current pathological fracture,active,2025-05-03,2026-05-22T00:52:51.177980
+609,FB-090,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2025-07-14,2026-05-22T00:52:51.177980
+610,FB-090,F03.90,Unspecified dementia without behavioral disturbance,active,2025-10-22,2026-05-22T00:52:51.177980
+611,FC-001,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2025-08-19,2026-05-22T00:52:51.177980
+612,FC-001,I48.91,Unspecified atrial fibrillation,active,2024-04-06,2026-05-22T00:52:51.177980
+613,FC-001,Z96.641,Presence of right artificial hip joint,active,2024-12-28,2026-05-22T00:52:51.177980
+614,FC-001,I50.9,"Heart failure, unspecified",active,2025-03-22,2026-05-22T00:52:51.177980
+615,FC-002,E11.621,Diabetic Foot Ulcer – Right Plantar,active,2026-04-11,2026-05-22T00:52:51.177980
+616,FC-002,E66.9,"Obesity, unspecified",active,2024-10-22,2026-05-22T00:52:51.177980
+617,FC-002,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2025-11-13,2026-05-22T00:52:51.177980
+618,FC-003,L89.303,Stage 3 Pressure Ulcer – Right buttock,active,2025-08-22,2026-05-22T00:52:51.177980
+619,FC-003,E78.5,"Hyperlipidemia, unspecified",active,2024-11-30,2026-05-22T00:52:51.177980
+620,FC-004,T22.219A,Partial Thickness Burn – Left Upper Arm,active,2025-08-04,2026-05-22T00:52:51.177980
+621,FC-004,G30.9,"Alzheimer disease, unspecified",active,2024-08-07,2026-05-22T00:52:51.177980
+622,FC-005,T81.31XA,Surgical Site Infection – Abdominal,active,2026-01-02,2026-05-22T00:52:51.177980
+623,FC-005,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2024-06-10,2026-05-22T00:52:51.177980
+624,FC-005,E66.9,"Obesity, unspecified",active,2024-12-14,2026-05-22T00:52:51.177980
+625,FC-005,E78.5,"Hyperlipidemia, unspecified",active,2025-10-07,2026-05-22T00:52:51.177980
+626,FC-006,T81.31XA,Surgical Site Infection – Abdominal,active,2025-08-23,2026-05-22T00:52:51.177980
+627,FC-006,Z96.641,Presence of right artificial hip joint,active,2024-10-12,2026-05-22T00:52:51.177980
+628,FC-006,F03.90,Unspecified dementia without behavioral disturbance,active,2025-02-04,2026-05-22T00:52:51.177980
+629,FC-006,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2025-09-04,2026-05-22T00:52:51.177980
+630,FC-007,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2026-02-20,2026-05-22T00:52:51.177980
+631,FC-007,Z96.641,Presence of right artificial hip joint,active,2025-04-24,2026-05-22T00:52:51.177980
+632,FC-008,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2026-02-11,2026-05-22T00:52:51.177980
+633,FC-008,E11.9,Type 2 diabetes mellitus without complications,active,2024-09-26,2026-05-22T00:52:51.177980
+634,FC-008,M79.3,"Panniculitis, unspecified",active,2026-02-08,2026-05-22T00:52:51.177980
+635,FC-009,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2025-05-02,2026-05-22T00:52:51.177980
+636,FC-009,Z96.641,Presence of right artificial hip joint,active,2025-06-17,2026-05-22T00:52:51.177980
+637,FC-009,E66.9,"Obesity, unspecified",active,2024-04-04,2026-05-22T00:52:51.177980
+638,FC-009,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2025-09-27,2026-05-22T00:52:51.177980
+639,FC-010,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2025-05-19,2026-05-22T00:52:51.177980
+640,FC-010,M81.0,Age-related osteoporosis without current pathological fracture,active,2024-10-20,2026-05-22T00:52:51.177980
+641,FC-011,E11.621,Diabetic Foot Ulcer – Right Plantar,active,2025-09-06,2026-05-22T00:52:51.177980
+642,FC-011,E78.5,"Hyperlipidemia, unspecified",active,2026-01-29,2026-05-22T00:52:51.177980
+643,FC-011,I10,Essential (primary) hypertension,active,2024-05-25,2026-05-22T00:52:51.177980
+644,FC-012,L89.304,Stage 4 Pressure Ulcer – Right buttock,active,2025-10-31,2026-05-22T00:52:51.177980
+645,FC-012,I50.9,"Heart failure, unspecified",active,2024-05-07,2026-05-22T00:52:51.177980
+646,FC-012,E11.9,Type 2 diabetes mellitus without complications,active,2024-11-20,2026-05-22T00:52:51.177980
+647,FC-013,I83.022,Venous Stasis Ulcer – Right Lower Leg,active,2026-02-03,2026-05-22T00:52:51.177980
+648,FC-013,M81.0,Age-related osteoporosis without current pathological fracture,active,2024-05-14,2026-05-22T00:52:51.177980
+649,FC-013,N18.3,"Chronic kidney disease, stage 3",active,2025-10-26,2026-05-22T00:52:51.177980
+650,FC-014,L89.309,Unstageable Pressure Ulcer – Right buttock,active,2025-06-20,2026-05-22T00:52:51.177980
+651,FC-014,E11.9,Type 2 diabetes mellitus without complications,active,2024-11-05,2026-05-22T00:52:51.177980
+652,FC-015,E11.621,Diabetic Foot Ulcer – Right Plantar,active,2025-05-05,2026-05-22T00:52:51.177980
+653,FC-015,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2025-11-02,2026-05-22T00:52:51.177980
+654,FC-016,L89.133,Stage 3 Pressure Ulcer – Left hip,active,2025-11-22,2026-05-22T00:52:51.177980
+655,FC-016,F03.90,Unspecified dementia without behavioral disturbance,active,2026-01-17,2026-05-22T00:52:51.177980
+656,FC-016,I48.91,Unspecified atrial fibrillation,active,2025-11-16,2026-05-22T00:52:51.177980
+657,FC-016,E78.5,"Hyperlipidemia, unspecified",active,2024-07-30,2026-05-22T00:52:51.177980
+658,FC-017,E11.621,Diabetic Foot Ulcer – Right Plantar,active,2025-10-01,2026-05-22T00:52:51.177980
+659,FC-017,I48.91,Unspecified atrial fibrillation,active,2025-12-01,2026-05-22T00:52:51.177980
+660,FC-017,Z96.641,Presence of right artificial hip joint,active,2024-11-30,2026-05-22T00:52:51.177980
+661,FC-018,I70.234,Arterial Ulcer – Right Lower Extremity,active,2026-03-16,2026-05-22T00:52:51.177980
+662,FC-018,E11.9,Type 2 diabetes mellitus without complications,active,2025-10-09,2026-05-22T00:52:51.177980
+663,FC-019,I70.234,Arterial Ulcer – Right Lower Extremity,active,2025-06-01,2026-05-22T00:52:51.177980
+664,FC-019,I10,Essential (primary) hypertension,active,2025-10-28,2026-05-22T00:52:51.177980
+665,FC-019,N18.3,"Chronic kidney disease, stage 3",active,2026-03-15,2026-05-22T00:52:51.177980
+666,FC-019,E11.9,Type 2 diabetes mellitus without complications,active,2025-03-17,2026-05-22T00:52:51.177980
+667,FC-020,I70.234,Arterial Ulcer – Right Lower Extremity,active,2025-09-27,2026-05-22T00:52:51.177980
+668,FC-020,E11.9,Type 2 diabetes mellitus without complications,active,2025-11-27,2026-05-22T00:52:51.177980
+669,FC-020,M79.3,"Panniculitis, unspecified",active,2024-08-01,2026-05-22T00:52:51.177980
+670,FC-020,I48.91,Unspecified atrial fibrillation,active,2024-11-23,2026-05-22T00:52:51.177980
+671,FC-021,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2026-02-19,2026-05-22T00:52:51.177980
+672,FC-021,I10,Essential (primary) hypertension,active,2025-03-09,2026-05-22T00:52:51.177980
+673,FC-021,Z87.891,Personal history of nicotine dependence,resolved,2025-03-25,2026-05-22T00:52:51.177980
+677,FC-022,E78.5,"Hyperlipidemia, unspecified",active,2024-03-20,2026-05-22T00:52:51.177980
+674,FC-022,I83.022,Venous Stasis Ulcer – Right Lower Leg,active,2025-08-09,2026-05-22T00:52:51.177980
+675,FC-022,I48.91,Unspecified atrial fibrillation,active,2025-08-07,2026-05-22T00:52:51.177980
+676,FC-022,M81.0,Age-related osteoporosis without current pathological fracture,active,2024-12-21,2026-05-22T00:52:51.177980
+678,FC-023,L89.309,Unstageable Pressure Ulcer – Right buttock,active,2026-01-15,2026-05-22T00:52:51.177980
+679,FC-023,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2024-05-13,2026-05-22T00:52:51.177980
+680,FC-023,M79.3,"Panniculitis, unspecified",active,2025-05-12,2026-05-22T00:52:51.177980
+681,FC-023,E11.9,Type 2 diabetes mellitus without complications,active,2026-02-16,2026-05-22T00:52:51.177980
+682,FC-024,I70.234,Arterial Ulcer – Right Lower Extremity,active,2025-12-05,2026-05-22T00:52:51.177980
+683,FC-024,F03.90,Unspecified dementia without behavioral disturbance,active,2024-12-02,2026-05-22T00:52:51.177980
+684,FC-025,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2026-02-05,2026-05-22T00:52:51.177980
+685,FC-025,E78.5,"Hyperlipidemia, unspecified",active,2024-07-07,2026-05-22T00:52:51.177980
+686,FC-026,L02.211,Abscess – Right Cervical,active,2025-04-30,2026-05-22T00:52:51.177980
+687,FC-026,F03.90,Unspecified dementia without behavioral disturbance,active,2025-01-25,2026-05-22T00:52:51.177980
+688,FC-027,I83.022,Venous Stasis Ulcer – Right Lower Leg,active,2026-02-27,2026-05-22T00:52:51.177980
+689,FC-027,M81.0,Age-related osteoporosis without current pathological fracture,active,2026-02-14,2026-05-22T00:52:51.177980
+690,FC-028,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2026-03-26,2026-05-22T00:52:51.177980
+691,FC-028,M79.3,"Panniculitis, unspecified",active,2024-10-16,2026-05-22T00:52:51.177980
+692,FC-028,E66.9,"Obesity, unspecified",active,2025-01-08,2026-05-22T00:52:51.177980
+693,FC-028,Z87.891,Personal history of nicotine dependence,resolved,2025-06-01,2026-05-22T00:52:51.177980
+694,FC-029,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2025-07-27,2026-05-22T00:52:51.177980
+695,FC-029,M81.0,Age-related osteoporosis without current pathological fracture,active,2024-12-11,2026-05-22T00:52:51.177980
+696,FC-030,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2026-01-08,2026-05-22T00:52:51.177980
+697,FC-030,E66.9,"Obesity, unspecified",active,2024-03-10,2026-05-22T00:52:51.177980
+698,FC-030,I10,Essential (primary) hypertension,active,2025-08-13,2026-05-22T00:52:51.177980
+699,FC-030,M79.3,"Panniculitis, unspecified",active,2026-03-17,2026-05-22T00:52:51.177980
+700,FC-031,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2025-09-22,2026-05-22T00:52:51.177980
+701,FC-031,M79.3,"Panniculitis, unspecified",active,2025-04-24,2026-05-22T00:52:51.177980
+702,FC-032,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2026-01-29,2026-05-22T00:52:51.177980
+703,FC-032,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2025-07-28,2026-05-22T00:52:51.177980
+704,FC-032,E11.9,Type 2 diabetes mellitus without complications,active,2024-06-12,2026-05-22T00:52:51.177980
+705,FC-033,I83.022,Venous Stasis Ulcer – Right Lower Leg,active,2025-08-31,2026-05-22T00:52:51.177980
+706,FC-033,Z87.891,Personal history of nicotine dependence,resolved,2026-02-23,2026-05-22T00:52:51.177980
+707,FC-034,L02.211,Abscess – Right Cervical,active,2026-02-25,2026-05-22T00:52:51.177980
+708,FC-034,I48.91,Unspecified atrial fibrillation,active,2025-03-01,2026-05-22T00:52:51.177980
+709,FC-034,I10,Essential (primary) hypertension,active,2025-11-10,2026-05-22T00:52:51.177980
+710,FC-035,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2026-02-02,2026-05-22T00:52:51.177980
+711,FC-035,I10,Essential (primary) hypertension,active,2025-05-05,2026-05-22T00:52:51.177980
+712,FC-035,E11.9,Type 2 diabetes mellitus without complications,active,2024-04-01,2026-05-22T00:52:51.177980
+713,FC-036,L89.159,Unstageable Pressure Ulcer – Sacral region,active,2026-03-04,2026-05-22T00:52:51.177980
+714,FC-036,I50.9,"Heart failure, unspecified",active,2024-11-19,2026-05-22T00:52:51.177980
+715,FC-036,E66.9,"Obesity, unspecified",active,2026-03-20,2026-05-22T00:52:51.177980
+716,FC-036,M81.0,Age-related osteoporosis without current pathological fracture,active,2025-04-23,2026-05-22T00:52:51.177980
+717,FC-037,I83.022,Venous Stasis Ulcer – Right Lower Leg,active,2025-10-06,2026-05-22T00:52:51.177980
+718,FC-037,I50.9,"Heart failure, unspecified",active,2026-03-10,2026-05-22T00:52:51.177980
+719,FC-037,I48.91,Unspecified atrial fibrillation,active,2025-09-01,2026-05-22T00:52:51.177980
+720,FC-038,L89.319,Unstageable Pressure Ulcer – Left buttock,active,2025-06-09,2026-05-22T00:52:51.177980
+721,FC-038,E11.9,Type 2 diabetes mellitus without complications,active,2025-04-30,2026-05-22T00:52:51.177980
+722,FC-038,E78.5,"Hyperlipidemia, unspecified",active,2024-03-24,2026-05-22T00:52:51.177980
+723,FC-038,G30.9,"Alzheimer disease, unspecified",active,2025-09-28,2026-05-22T00:52:51.177980
+724,FC-039,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2026-01-18,2026-05-22T00:52:51.177980
+725,FC-039,I50.9,"Heart failure, unspecified",active,2025-05-01,2026-05-22T00:52:51.177980
+726,FC-039,Z87.891,Personal history of nicotine dependence,resolved,2025-01-21,2026-05-22T00:52:51.177980
+727,FC-040,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2025-11-05,2026-05-22T00:52:51.177980
+728,FC-040,I10,Essential (primary) hypertension,active,2026-03-12,2026-05-22T00:52:51.177980
+729,FC-040,G30.9,"Alzheimer disease, unspecified",active,2025-10-09,2026-05-22T00:52:51.177980
+730,FC-040,E78.5,"Hyperlipidemia, unspecified",active,2025-01-13,2026-05-22T00:52:51.177980
+731,FC-041,L89.524,Stage 4 Pressure Ulcer – Right heel,active,2026-04-19,2026-05-22T00:52:51.177980
+732,FC-041,I50.9,"Heart failure, unspecified",active,2025-05-16,2026-05-22T00:52:51.177980
+733,FC-041,N18.3,"Chronic kidney disease, stage 3",active,2025-05-10,2026-05-22T00:52:51.177980
+734,FC-041,E66.9,"Obesity, unspecified",active,2025-12-28,2026-05-22T00:52:51.177980
+735,FC-042,L89.159,Unstageable Pressure Ulcer – Sacral region,active,2026-01-01,2026-05-22T00:52:51.177980
+736,FC-042,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2025-04-07,2026-05-22T00:52:51.177980
+737,FC-042,I10,Essential (primary) hypertension,active,2025-02-20,2026-05-22T00:52:51.177980
+738,FC-043,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2025-07-20,2026-05-22T00:52:51.177980
+739,FC-043,I10,Essential (primary) hypertension,active,2025-09-18,2026-05-22T00:52:51.177980
+740,FC-043,Z96.641,Presence of right artificial hip joint,active,2025-01-10,2026-05-22T00:52:51.177980
+741,FC-044,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2025-10-25,2026-05-22T00:52:51.177980
+742,FC-044,I48.91,Unspecified atrial fibrillation,active,2025-07-14,2026-05-22T00:52:51.177980
+743,FC-044,Z87.891,Personal history of nicotine dependence,resolved,2024-09-30,2026-05-22T00:52:51.177980
+744,FC-045,T81.31XA,Surgical Site Infection – Abdominal,active,2026-03-01,2026-05-22T00:52:51.177980
+745,FC-045,N18.3,"Chronic kidney disease, stage 3",active,2026-03-02,2026-05-22T00:52:51.177980
+746,FC-046,I70.234,Arterial Ulcer – Right Lower Extremity,active,2025-06-04,2026-05-22T00:52:51.177980
+747,FC-046,Z87.891,Personal history of nicotine dependence,resolved,2025-01-19,2026-05-22T00:52:51.177980
+748,FC-046,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2026-02-25,2026-05-22T00:52:51.177980
+749,FC-047,T22.219A,Partial Thickness Burn – Left Upper Arm,active,2025-11-24,2026-05-22T00:52:51.177980
+750,FC-047,I50.9,"Heart failure, unspecified",active,2025-09-20,2026-05-22T00:52:51.177980
+751,FC-047,M81.0,Age-related osteoporosis without current pathological fracture,active,2025-02-04,2026-05-22T00:52:51.177980
+752,FC-048,L89.159,Unstageable Pressure Ulcer – Sacral region,active,2025-08-21,2026-05-22T00:52:51.177980
+753,FC-048,E66.9,"Obesity, unspecified",active,2025-11-05,2026-05-22T00:52:51.177980
+754,FC-048,N18.3,"Chronic kidney disease, stage 3",active,2025-05-24,2026-05-22T00:52:51.177980
+755,FC-048,E78.5,"Hyperlipidemia, unspecified",active,2026-01-13,2026-05-22T00:52:51.177980
+756,FC-049,L02.211,Abscess – Right Cervical,active,2025-09-12,2026-05-22T00:52:51.177980
+757,FC-049,I10,Essential (primary) hypertension,active,2025-10-22,2026-05-22T00:52:51.177980
+758,FC-050,L89.304,Stage 4 Pressure Ulcer – Right buttock,active,2026-02-03,2026-05-22T00:52:51.177980
+759,FC-050,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2025-06-30,2026-05-22T00:52:51.177980
+760,FC-050,M81.0,Age-related osteoporosis without current pathological fracture,active,2024-06-06,2026-05-22T00:52:51.177980
+761,FC-050,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2025-07-30,2026-05-22T00:52:51.177980
+762,FC-051,L89.313,Stage 3 Pressure Ulcer – Left buttock,active,2025-08-03,2026-05-22T00:52:51.177980
+763,FC-051,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2024-08-31,2026-05-22T00:52:51.177980
+764,FC-052,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2025-07-02,2026-05-22T00:52:51.177980
+765,FC-052,Z87.891,Personal history of nicotine dependence,resolved,2025-01-04,2026-05-22T00:52:51.177980
+766,FC-053,I70.234,Arterial Ulcer – Right Lower Extremity,active,2025-07-01,2026-05-22T00:52:51.177980
+767,FC-053,I50.9,"Heart failure, unspecified",active,2025-09-05,2026-05-22T00:52:51.177980
+768,FC-053,E78.5,"Hyperlipidemia, unspecified",active,2025-02-08,2026-05-22T00:52:51.177980
+769,FC-053,E66.9,"Obesity, unspecified",active,2025-09-26,2026-05-22T00:52:51.177980
+770,FC-054,I83.022,Venous Stasis Ulcer – Right Lower Leg,active,2025-11-30,2026-05-22T00:52:51.177980
+771,FC-054,I10,Essential (primary) hypertension,active,2025-07-15,2026-05-22T00:52:51.177980
+772,FC-055,T22.219A,Partial Thickness Burn – Left Upper Arm,active,2025-12-31,2026-05-22T00:52:51.177980
+773,FC-055,E78.5,"Hyperlipidemia, unspecified",active,2024-11-26,2026-05-22T00:52:51.177980
+774,FC-056,L02.211,Abscess – Right Cervical,active,2025-05-21,2026-05-22T00:52:51.177980
+775,FC-056,I10,Essential (primary) hypertension,active,2024-05-26,2026-05-22T00:52:51.177980
+776,FC-056,I50.9,"Heart failure, unspecified",active,2024-08-08,2026-05-22T00:52:51.177980
+777,FC-057,L89.302,Stage 2 Pressure Ulcer – Right buttock,active,2025-07-17,2026-05-22T00:52:51.177980
+778,FC-057,I10,Essential (primary) hypertension,active,2025-05-02,2026-05-22T00:52:51.177980
+779,FC-057,E78.5,"Hyperlipidemia, unspecified",active,2025-07-28,2026-05-22T00:52:51.177980
+780,FC-058,L89.159,Unstageable Pressure Ulcer – Sacral region,active,2025-08-03,2026-05-22T00:52:51.177980
+781,FC-058,F03.90,Unspecified dementia without behavioral disturbance,active,2024-10-16,2026-05-22T00:52:51.177980
+782,FC-058,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2025-11-26,2026-05-22T00:52:51.177980
+783,FC-059,I83.022,Venous Stasis Ulcer – Right Lower Leg,active,2025-05-12,2026-05-22T00:52:51.177980
+784,FC-059,E78.5,"Hyperlipidemia, unspecified",active,2025-11-28,2026-05-22T00:52:51.177980
+785,FC-060,L89.304,Stage 4 Pressure Ulcer – Right buttock,active,2025-12-25,2026-05-22T00:52:51.177980
+786,FC-060,I10,Essential (primary) hypertension,active,2024-03-16,2026-05-22T00:52:51.177980
+787,FC-060,I48.91,Unspecified atrial fibrillation,active,2025-01-31,2026-05-22T00:52:51.177980
+788,FC-060,E66.9,"Obesity, unspecified",active,2025-06-04,2026-05-22T00:52:51.177980
+789,FC-061,L89.143,Stage 3 Pressure Ulcer – Right hip,active,2025-11-27,2026-05-22T00:52:51.177980
+790,FC-061,Z96.641,Presence of right artificial hip joint,active,2025-04-09,2026-05-22T00:52:51.177980
+791,FC-061,M79.3,"Panniculitis, unspecified",active,2025-09-11,2026-05-22T00:52:51.177980
+792,FC-061,E78.5,"Hyperlipidemia, unspecified",active,2025-07-02,2026-05-22T00:52:51.177980
+793,FC-062,L89.154,Stage 4 Pressure Ulcer – Sacral region,active,2025-05-06,2026-05-22T00:52:51.177980
+794,FC-062,G30.9,"Alzheimer disease, unspecified",active,2024-06-09,2026-05-22T00:52:51.177980
+795,FC-063,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2025-12-13,2026-05-22T00:52:51.177980
+796,FC-063,I10,Essential (primary) hypertension,active,2025-06-11,2026-05-22T00:52:51.177980
+797,FC-063,N18.3,"Chronic kidney disease, stage 3",active,2025-10-28,2026-05-22T00:52:51.177980
+798,FC-064,L89.524,Stage 4 Pressure Ulcer – Right heel,active,2025-11-21,2026-05-22T00:52:51.177980
+799,FC-064,M79.3,"Panniculitis, unspecified",active,2025-12-05,2026-05-22T00:52:51.177980
+800,FC-065,L02.211,Abscess – Right Cervical,active,2025-09-30,2026-05-22T00:52:51.177980
+801,FC-065,I48.91,Unspecified atrial fibrillation,active,2024-05-27,2026-05-22T00:52:51.177980
+802,FC-065,E11.9,Type 2 diabetes mellitus without complications,active,2024-12-25,2026-05-22T00:52:51.177980
+803,FC-065,E78.5,"Hyperlipidemia, unspecified",active,2024-12-04,2026-05-22T00:52:51.177980
+804,FC-066,L02.211,Abscess – Right Cervical,active,2025-11-08,2026-05-22T00:52:51.177980
+805,FC-066,I10,Essential (primary) hypertension,active,2025-12-18,2026-05-22T00:52:51.177980
+806,FC-066,I48.91,Unspecified atrial fibrillation,active,2024-06-04,2026-05-22T00:52:51.177980
+807,FC-067,L89.313,Stage 3 Pressure Ulcer – Left buttock,active,2025-12-25,2026-05-22T00:52:51.177980
+808,FC-067,M81.0,Age-related osteoporosis without current pathological fracture,active,2025-07-12,2026-05-22T00:52:51.177980
+809,FC-067,E11.9,Type 2 diabetes mellitus without complications,active,2024-09-05,2026-05-22T00:52:51.177980
+810,FC-068,T22.219A,Partial Thickness Burn – Left Upper Arm,active,2025-07-19,2026-05-22T00:52:51.177980
+811,FC-068,I10,Essential (primary) hypertension,active,2024-07-10,2026-05-22T00:52:51.177980
+812,FC-068,Z96.641,Presence of right artificial hip joint,active,2025-07-30,2026-05-22T00:52:51.177980
+813,FC-069,L89.612,Stage 2 Pressure Ulcer – Left heel,active,2026-03-23,2026-05-22T00:52:51.177980
+814,FC-069,Z96.641,Presence of right artificial hip joint,active,2025-11-18,2026-05-22T00:52:51.177980
+815,FC-069,E78.5,"Hyperlipidemia, unspecified",active,2026-01-07,2026-05-22T00:52:51.177980
+816,FC-069,Z87.891,Personal history of nicotine dependence,resolved,2024-06-30,2026-05-22T00:52:51.177980
+817,FC-070,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2025-06-13,2026-05-22T00:52:51.177980
+818,FC-070,M79.3,"Panniculitis, unspecified",active,2026-01-19,2026-05-22T00:52:51.177980
+819,FC-071,T22.219A,Partial Thickness Burn – Left Upper Arm,active,2025-11-11,2026-05-22T00:52:51.177980
+820,FC-071,I10,Essential (primary) hypertension,active,2024-04-20,2026-05-22T00:52:51.177980
+821,FC-071,E78.5,"Hyperlipidemia, unspecified",active,2025-09-17,2026-05-22T00:52:51.177980
+822,FC-072,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2025-08-08,2026-05-22T00:52:51.177980
+823,FC-072,Z96.641,Presence of right artificial hip joint,active,2024-04-04,2026-05-22T00:52:51.177980
+824,FC-072,G30.9,"Alzheimer disease, unspecified",active,2026-01-23,2026-05-22T00:52:51.177980
+825,FC-073,L89.614,Stage 4 Pressure Ulcer – Left heel,active,2025-12-14,2026-05-22T00:52:51.177980
+826,FC-073,G30.9,"Alzheimer disease, unspecified",active,2024-04-23,2026-05-22T00:52:51.177980
+827,FC-073,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2024-08-13,2026-05-22T00:52:51.177980
+828,FC-073,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2024-03-23,2026-05-22T00:52:51.177980
+829,FC-074,I83.012,Venous Stasis Ulcer – Left Lower Leg,active,2026-02-21,2026-05-22T00:52:51.177980
+830,FC-074,E11.9,Type 2 diabetes mellitus without complications,active,2025-02-16,2026-05-22T00:52:51.177980
+831,FC-075,I70.234,Arterial Ulcer – Right Lower Extremity,active,2025-04-14,2026-05-22T00:52:51.177980
+832,FC-075,E78.5,"Hyperlipidemia, unspecified",active,2025-10-25,2026-05-22T00:52:51.177980
+833,FC-075,E11.9,Type 2 diabetes mellitus without complications,active,2025-12-04,2026-05-22T00:52:51.177980
+834,FC-076,L89.314,Stage 4 Pressure Ulcer – Left buttock,active,2026-04-09,2026-05-22T00:52:51.177980
+835,FC-076,Z96.641,Presence of right artificial hip joint,active,2025-10-24,2026-05-22T00:52:51.177980
+836,FC-076,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2026-02-05,2026-05-22T00:52:51.177980
+837,FC-077,L89.613,Stage 3 Pressure Ulcer – Left heel,active,2025-05-21,2026-05-22T00:52:51.177980
+838,FC-077,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2024-06-20,2026-05-22T00:52:51.177980
+839,FC-077,M81.0,Age-related osteoporosis without current pathological fracture,active,2025-01-22,2026-05-22T00:52:51.177980
+840,FC-078,I83.022,Venous Stasis Ulcer – Right Lower Leg,active,2026-02-01,2026-05-22T00:52:51.177980
+841,FC-078,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2025-11-19,2026-05-22T00:52:51.177980
+842,FC-079,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2025-07-31,2026-05-22T00:52:51.177980
+843,FC-079,M79.3,"Panniculitis, unspecified",active,2024-11-04,2026-05-22T00:52:51.177980
+844,FC-079,E11.9,Type 2 diabetes mellitus without complications,active,2025-04-28,2026-05-22T00:52:51.177980
+845,FC-080,L89.303,Stage 3 Pressure Ulcer – Right buttock,active,2025-10-10,2026-05-22T00:52:51.177980
+846,FC-080,I50.9,"Heart failure, unspecified",active,2024-08-12,2026-05-22T00:52:51.177980
+847,FC-081,T81.31XA,Surgical Site Infection – Abdominal,active,2025-06-16,2026-05-22T00:52:51.177980
+848,FC-081,M79.3,"Panniculitis, unspecified",active,2025-06-01,2026-05-22T00:52:51.177980
+849,FC-081,G30.9,"Alzheimer disease, unspecified",active,2025-08-09,2026-05-22T00:52:51.177980
+850,FC-082,E11.622,Diabetic Foot Ulcer with Gangrene – Left,active,2026-04-07,2026-05-22T00:52:51.177980
+851,FC-082,Z96.641,Presence of right artificial hip joint,active,2025-04-30,2026-05-22T00:52:51.177980
+852,FC-083,L89.304,Stage 4 Pressure Ulcer – Right buttock,active,2025-07-28,2026-05-22T00:52:51.177980
+853,FC-083,Z96.641,Presence of right artificial hip joint,active,2025-01-18,2026-05-22T00:52:51.177980
+854,FC-083,N18.3,"Chronic kidney disease, stage 3",active,2024-11-03,2026-05-22T00:52:51.177980
+855,FC-084,I70.234,Arterial Ulcer – Right Lower Extremity,active,2025-12-13,2026-05-22T00:52:51.177980
+856,FC-084,Z87.891,Personal history of nicotine dependence,resolved,2026-03-01,2026-05-22T00:52:51.177980
+857,FC-084,F03.90,Unspecified dementia without behavioral disturbance,active,2025-05-04,2026-05-22T00:52:51.177980
+858,FC-085,L02.211,Abscess – Right Cervical,active,2025-11-18,2026-05-22T00:52:51.177980
+859,FC-085,N18.3,"Chronic kidney disease, stage 3",active,2025-05-21,2026-05-22T00:52:51.177980
+860,FC-085,I50.9,"Heart failure, unspecified",active,2026-02-23,2026-05-22T00:52:51.177980
+861,FC-086,E11.621,Diabetic Foot Ulcer – Right Plantar,active,2025-08-01,2026-05-22T00:52:51.177980
+862,FC-086,I48.91,Unspecified atrial fibrillation,active,2024-03-16,2026-05-22T00:52:51.177980
+863,FC-087,E11.621,Diabetic Foot Ulcer – Right Plantar,active,2025-10-03,2026-05-22T00:52:51.177980
+864,FC-087,G30.9,"Alzheimer disease, unspecified",active,2024-10-14,2026-05-22T00:52:51.177980
+865,FC-087,J44.1,Chronic obstructive pulmonary disease with acute exacerbation,active,2025-05-28,2026-05-22T00:52:51.177980
+866,FC-087,E11.9,Type 2 diabetes mellitus without complications,active,2024-11-01,2026-05-22T00:52:51.177980
+867,FC-088,L89.522,Stage 2 Pressure Ulcer – Right heel,active,2026-02-24,2026-05-22T00:52:51.177980
+868,FC-088,E66.9,"Obesity, unspecified",active,2025-08-28,2026-05-22T00:52:51.177980
+869,FC-088,M81.0,Age-related osteoporosis without current pathological fracture,active,2024-08-14,2026-05-22T00:52:51.177980
+870,FC-088,N18.3,"Chronic kidney disease, stage 3",active,2025-05-19,2026-05-22T00:52:51.177980
+871,FC-089,L89.312,Stage 2 Pressure Ulcer – Left buttock,active,2026-04-02,2026-05-22T00:52:51.177980
+872,FC-089,I70.209,Unspecified atherosclerosis of native arteries of extremities,active,2025-10-26,2026-05-22T00:52:51.177980
+873,FC-090,E11.621,Diabetic Foot Ulcer – Left Plantar,active,2025-05-11,2026-05-22T00:52:51.177980
+874,FC-090,M81.0,Age-related osteoporosis without current pathological fracture,active,2025-07-23,2026-05-22T00:52:51.177980
+875,FC-090,N18.3,"Chronic kidney disease, stage 3",active,2024-04-13,2026-05-22T00:52:51.177980
