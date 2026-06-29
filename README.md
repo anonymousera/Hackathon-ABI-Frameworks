@@ -30,7 +30,7 @@ streamlit run src/dashboard.py
 
 | Component | File | Role |
 |---|---|---|
-| Ingestion | `src/database1.py` | Fetch all entities from the PCC API into `hackathon.db` (429 retry) |
+| Ingestion | `src/database.py` | Fetch all entities from the PCC API into `hackathon.db` (429 retry) |
 | DB access | `src/db.py` | Load the SQLite tables into DataFrames |
 | Extraction | `src/extract_notes.py`, `src/extract_assessment.py` | Pull wound fields from free-text notes and structured assessments |
 | LLM fallback | `src/extract_llm.py` | Parse notes regex can't handle (gated on `OPENAI_API_KEY`) |
