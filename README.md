@@ -38,6 +38,8 @@ streamlit run src/dashboard.py
 | Orchestrator | `scripts/run_pipeline.py` | Runs ingest → extract → route → `patient_eligibility.csv` |
 | Dashboard | `src/dashboard.py` | Streamlit biller view of the routing decisions |
 
+Detailed system architecture can be found in [wound_care_pipeline_plan.md](https://github.com/anonymousera/Hackathon-ABI-Frameworks/blob/era/wound_care_pipeline_plan.md) and [pcc_pipeline_flowchart](https://github.com/anonymousera/Hackathon-ABI-Frameworks/blob/era/pcc_pipeline_flowchart.png).
+
 ---
 
 ## The Challenge
