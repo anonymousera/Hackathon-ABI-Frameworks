@@ -1,0 +1,17 @@
+[
+  {
+    "id": 30,
+    "patient_id": 30,
+    "org_id": "org_facility_a",
+    "pcc_assessment_id": 55030,
+    "assessment_type": "Weekly Wound Information Sheet",
+    "status": "Complete",
+    "assessment_date": "2026-05-12",
+    "completion_date": "2026-05-12",
+    "template_id": 3,
+    "assessment_type_description": "Annual",
+    "raw_json": "{\"assessmentId\": 55030, \"assessmentDate\": \"2026-05-12\", \"status\": \"Complete\", \"sections\": [{\"sectionName\": \"LOCATION\", \"questions\": [{\"question\": \"Location\", \"answer\": \"Right heel\"}, {\"question\": \"Laterality\", \"answer\": \"Left\"}]}, {\"sectionName\": \"WOUND\", \"questions\": [{\"question\": \"Wound Type\", \"answer\": \"Pressure Ulcer\"}, {\"question\": \"Stage\", \"answer\": \"Stage 3\"}, {\"question\": \"Length (cm)\", \"answer\": \"3.9\"}, {\"question\": \"Width (cm)\", \"answer\": \"3.6\"}, {\"question\": \"Depth (cm)\", \"answer\": \"0.6\"}]}, {\"sectionName\": \"DRAINAGE\", \"questions\": [{\"question\": \"Drainage Present\", \"answer\": \"Yes\"}, {\"question\": \"Drainage Type\", \"answer\": \"Serosanguineous\"}, {\"question\": \"Drainage Amount\", \"answer\": \"Moderate\"}]}, {\"sectionName\": \"WOUND_BED\", \"questions\": [{\"question\": \"Granulation %\", \"answer\": \"65\"}, {\"question\": \"Slough %\", \"answer\": \"38\"}, {\"question\": \"Periwound\", \"answer\": \"Indurated\"}]}]}",
+    "sync_version": 1,
+    "is_current": true
+  }
+]

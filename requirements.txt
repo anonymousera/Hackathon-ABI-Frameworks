@@ -1,0 +1,5 @@
+pandas
+requests>=2.31.0
+streamlit
+openai>=1.0
+python-dotenv
