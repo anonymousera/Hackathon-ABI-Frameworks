@@ -2,6 +2,8 @@
 
 The dashboard is deployed at : https://anonymousera-hackathon-abi-frameworks-srcdashboard-era-b7nlov.streamlit.app/ 
 
+Worked on by [Era Sarda](https://github.com/anonymousera), [Emily Zhuang](https://github.com/emily-zhuang-code) and [Dora Zhao](https://github.com/Babaigezi). 
+
 ## Running This Implementation
 
 End-to-end: ingest from the PCC API → extract wound fields → route each patient → view in the dashboard.
